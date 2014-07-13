@@ -1,0 +1,13 @@
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\Content\obj\x86\Debug\Pathfinder Workshop 1Content.contentprojResolveAssemblyReference.cache
+C:\Users\computing\Downloads\Pathfinder Workshop 1\Content\obj\x86\Debug\Pathfinder Workshop 1Content.contentprojResolveAssemblyReference.cache
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\Content\obj\x86\Debug\Pathfinder Workshop 1Content.contentprojResolveAssemblyReference.cache
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\Content\obj\x86\Debug\Pathfinder Workshop 1Content.contentprojResolveAssemblyReference.cache
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\Content\obj\x86\Debug\Pathfinder Workshop 1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\Content\obj\x86\Debug\Pathfinder Workshop 1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\Content\obj\x86\Debug\Pathfinder Workshop 1Content.contentprojResolveAssemblyReference.cache
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\Content\obj\x86\Debug\Pathfinder Workshop 1Content.contentprojResolveAssemblyReference.cache

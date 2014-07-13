@@ -1,0 +1,4 @@
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\Content\obj\x86\Debug\ResolveAssemblyReference.cache

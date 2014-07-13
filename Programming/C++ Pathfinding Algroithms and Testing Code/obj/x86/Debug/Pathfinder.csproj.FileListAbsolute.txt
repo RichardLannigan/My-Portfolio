@@ -1,0 +1,273 @@
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Pathfinder.exe
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Pathfinder.pdb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Content\ai.xnb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Content\target.xnb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Content\tile1.xnb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Content\tile2.xnb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Content\0.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Content\1.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Content\2.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Content\3.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder\bin\x86\Debug\Content\4.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Content\ai.xnb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Content\target.xnb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Content\tile1.xnb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Content\tile2.xnb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Content\0.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Content\1.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Content\2.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Content\3.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Content\4.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Pathfinder.exe
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\bin\x86\Debug\Pathfinder.pdb
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\obj\x86\Debug\Pathfinder.exe
+C:\Patrick\Current\Dev Projects\Game Engines\Pathfinder #Random\obj\x86\Debug\Pathfinder.pdb
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Content\ai.xnb
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Content\target.xnb
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Content\tile1.xnb
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Content\tile2.xnb
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Content\0.txt
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Content\1.txt
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Content\2.txt
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Content\3.txt
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Content\4.txt
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Pathfinder.exe
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\bin\x86\Debug\Pathfinder.pdb
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\obj\x86\Debug\Pathfinder.exe
+C:\Patrick\Current\Teaching\2010-2011\CGP3001M Game Engines\Workshop Solutions\Pathfinder #Random\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\ai.xnb
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\target.xnb
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\0.txt
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\1.txt
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\2.txt
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\3.txt
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\4.txt
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Documents\My Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\ai.xnb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\target.xnb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\0.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\1.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\2.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\3.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\4.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2012-2013\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\ai.xnb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\target.xnb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\0.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\1.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\2.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\3.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Content\4.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Dropbox\Patrick\Teaching\2013-2014\CGP3001M Game Engines\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.pdb
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Content\ai.xnb
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Content\target.xnb
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Content\tile1.xnb
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Content\tile2.xnb
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Content\0.txt
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Content\1.txt
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Content\2.txt
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Content\3.txt
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Content\4.txt
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.exe
+C:\Users\computing\Downloads\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.pdb
+C:\Users\computing\Downloads\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\computing\Downloads\Pathfinder Workshop 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\computing\Downloads\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.exe
+C:\Users\computing\Downloads\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.pdb
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\ai.xnb
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\target.xnb
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\tile1.xnb
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\tile2.xnb
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\0.txt
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\1.txt
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\2.txt
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\3.txt
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\4.txt
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.exe
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.pdb
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.exe
+I:\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\ai.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\target.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\0.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\1.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\2.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\3.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Content\4.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\bin\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Pathfinder Workshop 1\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Content\ai.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Content\target.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Content\0.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Content\1.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Content\2.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Content\3.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Content\4.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\bin\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\obj\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\A Star - In Progress\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Content\ai.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Content\target.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Content\0.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Content\1.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Content\2.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Content\3.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Content\4.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\bin\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\obj\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\AVP - In Progress\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\ai.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\target.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\0.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\1.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\2.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\3.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\4.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Pathfinder.exe
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Pathfinder.pdb
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\ai.xnb
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\target.xnb
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\tile1.xnb
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\tile2.xnb
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\0.txt
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\1.txt
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\2.txt
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\3.txt
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\4.txt
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Pathfinder.exe
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\0_Medium.txt
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\ai.xnb
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\target.xnb
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\tile1.xnb
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\tile2.xnb
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\0.txt
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\1.txt
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\2.txt
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\3.txt
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\4.txt
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\0_Medium.txt
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Pathfinder.exe
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Pathfinder.pdb
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Pathfinder.exe
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\obj\x86\Debug\Pathfinder.pdb
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\SpriteFont1.xnb
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\0_Medium.txt
+F:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\test.txt
+I:\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\test.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Algorithm Anaylsis\bin\x86\Debug\Content\maze.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\ai.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\target.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\0.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\1.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\2.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\3.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\4.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\0_Medium.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\maze.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\ai.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\target.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\0.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\1.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\2.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\3.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\4.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\0_Medium.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\maze.txt
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Pathfinder.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Pathfinder.pdb
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\ai.xnb
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\target.xnb
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\tile1.xnb
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\tile2.xnb
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\0.txt
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\1.txt
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\2.txt
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\3.txt
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\4.txt
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\0_Medium.txt
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Content\maze.txt
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Pathfinder.exe
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\bin\x86\Debug\Pathfinder.pdb
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Pathfinder.exe
+F:\3. Third Year\Game Engines\Semester 2\Upload\LAN11205335_CGP3001M_Item 2_Pathfinding\obj\x86\Debug\Pathfinder.pdb
