@@ -1,0 +1,5 @@
+I couldn't find out how to save the project so it isn't limited by a directory. 
+I apologise about that.
+
+Also please place these two files into the Debug folder, "HashTags.txt" and "debug.txt", 
+if you need to create a new project.
