@@ -1,2 +1,0 @@
-emission = stars.
-spotlights = lamposts
