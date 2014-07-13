@@ -1,0 +1,21 @@
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\obj\x86\Release\ToDoList.Properties.Resources.resources
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\obj\x86\Release\ToDoList.ToDoList.resources
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\bin\Release\ToDoList.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\bin\Release\ToDoList.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\obj\x86\Release\ToDoList.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\obj\x86\Release\ToDoList.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList\ToDoList\obj\x86\Release\ToDoList.EditTaskf.resources
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\obj\x86\Release\ToDoList.Properties.Resources.resources
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\obj\x86\Release\ToDoList.ToDoList.resources
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\obj\x86\Release\ToDoList.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\bin\Release\ToDoList.exe
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\bin\Release\ToDoList.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\obj\x86\Release\ToDoList.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\obj\x86\Release\ToDoList.EditTask.resources
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 1 Modules\2. Software Development - CMP1001M\Assignment 2\ToDoList - Simple\ToDoList\obj\x86\Release\ToDoList.Help.resources
