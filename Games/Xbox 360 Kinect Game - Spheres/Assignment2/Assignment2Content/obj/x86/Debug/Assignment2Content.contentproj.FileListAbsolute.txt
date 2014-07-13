@@ -1,0 +1,26 @@
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Assignment2\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\XNA\Assignment2\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Assignment2\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Assignment2_08\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Assignment2_09\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Assignment2_10\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Assignment2_11\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Assignment2_11\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+E:\XNA\Assignment2_12\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+I:\XNA\Assignment2_12\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Assignment2_12\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\XNA\Assignment2_13\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Assignment2_13\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\XNA\Assignment2_14\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Assignment2_14\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\Assignment2_14\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+E:\XNA\Assignment2_15\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Assignment2_15\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Assignment2_16\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\Assignment2_16\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Assignment2_17\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Upload\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache
+I:\XNA\Upload\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\Semester 2 Modules\XNA\Upload\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2Content\obj\x86\Debug\Assignment2Content.contentprojResolveAssemblyReference.cache

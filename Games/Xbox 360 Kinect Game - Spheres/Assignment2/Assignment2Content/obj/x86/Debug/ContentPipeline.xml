@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Red Spheres\Red_Sphere.png</Source>
+      <Name>Red Spheres\Red_Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\Red_Sphere.xnb</Output>
+      <Time>2013-03-10T12:06:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\Sphere_Red.png</Source>
+      <Name>Red Spheres\Sphere_Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\Sphere_Red.xnb</Output>
+      <Time>2013-03-09T13:07:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\Blue_Sphere.png</Source>
+      <Name>Blue Spheres\Blue_Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\Blue_Sphere.xnb</Output>
+      <Time>2013-03-13T15:31:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\Green_Sphere.png</Source>
+      <Name>Green Spheres\Green_Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\Green_Sphere.xnb</Output>
+      <Time>2013-03-21T21:59:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\Red_Sphere_Large.png</Source>
+      <Name>Red Spheres\Red_Sphere_Large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\Red_Sphere_Large.xnb</Output>
+      <Time>2013-03-10T12:09:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Black_Sphere.png</Source>
+      <Name>Black_Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Black_Sphere.xnb</Output>
+      <Time>2013-03-20T14:26:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\Blue_Sphere_Small.png</Source>
+      <Name>Blue Spheres\Blue_Sphere_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\Blue_Sphere_Small.xnb</Output>
+      <Time>2013-03-20T18:43:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\Red_Sphere_Small.png</Source>
+      <Name>Red Spheres\Red_Sphere_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\Red_Sphere_Small.xnb</Output>
+      <Time>2013-03-21T20:05:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2013-03-21T20:58:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\Red_Sphere_Tiny.png</Source>
+      <Name>Red Spheres\Red_Sphere_Tiny</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\Red_Sphere_Tiny.xnb</Output>
+      <Time>2013-03-21T20:04:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\Red_Sphere_Score.png</Source>
+      <Name>Red Spheres\Red_Sphere_Score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\Red_Sphere_Score.xnb</Output>
+      <Time>2013-03-21T20:51:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\Blue_Sphere_Score.png</Source>
+      <Name>Blue Spheres\Blue_Sphere_Score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\Blue_Sphere_Score.xnb</Output>
+      <Time>2013-03-21T20:54:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\Yellow_Sphere.png</Source>
+      <Name>Yellow Spheres\Yellow_Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\Yellow_Sphere.xnb</Output>
+      <Time>2013-03-21T22:00:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\Red_Sphere_Medium.png</Source>
+      <Name>Red Spheres\Red_Sphere_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\Red_Sphere_Medium.xnb</Output>
+      <Time>2013-03-21T20:03:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\Green_Sphere_Score.png</Source>
+      <Name>Green Spheres\Green_Sphere_Score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\Green_Sphere_Score.xnb</Output>
+      <Time>2013-03-21T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\Yellow_Sphere_Score.png</Source>
+      <Name>Yellow Spheres\Yellow_Sphere_Score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\Yellow_Sphere_Score.xnb</Output>
+      <Time>2013-03-21T22:22:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\Blue_Sphere_Large.png</Source>
+      <Name>Blue Spheres\Blue_Sphere_Large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\Blue_Sphere_Large.xnb</Output>
+      <Time>2013-03-22T15:21:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\Green_Sphere_Large.png</Source>
+      <Name>Green Spheres\Green_Sphere_Large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\Green_Sphere_Large.xnb</Output>
+      <Time>2013-03-22T15:22:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\Yellow_Sphere_Large.png</Source>
+      <Name>Yellow Spheres\Yellow_Sphere_Large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\Yellow_Sphere_Large.xnb</Output>
+      <Time>2013-03-22T15:25:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\Blue_Sphere_Medium.png</Source>
+      <Name>Blue Spheres\Blue_Sphere_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\Blue_Sphere_Medium.xnb</Output>
+      <Time>2013-03-22T19:11:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\Blue_Sphere_Medium.png</Source>
+      <Name>Green Spheres\Blue_Sphere_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\Blue_Sphere_Medium.xnb</Output>
+      <Time>2013-03-22T19:14:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\Yellow_Sphere_Medium.png</Source>
+      <Name>Yellow Spheres\Yellow_Sphere_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\Yellow_Sphere_Medium.xnb</Output>
+      <Time>2013-03-22T19:13:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\Green_Sphere_Medium.png</Source>
+      <Name>Green Spheres\Green_Sphere_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\Green_Sphere_Medium.xnb</Output>
+      <Time>2013-03-22T19:12:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\Red_Sphere_Giant.png</Source>
+      <Name>Red Spheres\Red_Sphere_Giant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\Red_Sphere_Giant.xnb</Output>
+      <Time>2013-03-27T14:08:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\Green_Sphere_Giant.png</Source>
+      <Name>Green Spheres\Green_Sphere_Giant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\Green_Sphere_Giant.xnb</Output>
+      <Time>2013-03-27T14:20:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\Yellow_Sphere_Giant.png</Source>
+      <Name>Yellow Spheres\Yellow_Sphere_Giant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\Yellow_Sphere_Giant.xnb</Output>
+      <Time>2013-03-27T14:22:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\Blue_Sphere_Giant.png</Source>
+      <Name>Blue Spheres\Blue_Sphere_Giant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\Blue_Sphere_Giant.xnb</Output>
+      <Time>2013-03-27T14:19:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Collectors\Sphere.png</Source>
+      <Name>Collectors\Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Collectors\Sphere.xnb</Output>
+      <Time>2013-03-31T17:57:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Collectors\Blank_Sphere.png</Source>
+      <Name>Collectors\Blank_Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Collectors\Blank_Sphere.xnb</Output>
+      <Time>2013-03-31T18:01:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\RedSphere_SpriteSheet_Small.png</Source>
+      <Name>Red Spheres\RedSphere_SpriteSheet_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\RedSphere_SpriteSheet_Small.xnb</Output>
+      <Time>2013-04-02T19:58:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\GreenSphere_SpriteSheet_Small.png</Source>
+      <Name>Green Spheres\GreenSphere_SpriteSheet_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\GreenSphere_SpriteSheet_Small.xnb</Output>
+      <Time>2013-04-02T20:03:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\YellowSphere_SpriteSheet_Small.png</Source>
+      <Name>Yellow Spheres\YellowSphere_SpriteSheet_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\YellowSphere_SpriteSheet_Small.xnb</Output>
+      <Time>2013-04-02T20:07:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\BlueSphere_SpriteSheet_Small.png</Source>
+      <Name>Blue Spheres\BlueSphere_SpriteSheet_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\BlueSphere_SpriteSheet_Small.xnb</Output>
+      <Time>2013-04-02T19:59:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\RedSphere_SpriteSheet_Giant.png</Source>
+      <Name>Red Spheres\RedSphere_SpriteSheet_Giant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\RedSphere_SpriteSheet_Giant.xnb</Output>
+      <Time>2013-04-03T17:16:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\RedSphere_SpriteSheet_Large.png</Source>
+      <Name>Red Spheres\RedSphere_SpriteSheet_Large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\RedSphere_SpriteSheet_Large.xnb</Output>
+      <Time>2013-04-03T17:15:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\RedSphere_SpriteSheet_Medium.png</Source>
+      <Name>Red Spheres\RedSphere_SpriteSheet_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\RedSphere_SpriteSheet_Medium.xnb</Output>
+      <Time>2013-04-03T17:15:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\BlueSphere_SpriteSheet_Giant.png</Source>
+      <Name>Blue Spheres\BlueSphere_SpriteSheet_Giant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\BlueSphere_SpriteSheet_Giant.xnb</Output>
+      <Time>2013-04-03T17:19:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\BlueSphere_SpriteSheet_Large.png</Source>
+      <Name>Blue Spheres\BlueSphere_SpriteSheet_Large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\BlueSphere_SpriteSheet_Large.xnb</Output>
+      <Time>2013-04-03T17:18:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\BlueSphere_SpriteSheet_Medium.png</Source>
+      <Name>Blue Spheres\BlueSphere_SpriteSheet_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\BlueSphere_SpriteSheet_Medium.xnb</Output>
+      <Time>2013-04-03T17:18:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\GreenSphere_SpriteSheet_Giant.png</Source>
+      <Name>Green Spheres\GreenSphere_SpriteSheet_Giant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\GreenSphere_SpriteSheet_Giant.xnb</Output>
+      <Time>2013-04-03T17:21:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\GreenSphere_SpriteSheet_Large.png</Source>
+      <Name>Green Spheres\GreenSphere_SpriteSheet_Large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\GreenSphere_SpriteSheet_Large.xnb</Output>
+      <Time>2013-04-03T17:20:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\GreenSphere_SpriteSheet_Medium.png</Source>
+      <Name>Green Spheres\GreenSphere_SpriteSheet_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\GreenSphere_SpriteSheet_Medium.xnb</Output>
+      <Time>2013-04-03T17:20:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\YellowSphere_SpriteSheet_Giant.png</Source>
+      <Name>Yellow Spheres\YellowSphere_SpriteSheet_Giant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\YellowSphere_SpriteSheet_Giant.xnb</Output>
+      <Time>2013-04-03T17:22:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\YellowSphere_SpriteSheet_Large.png</Source>
+      <Name>Yellow Spheres\YellowSphere_SpriteSheet_Large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\YellowSphere_SpriteSheet_Large.xnb</Output>
+      <Time>2013-04-03T17:21:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\YellowSphere_SpriteSheet_Medium.png</Source>
+      <Name>Yellow Spheres\YellowSphere_SpriteSheet_Medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\YellowSphere_SpriteSheet_Medium.xnb</Output>
+      <Time>2013-04-03T17:21:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Spheres\BlueSphere_SpriteSheet_Small_02.png</Source>
+      <Name>Blue Spheres\BlueSphere_SpriteSheet_Small_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blue Spheres\BlueSphere_SpriteSheet_Small_02.xnb</Output>
+      <Time>2013-04-17T20:53:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Green Spheres\GreenSphere_SpriteSheet_Small_02.png</Source>
+      <Name>Green Spheres\GreenSphere_SpriteSheet_Small_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Green Spheres\GreenSphere_SpriteSheet_Small_02.xnb</Output>
+      <Time>2013-04-17T21:07:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Red Spheres\RedSphere_SpriteSheet_Small_02.png</Source>
+      <Name>Red Spheres\RedSphere_SpriteSheet_Small_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Red Spheres\RedSphere_SpriteSheet_Small_02.xnb</Output>
+      <Time>2013-04-17T21:12:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Yellow Spheres\YellowSphere_SpriteSheet_Small_02.png</Source>
+      <Name>Yellow Spheres\YellowSphere_SpriteSheet_Small_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Yellow Spheres\YellowSphere_SpriteSheet_Small_02.xnb</Output>
+      <Time>2013-04-17T21:22:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Black_Sphere_SpriteSheet.png</Source>
+      <Name>Black_Sphere_SpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Black_Sphere_SpriteSheet.xnb</Output>
+      <Time>2013-04-22T12:07:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Blockers_Bar.png</Source>
+      <Name>Blockers_Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Blockers_Bar.xnb</Output>
+      <Time>2013-04-26T12:24:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Enemy_Bar.png</Source>
+      <Name>HUD\Enemy_Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\HUD\Enemy_Bar.xnb</Output>
+      <Time>2013-04-27T13:28:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health_Bar.png</Source>
+      <Name>HUD\Health_Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\HUD\Health_Bar.xnb</Output>
+      <Time>2013-04-27T13:28:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\PlayButton.png</Source>
+      <Name>Menu\PlayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Menu\PlayButton.xnb</Output>
+      <Time>2013-04-26T13:02:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\HUD_Bar.png</Source>
+      <Name>HUD\HUD_Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\HUD\HUD_Bar.xnb</Output>
+      <Time>2013-04-27T13:45:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Collectors\Blocker.png</Source>
+      <Name>Collectors\Blocker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Collectors\Blocker.xnb</Output>
+      <Time>2013-04-29T16:00:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuScreen.jpg</Source>
+      <Name>MenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\MenuScreen.xnb</Output>
+      <Time>2013-05-02T01:11:20.871613+01:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsScreen.jpg</Source>
+      <Name>OptionsScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\OptionsScreen.xnb</Output>
+      <Time>2013-05-02T01:21:06.2620954+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2013-04-26T13:11:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Bounce.wav</Source>
+      <Name>Sounds\Bounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Sounds\Bounce.xnb</Output>
+      <Time>2013-03-20T18:10:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sphere_Merge.wav</Source>
+      <Name>Sounds\Sphere_Merge</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Sounds\Sphere_Merge.xnb</Output>
+      <Time>2013-04-17T22:22:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Eye_Poke.wav</Source>
+      <Name>Sounds\Eye_Poke</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Sounds\Eye_Poke.xnb</Output>
+      <Time>2013-04-30T20:05:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Ambient_Music.mp3</Source>
+      <Name>Sounds\Ambient_Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Sounds\Ambient_Music.xnb</Output>
+      <Extra>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\Sounds\Ambient_Music.wma</Extra>
+      <Time>2011-09-01T17:21:04+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CGP2004M_Item2_Game\Assignment2\Assignment2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-28T19:41:06.5406799+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
