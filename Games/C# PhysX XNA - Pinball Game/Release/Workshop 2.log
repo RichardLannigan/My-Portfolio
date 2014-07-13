@@ -1,0 +1,68 @@
+﻿Build started 23/01/2014 14:52:52.
+     1>Project "C:\Users\computing\Desktop\Upload\Assignment - Pinball Game - Spring Plunger\Workshop 2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Workshop 2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\NVIDIA Corporation\NVIDIA PhysX SDK\3.3.0\\Include" /I.\Graphics\include\win32\ /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D NDEBUG /D _MBCS /Gm- /EHsc /MD /GS /Gy /arch:SSE2 /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PhysicsEngine.cpp "Workshop 2.cpp" Extras\Camera.cpp Extras\GLFontRenderer.cpp Extras\Renderer.cpp
+         PhysicsEngine.cpp
+         Workshop 2.cpp
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(25): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(25): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(26): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(26): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(32): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(102): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(102): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(102): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(106): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(108): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(111): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(111): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(111): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(111): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(116): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(116): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(116): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(119): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(119): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(119): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(119): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(122): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(122): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(122): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\PinballMachine.h(177): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(243): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(254): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(256): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(259): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(264): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(266): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(269): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(305): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(313): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(347): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(347): warning C4305: 'argument' : truncation from 'double' to 'physx::PxReal'
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(468): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\computing\desktop\upload\assignment - pinball game - spring plunger\MyPhysicsEngine.h(496): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+         Camera.cpp
+         GLFontRenderer.cpp
+         Renderer.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\computing\Desktop\Upload\Assignment - Pinball Game - Spring Plunger\Release\Workshop 2.exe" /NOLOGO /LIBPATH:"C:\Program Files (x86)\NVIDIA Corporation\NVIDIA PhysX SDK\3.3.0\\Lib\win32" /LIBPATH:.\Graphics\lib\win32\glut PhysX3_x86.lib PhysX3Common_x86.lib PhysX3Extensions.lib PhysXVisualDebuggerSDK.lib PhysX3Cooking_x86.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCMT /MANIFEST /ManifestFile:"Release\Workshop 2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\computing\Desktop\Upload\Assignment - Pinball Game - Spring Plunger\Release\Workshop 2.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\computing\Desktop\Upload\Assignment - Pinball Game - Spring Plunger\Release\Workshop 2.lib" /MACHINE:X86 Release\PhysicsEngine.obj
+         "Release\Workshop 2.obj"
+         Release\Camera.obj
+         Release\GLFontRenderer.obj
+         Release\Renderer.obj
+         Generating code
+         Finished generating code
+         Workshop 2.vcxproj -> C:\Users\computing\Desktop\Upload\Assignment - Pinball Game - Spring Plunger\Release\Workshop 2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\computing\Desktop\Upload\Assignment - Pinball Game - Spring Plunger\Release\Workshop 2.exe;#1" /manifest "Release\Workshop 2.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Workshop 2.unsuccessfulbuild".
+         Touching "Release\Workshop 2.lastbuildstate".
+     1>Done Building Project "C:\Users\computing\Desktop\Upload\Assignment - Pinball Game - Spring Plunger\Workshop 2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.52

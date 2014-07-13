@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Workshop 2">
+</Property><Property Name="Solution File" Value="F:\3. Third Year\Game Engines\Workshop 2\Workshop 2.sln">
+</Property><Property Name="Date" Value="23 October 2013">
+</Property><Property Name="Time" Value="09:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Workshop 2.sln" Description="File successfully backed up as F:\3. Third Year\Game Engines\Workshop 2\Workshop 2.sln.old">
+</Event><Event ErrorLevel="0" Project="Workshop 2" Source="Workshop 2.vcproj" Description="Converting project file 'F:\3. Third Year\Game Engines\Workshop 2\Workshop 2.vcproj'.">
+</Event><Event ErrorLevel="0" Project="Workshop 2" Source="Macros.vsprops" Description="Converting propertysheet file 'F:\3. Third Year\Game Engines\Workshop 2\Macros.vsprops' for configuration 'Debug|Win32'.">
+</Event><Event ErrorLevel="1" Project="Workshop 2" Source="Macros.vsprops" Description="Attribute 'ProjectType' of 'Macros' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Workshop 2" Source="Macros.vsprops" Description="Attribute 'Version' of 'Macros' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Workshop 2" Source="Macros.vsprops" Description="Done converting to new property sheet file 'F:\3. Third Year\Game Engines\Workshop 2\Macros.vsprops' for configuration 'Debug|Win32'.">
+</Event><Event ErrorLevel="3" Project="Workshop 2" Source="Macros.vsprops" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Workshop 2" Source="Workshop 2.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Workshop 2" Source="Macros.vsprops" Description="Converting propertysheet file 'F:\3. Third Year\Game Engines\Workshop 2\Macros.vsprops' for configuration 'Release|Win32'.">
+</Event><Event ErrorLevel="0" Project="Workshop 2" Source="Macros.vsprops" Description="Done converting to new property sheet file 'F:\3. Third Year\Game Engines\Workshop 2\Macros.vsprops' for configuration 'Release|Win32'.">
+</Event><Event ErrorLevel="0" Project="Workshop 2" Source="Workshop 2.vcproj" Description="Done converting to new project file 'F:\3. Third Year\Game Engines\Workshop 2\Workshop 2.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Workshop 2" Source="Workshop 2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Workshop 2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Workshop 2.sln" Description="Converted">
+</Event></UpgradeLog>
