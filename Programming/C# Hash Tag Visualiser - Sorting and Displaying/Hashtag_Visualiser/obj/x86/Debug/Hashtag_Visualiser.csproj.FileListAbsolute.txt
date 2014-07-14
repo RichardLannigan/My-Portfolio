@@ -1,0 +1,7 @@
+C:\Users\Richard.Richard-PC\Documents\My Portfolio Backup\My-Portfolio\Programming\Hashtag_Visualiser\Hashtag_Visualiser\bin\Debug\Hashtag_Visualiser.exe
+C:\Users\Richard.Richard-PC\Documents\My Portfolio Backup\My-Portfolio\Programming\Hashtag_Visualiser\Hashtag_Visualiser\bin\Debug\Hashtag_Visualiser.pdb
+C:\Users\Richard.Richard-PC\Documents\My Portfolio Backup\My-Portfolio\Programming\Hashtag_Visualiser\Hashtag_Visualiser\obj\x86\Debug\Hashtag_Visualiser.csprojResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\My Portfolio Backup\My-Portfolio\Programming\Hashtag_Visualiser\Hashtag_Visualiser\obj\x86\Debug\Hashtag_Visualiser.exe
+C:\Users\Richard.Richard-PC\Documents\My Portfolio Backup\My-Portfolio\Programming\Hashtag_Visualiser\Hashtag_Visualiser\obj\x86\Debug\Hashtag_Visualiser.pdb
+C:\Users\Richard.Richard-PC\Documents\My Portfolio Backup\My-Portfolio\Programming\C# Hash Tag Visualiser - Sorting and Displaying\Hashtag_Visualiser\obj\x86\Debug\Hashtag_Visualiser.exe
+C:\Users\Richard.Richard-PC\Documents\My Portfolio Backup\My-Portfolio\Programming\C# Hash Tag Visualiser - Sorting and Displaying\Hashtag_Visualiser\obj\x86\Debug\Hashtag_Visualiser.pdb
