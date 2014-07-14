@@ -1,4 +1,0 @@
-C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CMP1001M_Hash Tag Visualiser\LAN11205335_CMP1001M_Hash Tag Visualiser\obj\x86\Debug\LAN11205335_CMP1001M_Hash Tag Visualiser.exe
-C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CMP1001M_Hash Tag Visualiser\LAN11205335_CMP1001M_Hash Tag Visualiser\obj\x86\Debug\LAN11205335_CMP1001M_Hash Tag Visualiser.pdb
-C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CMP1001M_Hash Tag Visualiser\LAN11205335_CMP1001M_Hash Tag Visualiser\bin\Debug\LAN11205335_CMP1001M_Hash Tag Visualiser.exe
-C:\Users\Richard.Richard-PC\Documents\Jobs and Internships\Portfolio\Programming\LAN11205335_CMP1001M_Hash Tag Visualiser\LAN11205335_CMP1001M_Hash Tag Visualiser\bin\Debug\LAN11205335_CMP1001M_Hash Tag Visualiser.pdb
