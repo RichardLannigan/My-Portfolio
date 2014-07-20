@@ -1,0 +1,34 @@
+Read me: Demo video may need to be played with media player classic.
+
+Controls:
+
+Move:
+   W: Forward.
+   A: Left.
+   S: Back.
+   D: Right.
+   E: Up.
+   C: Down.
+
+Look:
+   I: Up.
+   J: Left.
+   K: Down.
+   L: Right.
+   Mouse: All directions.
+
+Animate rides: R or left mouse click on object.
+Rotate light: T or left mouse click on sun/moon.
+Disable lighting: F.
+Enable lighting: O.
+Display menu: Right mouse button.
+Quit: Q
+
+To change the colours of the rides first select the ride you wish to alter in the menu or 
+by clicking on it with the mouse, then press the 1, 2 and 3 keys to change the colour. 
+1 = red, 2 = green and 3 = blue.
+
+HUD: The HUD displays the controls, whether it’s day or night 
+     and what view the user is currently in e.g. free fly camera, 
+     front view, Ferris wheel view etc. 
+
