@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 42a1675799648b64abaf5de78f426f69
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {instanceID: 0}
+  - menu: {fileID: 11400000, guid: 3ad01d1bcf43a164798003792f4a3a0f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 255fd84dd32331648b7b7bbb4a049433
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pauseBackground: {instanceID: 0}
+  - hud: {instanceID: 0}
+  - menuButtons: {fileID: 11400000, guid: f24f36178aeaf8b4596efb743c02a85e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
