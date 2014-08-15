@@ -1,0 +1,35 @@
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\obj\Debug\Assembly-CSharp.dll
+C:\Users\Richard.Richard-PC\Documents\New Unity Project 3\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\obj\Debug\Assembly-CSharp.dll
+C:\Users\Richard.Richard-PC\Documents\Games Computing\3. Third Year\Advanced Games Studies\Semester 2\A Poacher's Tale\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\obj\Debug\Assembly-CSharp.dll
+C:\Users\Richard.Richard-PC\Documents\GitHub\Team3\A Poacher's Tale\obj\Debug\Assembly-CSharp.pdb
+C:\Users\computing\Desktop\A Poacher's Tale\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\A Poacher's Tale\obj\Debug\Assembly-CSharp.dll
