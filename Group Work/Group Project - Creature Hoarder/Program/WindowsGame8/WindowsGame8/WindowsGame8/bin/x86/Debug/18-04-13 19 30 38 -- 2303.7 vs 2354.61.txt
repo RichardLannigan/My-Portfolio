@@ -1,0 +1,49 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:30:38 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 18  Amphibious: 52  Aggressive: 59  atkPerf: 21  Bird: 12  BLO: 385  BST: 2303.7  Bulk: 18  CON: 255  
+Courage: 24  curStam: 203  Cuteness: 49  DEF: 198  defPerf: 89  Effort: 0  eggHappy: 22  Feet: 10  Fickle: 11  Happiness: 21  
+happyRate: 0.61  HP: 4181  Insect: 5  Intelligence: 0  Lifespan: 61  Limb: 56  Litter: 18  Mammal: 44  maxAge: 91  maxStam: 234  
+metabolism: 25  Obediance: 0  Reactions: 0  Reptile: 6  restRate: 0.75  SPD: 159  Spoilage: 21  spoilRate: 0.89  Stamina: 17  
+stamRate: 0.75  Stance: 16  STK: 214  STR: 257  Tallness: 16  Tech: 0  Thickness: 58  Vanity: 39  Wings: 13  
+
+BLO: 385   
+ HP: 4181    DEF: 198   CON: 255   SPD: 159   STR: 257   STK: 214
+
+~~ Right Creature ~~
+ Age: 51  Amphibious: 94  Aggressive: 42  atkPerf: 57  Bird: 2  BLO: 279  BST: 2354.61  Bulk: 31  CON: 232  
+Courage: 100  curStam: 238  Cuteness: 58  DEF: 278  defPerf: 59  Effort: 0  eggHappy: 35  Feet: 40  Fickle: 27  Happiness: 27.5  
+happyRate: 0.77  HP: 4594  Insect: 40  Intelligence: 0  Lifespan: 61  Limb: 39  Litter: 45  Mammal: 30  maxAge: 91  maxStam: 306  
+metabolism: 20  Obediance: 0  Reactions: 0  Reptile: 15  restRate: 0.7  SPD: 271  Spoilage: 27.5  spoilRate: 1.09  Stamina: 53  
+stamRate: 0.7  Stance: 28  STK: 152  STR: 224  Tallness: 28  Tech: 0  Thickness: 45  Vanity: 59  Wings: 49
+
+BLO: 279    HP: 4594    DEF: 278   CON: 232   SPD: 271   STR: 224   STK: 152
+
+
+2354.61: uses Strike
+2303.7: uses Blow
+2354.61: uses Blow
+2354.61: uses Strike
+2303.7: uses Block
+2354.61: uses Blow
+2354.61: uses Blow
+2303.7: uses Block
+2354.61: uses Blow
+2303.7: uses Block
+2354.61: uses Strike
+2303.7: uses Block
+2354.61: uses Blow
+2354.61: uses Strike
+2354.61: uses Strike
+2303.7: uses Block
+2354.61: uses Blow
+2354.61: uses Blow
+2303.7: uses Blow
+2354.61: uses Strike
+2354.61: uses Block
+2303.7: uses Brace
+2354.61: uses Blow
+2303.7: uses Block

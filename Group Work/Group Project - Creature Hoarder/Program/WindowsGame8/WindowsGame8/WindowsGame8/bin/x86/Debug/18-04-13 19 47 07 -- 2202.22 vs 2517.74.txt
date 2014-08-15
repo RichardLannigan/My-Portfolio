@@ -1,0 +1,56 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:47:07 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 11  Amphibious: 27  Aggressive: 16  atkPerf: 94  Bird: 17  BLO: 184  BST: 2202.22  Bulk: 23  CON: 302  
+Courage: 27  curStam: 7  Cuteness: 54  DEF: 258  defPerf: 4  Effort: 0  eggHappy: 10  Feet: 11  Fickle: 21  Happiness: 15  
+happyRate: 0.71  HP: 3528  Insect: 27  Intelligence: 0  Lifespan: 33  Limb: 17  Litter: 44  Mammal: 58  maxAge: 63  maxStam: 278  
+metabolism: 15  Obediance: 0  Reactions: 0  Reptile: 3  restRate: 0.65  SPD: 189  Spoilage: 15  spoilRate: 0.77  Stamina: 39  
+stamRate: 0.65  Stance: 51  STK: 212  STR: 351  Tallness: 51  Tech: 0  Thickness: 28  Vanity: 27  Wings: 17  
+
+BLO: 184   
+ HP: 3528    DEF: 258   CON: 302   SPD: 189   STR: 351   STK: 212
+
+~~ Right Creature ~~
+ Age: 13  Amphibious: 80  Aggressive: 46  atkPerf: 60  Bird: 58  BLO: 297  BST: 2517.74  Bulk: 32  CON: 177  
+Courage: 70  curStam: 55  Cuteness: 12  DEF: 152  defPerf: 97  Effort: 0  eggHappy: 33  Feet: 56  Fickle: 18  Happiness: 26.5  
+happyRate: 0.68  HP: 5544  Insect: 10  Intelligence: 0  Lifespan: 61  Limb: 18  Litter: 27  Mammal: 31  maxAge: 91  maxStam: 284  
+metabolism: 60  Obediance: 0  Reactions: 0  Reptile: 21  restRate: 1.1  SPD: 247  Spoilage: 26.5  spoilRate: 0.53  Stamina: 42  
+stamRate: 1.1  Stance: 6  STK: 283  STR: 252  Tallness: 6  Tech: 0  Thickness: 23  Vanity: 3  Wings: 18
+
+BLO: 297    HP: 5544    DEF: 152   CON: 177   SPD: 247   STR: 252   STK: 283
+
+
+2517.74: uses Strike
+2202.22: uses Strike
+2517.74: uses Strike
+2202.22: uses Brace
+2517.74: uses Strike
+2202.22: uses Brace
+2517.74: uses Block
+2202.22: uses Brace
+2517.74: uses Block
+2517.74: uses Blow
+2202.22: uses Brace
+2202.22: uses Strike
+2517.74: uses Strike
+2202.22: uses Strike
+2517.74: uses Block
+2202.22: uses Strike
+2517.74: uses Strike
+2517.74: uses Strike
+2202.22: uses Brace
+2517.74: uses Blow
+2202.22: uses Strike
+2202.22: uses Brace
+2517.74: uses Blow
+2202.22: uses Brace
+2517.74: uses Block
+2202.22: uses Strike
+2517.74: uses Blow
+2202.22: uses Brace
+2202.22: uses Brace
+2517.74: uses Blow
+1: Right Creature Wins (19:47:12.948)

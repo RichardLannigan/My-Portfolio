@@ -1,0 +1,214 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:19:55 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 14  Amphibious: 94  Aggressive: 45  atkPerf: 90  Bird: 7  BLO: 252  BST: 2780.73  Bulk: 57  CON: 258  
+Courage: 36  curStam: 214  Cuteness: 48  DEF: 241  defPerf: 85  Effort: 0  eggHappy: 46  Feet: 8  Fickle: 46  Happiness: 33  
+happyRate: 0.96  HP: 7134  Insect: 40  Intelligence: 0  Lifespan: 43  Limb: 46  Litter: 11  Mammal: 25  maxAge: 73  maxStam: 232  
+metabolism: 28  Obediance: 0  Reactions: 0  Reptile: 39  restRate: 0.78  SPD: 197  Spoilage: 33  spoilRate: 0.67  Stamina: 16  
+stamRate: 0.78  Stance: 51  STK: 196  STR: 210  Tallness: 51  Tech: 0  Thickness: 47  Vanity: 17  Wings: 35  
+
+BLO: 252   
+ HP: 7134    DEF: 241   CON: 258   SPD: 197   STR: 210   STK: 196
+
+~~ Right Creature ~~
+ Age: 1  Amphibious: 33  Aggressive: 7  atkPerf: 74  Bird: 6  BLO: 149  BST: 2384.88  Bulk: 18  CON: 274  
+Courage: 53  curStam: 82  Cuteness: 34  DEF: 348  defPerf: 71  Effort: 0  eggHappy: 26  Feet: 28  Fickle: 48  Happiness: 23  
+happyRate: 0.98  HP: 4631  Insect: 53  Intelligence: 0  Lifespan: 30  Limb: 50  Litter: 58  Mammal: 51  maxAge: 60  maxStam: 214  
+metabolism: 5  Obediance: 0  Reactions: 0  Reptile: 21  restRate: 0.55  SPD: 239  Spoilage: 23  spoilRate: 0.68  Stamina: 7  
+stamRate: 0.55  Stance: 60  STK: 186  STR: 261  Tallness: 60  Tech: 0  Thickness: 36  Vanity: 18  Wings: 34
+
+BLO: 149    HP: 4631    DEF: 348   CON: 274   SPD: 239   STR: 261   STK: 186
+
+
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Brace
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Block
+2384.88: uses Strike
+2780.73: uses Block
+2384.88: uses Blow
+2384.88: uses Block
+2780.73: uses Block
+2384.88: uses Strike
+2780.73: uses Block
+2384.88: uses Block
+2780.73: uses Blow
+2384.88: uses Strike
+2384.88: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Brace
+2780.73: uses Block
+2384.88: uses Block
+2780.73: uses Block
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Block
+2384.88: uses Brace
+2384.88: uses Blow
+2780.73: uses Strike
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Brace
+2780.73: uses Strike
+2384.88: uses Blow
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Brace
+2780.73: uses Block
+2384.88: uses Brace
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2384.88: uses Block
+2780.73: uses Block
+2384.88: uses Brace
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Blow
+2780.73: uses Strike
+2780.73: uses Strike
+2384.88: uses Strike
+2384.88: uses Block
+2780.73: uses Blow
+2384.88: uses Brace
+2780.73: uses Block
+2384.88: uses Strike
+2780.73: uses Block
+2384.88: uses Blow
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Brace
+2780.73: uses Strike
+2384.88: uses Blow
+2780.73: uses Block
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Brace
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Blow
+2384.88: uses Block
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2384.88: uses Block
+2780.73: uses Block
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Block
+2384.88: uses Strike
+2780.73: uses Block
+2384.88: uses Blow
+2384.88: uses Brace
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Brace
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Brace
+2384.88: uses Blow
+2780.73: uses Strike
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Brace
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Blow
+2780.73: uses Strike
+2780.73: uses Blow
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2384.88: uses Blow
+2780.73: uses Strike
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Block
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Brace
+2780.73: uses Strike
+2384.88: uses Block
+2384.88: uses Brace
+2780.73: uses Block
+2384.88: uses Block
+2780.73: uses Brace
+2384.88: uses Brace
+2780.73: uses Blow
+2384.88: uses Blow
+1: Right Creature Wins (17:20:24.558)
+2780.73: uses Block
+2384.88: uses Blow
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Block
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Block
+2780.73: uses Strike
+2384.88: uses Strike
+2780.73: uses Block
+2384.88: uses Block
+2384.88: uses Strike
+2780.73: uses Block
+2384.88: uses Strike
+2780.73: uses Strike
+2384.88: uses Block

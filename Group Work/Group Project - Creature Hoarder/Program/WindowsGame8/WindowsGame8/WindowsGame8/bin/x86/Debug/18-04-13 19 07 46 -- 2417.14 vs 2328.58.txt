@@ -1,0 +1,50 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:07:46 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 17  Amphibious: 95  Aggressive: 44  atkPerf: 100  Bird: 12  BLO: 274  BST: 2417.14  Bulk: 31  CON: 220  
+Courage: 60  curStam: 221  Cuteness: 25  DEF: 316  defPerf: 43  Effort: 0  eggHappy: 17  Feet: 49  Fickle: 19  Happiness: 18.5  
+happyRate: 0.69  HP: 4689  Insect: 55  Intelligence: 0  Lifespan: 19  Limb: 35  Litter: 52  Mammal: 59  maxAge: 49  maxStam: 336  
+metabolism: 67  Obediance: 0  Reactions: 0  Reptile: 7  restRate: 1.17  SPD: 176  Spoilage: 18.5  spoilRate: 1.03  Stamina: 68  
+stamRate: 1.17  Stance: 29  STK: 177  STR: 318  Tallness: 29  Tech: 0  Thickness: 56  Vanity: 53  Wings: 13  
+
+BLO: 274   
+ HP: 4689    DEF: 316   CON: 220   SPD: 176   STR: 318   STK: 177
+
+~~ Right Creature ~~
+ Age: 8  Amphibious: 98  Aggressive: 52  atkPerf: 96  Bird: 29  BLO: 308  BST: 2328.58  Bulk: 58  CON: 199  
+Courage: 87  curStam: 228  Cuteness: 36  DEF: 271  defPerf: 86  Effort: 0  eggHappy: 7  Feet: 13  Fickle: 46  Happiness: 13.5  
+happyRate: 0.96  HP: 4303  Insect: 55  Intelligence: 0  Lifespan: 24  Limb: 54  Litter: 36  Mammal: 32  maxAge: 54  maxStam: 364  
+metabolism: 43  Obediance: 0  Reactions: 0  Reptile: 1  restRate: 0.93  SPD: 223  Spoilage: 13.5  spoilRate: 0.88  Stamina: 82  
+stamRate: 0.93  Stance: 33  STK: 266  STR: 200  Tallness: 33  Tech: 0  Thickness: 7  Vanity: 38  Wings: 29
+
+BLO: 308    HP: 4303    DEF: 271   CON: 199   SPD: 223   STR: 200   STK: 266
+
+
+2328.58: uses Strike
+2417.14: uses Strike
+2328.58: uses Strike
+2417.14: uses Strike
+2328.58: uses Strike
+2417.14: uses Strike
+2328.58: uses Strike
+2417.14: uses Strike
+2328.58: uses Strike
+2417.14: uses Strike
+2328.58: uses Strike
+2417.14: uses Strike
+2328.58: uses Strike
+2417.14: uses Strike
+2328.58: uses Strike
+2328.58: uses Blow
+2417.14: uses Strike
+2417.14: uses Strike
+2328.58: uses Strike
+2417.14: uses Brace
+2328.58: uses Block
+2417.14: uses Block
+2328.58: uses Strike
+2417.14: uses Block
+2328.58: uses Strike

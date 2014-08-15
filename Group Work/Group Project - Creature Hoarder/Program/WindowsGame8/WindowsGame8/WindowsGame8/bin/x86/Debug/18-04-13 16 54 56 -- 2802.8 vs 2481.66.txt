@@ -1,0 +1,178 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 16:54:56 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 56  Amphibious: 35  Aggressive: 1  atkPerf: 95  Bird: 58  BLO: 148  BST: 2802.8  Bulk: 53  CON: 259  
+Courage: 65  curStam: 288  Cuteness: 6  DEF: 201  defPerf: 40  Effort: 0  eggHappy: 38  Feet: 12  Fickle: 50  Happiness: 29  
+happyRate: 1  HP: 7297  Insect: 21  Intelligence: 0  Lifespan: 61  Limb: 19  Litter: 37  Mammal: 29  maxAge: 91  maxStam: 398  
+metabolism: 16  Obediance: 0  Reactions: 0  Reptile: 27  restRate: 0.66  SPD: 148  Spoilage: 29  spoilRate: 0.83  Stamina: 99  
+stamRate: 0.66  Stance: 54  STK: 331  STR: 257  Tallness: 54  Tech: 0  Thickness: 26  Vanity: 33  Wings: 2  
+
+BLO: 148   
+ HP: 7297    DEF: 201   CON: 259   SPD: 148   STR: 257   STK: 331
+
+~~ Right Creature ~~
+ Age: 19  Amphibious: 6  Aggressive: 45  atkPerf: 46  Bird: 45  BLO: 264  BST: 2481.66  Bulk: 15  CON: 221  
+Courage: 8  curStam: 187  Cuteness: 27  DEF: 168  defPerf: 92  Effort: 0  eggHappy: 31  Feet: 4  Fickle: 27  Happiness: 25.5  
+happyRate: 0.77  HP: 5304  Insect: 16  Intelligence: 0  Lifespan: 39  Limb: 58  Litter: 10  Mammal: 54  maxAge: 69  maxStam: 306  
+metabolism: 92  Obediance: 0  Reactions: 0  Reptile: 43  restRate: 1.42  SPD: 228  Spoilage: 25.5  spoilRate: 1.1  Stamina: 53  
+stamRate: 1.42  Stance: 47  STK: 296  STR: 244  Tallness: 47  Tech: 0  Thickness: 4  Vanity: 60  Wings: 42
+
+BLO: 264    HP: 5304    DEF: 168   CON: 221   SPD: 228   STR: 244   STK: 296
+
+
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2481.66: uses Blow
+2802.8: uses Brace
+2802.8: uses Strike
+2481.66: uses Block
+2481.66: uses Blow
+2802.8: uses Strike
+2802.8: uses Strike
+2481.66: uses Block
+2481.66: uses Strike
+2802.8: uses Block
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Block
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Strike
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Block
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Strike
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Strike
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Blow
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2481.66: uses Strike
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Block
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Strike
+2802.8: uses Block
+2481.66: uses Block
+2481.66: uses Blow
+2802.8: uses Brace
+2802.8: uses Brace
+2481.66: uses Strike
+2481.66: uses Strike
+2802.8: uses Block
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2481.66: uses Brace
+2802.8: uses Brace
+2481.66: uses Blow
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Strike
+1: Right Creature Wins (16:55:10.652)
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Block
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Blow
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2481.66: uses Brace
+2802.8: uses Block
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Block
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Block
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Blow
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Block
+2481.66: uses Blow
+2802.8: uses Block
+2481.66: uses Blow
+2802.8: uses Blow
+2481.66: uses Block
+2481.66: uses Block
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Strike
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Strike
+2802.8: uses Strike
+2481.66: uses Block
+2481.66: uses Blow
+2802.8: uses Block
+2481.66: uses Block
+2481.66: uses Strike
+2802.8: uses Brace
+2481.66: uses Strike
+2802.8: uses Block
+2481.66: uses Blow
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Blow
+2802.8: uses Strike
+2481.66: uses Blow
+2802.8: uses Strike
+2481.66: uses Block
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Blow
+2: Right Creature Wins (16:55:26.699)
+2802.8: uses Brace
+2481.66: uses Block
+2802.8: uses Block
+2481.66: uses Block
+2802.8: uses Strike
+2481.66: uses Block
+2481.66: uses Block

@@ -1,0 +1,251 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:04:11 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 32  Amphibious: 44  Aggressive: 5  atkPerf: 52  Bird: 7  BLO: 173  BST: 3008.91  Bulk: 54  CON: 213  
+Courage: 28  curStam: 33  Cuteness: 57  DEF: 298  defPerf: 87  Effort: 0  eggHappy: 22  Feet: 38  Fickle: 12  Happiness: 21  
+happyRate: 0.62  HP: 8564  Insect: 59  Intelligence: 0  Lifespan: 61  Limb: 30  Litter: 30  Mammal: 25  maxAge: 91  maxStam: 268  
+metabolism: 2  Obediance: 0  Reactions: 0  Reptile: 51  restRate: 0.52  SPD: 205  Spoilage: 21  spoilRate: 0.87  Stamina: 34  
+stamRate: 0.52  Stance: 21  STK: 162  STR: 245  Tallness: 21  Tech: 0  Thickness: 42  Vanity: 37  Wings: 10  
+
+BLO: 173   
+ HP: 8564    DEF: 298   CON: 213   SPD: 205   STR: 245   STK: 162
+
+~~ Right Creature ~~
+ Age: 53  Amphibious: 95  Aggressive: 28  atkPerf: 2  Bird: 45  BLO: 150  BST: 2667  Bulk: 40  CON: 259  
+Courage: 84  curStam: 52  Cuteness: 40  DEF: 234  defPerf: 95  Effort: 0  eggHappy: 48  Feet: 22  Fickle: 7  Happiness: 34  
+happyRate: 0.57  HP: 6534  Insect: 34  Intelligence: 0  Lifespan: 61  Limb: 9  Litter: 47  Mammal: 49  maxAge: 91  maxStam: 304  
+metabolism: 56  Obediance: 0  Reactions: 0  Reptile: 56  restRate: 1.06  SPD: 189  Spoilage: 34  spoilRate: 0.96  Stamina: 52  
+stamRate: 1.06  Stance: 59  STK: 231  STR: 297  Tallness: 59  Tech: 0  Thickness: 8  Vanity: 46  Wings: 13
+
+BLO: 150    HP: 6534    DEF: 234   CON: 259   SPD: 189   STR: 297   STK: 231
+
+
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Brace
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Brace
+3008.91: uses Blow
+2667: uses Block
+2667: uses Block
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Block
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Block
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Blow
+3008.91: uses Brace
+2667: uses Blow
+3008.91: uses Block
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Block
+3008.91: uses Brace
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+3008.91: uses Strike
+2667: uses Block
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Block
+3008.91: uses Strike
+2667: uses Block
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Block
+3008.91: uses Brace
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Block
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Block
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Strike
+3008.91: uses Strike
+2667: uses Block
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Block
+3008.91: uses Block
+2667: uses Block
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Blow
+2667: uses Blow
+1: Right Creature Wins (17:04:46.079)
+3008.91: uses Strike
+2667: uses Block
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Block
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Block
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Blow
+2667: uses Block
+2667: uses Block
+3008.91: uses Strike
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Block
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Block
+3008.91: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Strike
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Blow
+2: Right Creature Wins (17:05:6.620)
+2667: uses Blow
+3008.91: uses Block
+2667: uses Blow
+3008.91: uses Block
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Block
+2667: uses Block
+3008.91: uses Block
+2667: uses Block
+3008.91: uses Blow
+2667: uses Block
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Block
+3008.91: uses Strike
+2667: uses Blow
+3008.91: uses Blow
+2667: uses Blow

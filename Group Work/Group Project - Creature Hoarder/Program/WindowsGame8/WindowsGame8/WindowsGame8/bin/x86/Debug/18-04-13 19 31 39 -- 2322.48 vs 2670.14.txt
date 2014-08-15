@@ -1,0 +1,69 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:31:39 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 53  Amphibious: 9  Aggressive: 3  atkPerf: 79  Bird: 39  BLO: 181  BST: 2322.48  Bulk: 13  CON: 328  
+Courage: 53  curStam: 233  Cuteness: 14  DEF: 286  defPerf: 72  Effort: 0  eggHappy: 54  Feet: 22  Fickle: 46  Happiness: 37  
+happyRate: 0.96  HP: 4163  Insect: 26  Intelligence: 0  Lifespan: 61  Limb: 18  Litter: 58  Mammal: 13  maxAge: 91  maxStam: 330  
+metabolism: 42  Obediance: 0  Reactions: 0  Reptile: 4  restRate: 0.92  SPD: 182  Spoilage: 37  spoilRate: 0.76  Stamina: 65  
+stamRate: 0.92  Stance: 56  STK: 269  STR: 244  Tallness: 56  Tech: 0  Thickness: 26  Vanity: 26  Wings: 4  
+
+BLO: 181   
+ HP: 4163    DEF: 286   CON: 328   SPD: 182   STR: 244   STK: 269
+
+~~ Right Creature ~~
+ Age: 37  Amphibious: 49  Aggressive: 21  atkPerf: 36  Bird: 42  BLO: 185  BST: 2670.14  Bulk: 25  CON: 260  
+Courage: 85  curStam: 253  Cuteness: 28  DEF: 174  defPerf: 41  Effort: 0  eggHappy: 55  Feet: 33  Fickle: 30  Happiness: 37.5  
+happyRate: 0.8  HP: 6470  Insect: 8  Intelligence: 0  Lifespan: 50  Limb: 52  Litter: 2  Mammal: 41  maxAge: 80  maxStam: 342  
+metabolism: 73  Obediance: 0  Reactions: 0  Reptile: 46  restRate: 1.23  SPD: 253  Spoilage: 37.5  spoilRate: 0.99  Stamina: 71  
+stamRate: 1.23  Stance: 57  STK: 285  STR: 219  Tallness: 57  Tech: 0  Thickness: 8  Vanity: 49  Wings: 28
+
+BLO: 185    HP: 6470    DEF: 174   CON: 260   SPD: 253   STR: 219   STK: 285
+
+
+2670.14: uses Blow
+2322.48: uses Strike
+2322.48: uses Brace
+2670.14: uses Brace
+2322.48: uses Block
+2670.14: uses Blow
+2670.14: uses Brace
+2322.48: uses Strike
+2670.14: uses Brace
+2322.48: uses Block
+2670.14: uses Blow
+2670.14: uses Blow
+2322.48: uses Block
+2670.14: uses Blow
+2322.48: uses Strike
+2670.14: uses Blow
+2322.48: uses Block
+2322.48: uses Block
+2670.14: uses Blow
+2670.14: uses Block
+2322.48: uses Strike
+2670.14: uses Blow
+2322.48: uses Brace
+2670.14: uses Blow
+2322.48: uses Strike
+2322.48: uses Block
+2670.14: uses Brace
+2670.14: uses Strike
+2322.48: uses Brace
+2670.14: uses Blow
+2322.48: uses Strike
+2322.48: uses Block
+2670.14: uses Blow
+2670.14: uses Strike
+2322.48: uses Brace
+2670.14: uses Brace
+2322.48: uses Block
+2670.14: uses Brace
+2670.14: uses Brace
+2322.48: uses Brace
+2670.14: uses Block
+2322.48: uses Strike
+2670.14: uses Blow
+2322.48: uses Brace

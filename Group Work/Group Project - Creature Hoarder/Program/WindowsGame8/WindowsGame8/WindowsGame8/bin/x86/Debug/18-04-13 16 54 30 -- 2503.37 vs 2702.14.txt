@@ -1,0 +1,76 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 16:54:30 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 7  Amphibious: 39  Aggressive: 1  atkPerf: 30  Bird: 56  BLO: 168  BST: 2503.37  Bulk: 53  CON: 277  
+Courage: 51  curStam: 89  Cuteness: 38  DEF: 177  defPerf: 5  Effort: 0  eggHappy: 59  Feet: 33  Fickle: 35  Happiness: 39.5  
+happyRate: 0.85  HP: 5424  Insect: 2  Intelligence: 0  Lifespan: 6  Limb: 51  Litter: 27  Mammal: 18  maxAge: 36  maxStam: 258  
+metabolism: 98  Obediance: 0  Reactions: 0  Reptile: 10  restRate: 1.48  SPD: 254  Spoilage: 39.5  spoilRate: 1.01  Stamina: 29  
+stamRate: 1.48  Stance: 55  STK: 348  STR: 194  Tallness: 55  Tech: 0  Thickness: 19  Vanity: 51  Wings: 30  
+
+BLO: 168   
+ HP: 5424    DEF: 177   CON: 277   SPD: 254   STR: 194   STK: 348
+
+~~ Right Creature ~~
+ Age: 16  Amphibious: 53  Aggressive: 36  atkPerf: 99  Bird: 17  BLO: 196  BST: 2702.14  Bulk: 39  CON: 241  
+Courage: 51  curStam: 36  Cuteness: 54  DEF: 204  defPerf: 22  Effort: 0  eggHappy: 2  Feet: 30  Fickle: 31  Happiness: 11  
+happyRate: 0.81  HP: 6669  Insect: 25  Intelligence: 0  Lifespan: 28  Limb: 34  Litter: 18  Mammal: 55  maxAge: 58  maxStam: 252  
+metabolism: 79  Obediance: 0  Reactions: 0  Reptile: 51  restRate: 1.29  SPD: 272  Spoilage: 11  spoilRate: 0.96  Stamina: 26  
+stamRate: 1.29  Stance: 45  STK: 169  STR: 286  Tallness: 45  Tech: 0  Thickness: 33  Vanity: 46  Wings: 59
+
+BLO: 196    HP: 6669    DEF: 204   CON: 241   SPD: 272   STR: 286   STK: 169
+
+
+2702.14: uses Strike
+2503.37: uses Brace
+2702.14: uses Brace
+2503.37: uses Brace
+2702.14: uses Strike
+2503.37: uses Blow
+2702.14: uses Block
+2702.14: uses Brace
+2503.37: uses Strike
+2702.14: uses Brace
+2503.37: uses Blow
+2702.14: uses Block
+2702.14: uses Strike
+2503.37: uses Blow
+2702.14: uses Strike
+2702.14: uses Strike
+2503.37: uses Block
+2702.14: uses Brace
+2503.37: uses Blow
+2702.14: uses Brace
+2702.14: uses Strike
+2503.37: uses Strike
+2702.14: uses Strike
+2503.37: uses Brace
+2702.14: uses Brace
+2503.37: uses Blow
+2702.14: uses Strike
+2702.14: uses Strike
+2503.37: uses Blow
+2702.14: uses Brace
+2702.14: uses Strike
+2503.37: uses Brace
+2702.14: uses Strike
+2503.37: uses Brace
+2702.14: uses Strike
+2503.37: uses Strike
+2702.14: uses Brace
+2503.37: uses Strike
+2702.14: uses Strike
+2503.37: uses Blow
+2702.14: uses Strike
+2702.14: uses Block
+2503.37: uses Brace
+2702.14: uses Strike
+2503.37: uses Brace
+2702.14: uses Strike
+2503.37: uses Blow
+2702.14: uses Strike
+2702.14: uses Brace
+2503.37: uses Brace
+2702.14: uses Strike

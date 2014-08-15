@@ -1,0 +1,57 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:56:51 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 0  Amphibious: 88  Aggressive: 47  atkPerf: 17  Bird: 35  BLO: 233  BST: 2838.11  Bulk: 54  CON: 137  
+Courage: 3  curStam: 32  Cuteness: 3  DEF: 113  defPerf: 80  Effort: 0  eggHappy: 2  Feet: 57  Fickle: 6  Happiness: 11  
+happyRate: 0.56  HP: 7618  Insect: 14  Intelligence: 0  Lifespan: 3  Limb: 1  Litter: 56  Mammal: 56  maxAge: 33  maxStam: 210  
+metabolism: 92  Obediance: 0  Reactions: 0  Reptile: 51  restRate: 1.42  SPD: 332  Spoilage: 11  spoilRate: 1.02  Stamina: 5  
+stamRate: 1.42  Stance: 3  STK: 180  STR: 320  Tallness: 3  Tech: 0  Thickness: 24  Vanity: 52  Wings: 59  
+
+BLO: 233   
+ HP: 7618    DEF: 113   CON: 137   SPD: 332   STR: 320   STK: 180
+
+~~ Right Creature ~~
+ Age: 10  Amphibious: 52  Aggressive: 7  atkPerf: 14  Bird: 47  BLO: 185  BST: 2683.4  Bulk: 35  CON: 174  
+Courage: 79  curStam: 332  Cuteness: 5  DEF: 234  defPerf: 99  Effort: 0  eggHappy: 31  Feet: 9  Fickle: 31  Happiness: 25.5  
+happyRate: 0.81  HP: 6533  Insect: 45  Intelligence: 0  Lifespan: 50  Limb: 24  Litter: 1  Mammal: 35  maxAge: 80  maxStam: 392  
+metabolism: 72  Obediance: 0  Reactions: 0  Reptile: 36  restRate: 1.22  SPD: 246  Spoilage: 25.5  spoilRate: 0.73  Stamina: 96  
+stamRate: 1.22  Stance: 10  STK: 280  STR: 257  Tallness: 10  Tech: 0  Thickness: 13  Vanity: 23  Wings: 44
+
+BLO: 185    HP: 6533    DEF: 234   CON: 174   SPD: 246   STR: 257   STK: 280
+
+
+2838.11: uses Block
+2683.4: uses Strike
+2838.11: uses Blow
+2683.4: uses Blow
+2838.11: uses Strike
+2838.11: uses Block
+2683.4: uses Block
+2838.11: uses Blow
+2683.4: uses Blow
+2838.11: uses Block
+2683.4: uses Block
+2838.11: uses Blow
+2838.11: uses Block
+2683.4: uses Blow
+2838.11: uses Brace
+2838.11: uses Block
+2838.11: uses Blow
+2683.4: uses Blow
+2838.11: uses Blow
+2683.4: uses Blow
+2838.11: uses Block
+2838.11: uses Blow
+2683.4: uses Blow
+2838.11: uses Blow
+2683.4: uses Block
+2838.11: uses Blow
+2683.4: uses Block
+2838.11: uses Strike
+2838.11: uses Blow
+2683.4: uses Blow
+2838.11: uses Blow
+1: Left Creature Wins (19:56:57.224)

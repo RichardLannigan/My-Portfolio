@@ -1,0 +1,76 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:42:43 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 54  Amphibious: 58  Aggressive: 20  atkPerf: 8  Bird: 44  BLO: 166  BST: 2923.68  Bulk: 57  CON: 189  
+Courage: 17  curStam: 23  Cuteness: 57  DEF: 291  defPerf: 84  Effort: 0  eggHappy: 8  Feet: 16  Fickle: 29  Happiness: 14  
+happyRate: 0.79  HP: 7941  Insect: 53  Intelligence: 0  Lifespan: 61  Limb: 1  Litter: 7  Mammal: 21  maxAge: 91  maxStam: 234  
+metabolism: 10  Obediance: 0  Reactions: 0  Reptile: 56  restRate: 0.6  SPD: 221  Spoilage: 14  spoilRate: 1.09  Stamina: 17  
+stamRate: 0.6  Stance: 24  STK: 230  STR: 240  Tallness: 24  Tech: 0  Thickness: 40  Vanity: 59  Wings: 40  
+
+BLO: 166   
+ HP: 7941    DEF: 291   CON: 189   SPD: 221   STR: 240   STK: 230
+
+~~ Right Creature ~~
+ Age: 15  Amphibious: 38  Aggressive: 8  atkPerf: 91  Bird: 46  BLO: 150  BST: 2460.19  Bulk: 2  CON: 250  
+Courage: 9  curStam: 51  Cuteness: 44  DEF: 250  defPerf: 39  Effort: 0  eggHappy: 26  Feet: 18  Fickle: 52  Happiness: 23  
+happyRate: 1.02  HP: 5198  Insect: 37  Intelligence: 0  Lifespan: 61  Limb: 28  Litter: 26  Mammal: 54  maxAge: 91  maxStam: 364  
+metabolism: 3  Obediance: 0  Reactions: 0  Reptile: 47  restRate: 0.53  SPD: 232  Spoilage: 23  spoilRate: 0.89  Stamina: 82  
+stamRate: 0.53  Stance: 29  STK: 258  STR: 281  Tallness: 29  Tech: 0  Thickness: 48  Vanity: 39  Wings: 48
+
+BLO: 150    HP: 5198    DEF: 250   CON: 250   SPD: 232   STR: 281   STK: 258
+
+
+2460.19: uses Brace
+2923.68: uses Blow
+2460.19: uses Strike
+2460.19: uses Brace
+2923.68: uses Block
+2460.19: uses Brace
+2923.68: uses Block
+2460.19: uses Brace
+2923.68: uses Block
+2460.19: uses Block
+2923.68: uses Blow
+2460.19: uses Brace
+2923.68: uses Block
+2460.19: uses Block
+2923.68: uses Block
+2460.19: uses Strike
+2923.68: uses Blow
+2460.19: uses Block
+2460.19: uses Strike
+2923.68: uses Block
+2460.19: uses Brace
+2923.68: uses Brace
+2460.19: uses Brace
+2923.68: uses Blow
+2460.19: uses Brace
+2460.19: uses Brace
+2923.68: uses Block
+2460.19: uses Strike
+2923.68: uses Blow
+2460.19: uses Block
+2923.68: uses Block
+2460.19: uses Block
+2923.68: uses Block
+2460.19: uses Strike
+2923.68: uses Blow
+2460.19: uses Block
+2460.19: uses Strike
+2923.68: uses Block
+2460.19: uses Brace
+2923.68: uses Blow
+2460.19: uses Brace
+2460.19: uses Brace
+2923.68: uses Blow
+2460.19: uses Strike
+2460.19: uses Brace
+2923.68: uses Blow
+2460.19: uses Block
+2460.19: uses Brace
+2923.68: uses Blow
+2460.19: uses Block
+2460.19: uses Brace

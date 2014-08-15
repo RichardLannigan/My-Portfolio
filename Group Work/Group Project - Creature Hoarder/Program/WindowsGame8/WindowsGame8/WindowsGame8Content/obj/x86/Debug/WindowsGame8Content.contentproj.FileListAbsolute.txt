@@ -1,0 +1,2 @@
+C:\Users\computing\Desktop\group-repository\WindowsGame8\WindowsGame8\WindowsGame8Content\obj\x86\Debug\WindowsGame8Content.contentprojResolveAssemblyReference.cache
+E:\group-repository\WindowsGame8\WindowsGame8\WindowsGame8Content\obj\x86\Debug\WindowsGame8Content.contentprojResolveAssemblyReference.cache

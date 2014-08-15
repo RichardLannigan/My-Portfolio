@@ -1,0 +1,67 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 16:56:25 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 2  Amphibious: 13  Aggressive: 16  atkPerf: 7  Bird: 6  BLO: 227  BST: 2843.1  Bulk: 37  CON: 190  
+Courage: 60  curStam: 295  Cuteness: 23  DEF: 193  defPerf: 32  Effort: 0  eggHappy: 60  Feet: 22  Fickle: 30  Happiness: 40  
+happyRate: 0.8  HP: 7530  Insect: 18  Intelligence: 0  Lifespan: 39  Limb: 22  Litter: 13  Mammal: 52  maxAge: 69  maxStam: 326  
+metabolism: 37  Obediance: 0  Reactions: 0  Reptile: 44  restRate: 0.87  SPD: 264  Spoilage: 40  spoilRate: 0.95  Stamina: 63  
+stamRate: 0.87  Stance: 3  STK: 154  STR: 309  Tallness: 3  Tech: 0  Thickness: 30  Vanity: 45  Wings: 35  
+
+BLO: 227   
+ HP: 7530    DEF: 193   CON: 190   SPD: 264   STR: 309   STK: 154
+
+~~ Right Creature ~~
+ Age: 31  Amphibious: 84  Aggressive: 40  atkPerf: 99  Bird: 25  BLO: 287  BST: 2540.13  Bulk: 39  CON: 169  
+Courage: 46  curStam: 268  Cuteness: 18  DEF: 254  defPerf: 89  Effort: 0  eggHappy: 45  Feet: 6  Fickle: 7  Happiness: 32.5  
+happyRate: 0.57  HP: 5644  Insect: 52  Intelligence: 0  Lifespan: 50  Limb: 45  Litter: 53  Mammal: 54  maxAge: 80  maxStam: 322  
+metabolism: 8  Obediance: 0  Reactions: 0  Reptile: 30  restRate: 0.58  SPD: 211  Spoilage: 32.5  spoilRate: 0.55  Stamina: 61  
+stamRate: 0.58  Stance: 7  STK: 219  STR: 271  Tallness: 7  Tech: 0  Thickness: 58  Vanity: 5  Wings: 48
+
+BLO: 287    HP: 5644    DEF: 254   CON: 169   SPD: 211   STR: 271   STK: 219
+
+
+2843.1: uses Brace
+2540.13: uses Strike
+2843.1: uses Brace
+2540.13: uses Strike
+2843.1: uses Blow
+2540.13: uses Strike
+2540.13: uses Strike
+2843.1: uses Block
+2843.1: uses Brace
+2540.13: uses Strike
+2843.1: uses Blow
+2540.13: uses Strike
+2540.13: uses Block
+2843.1: uses Blow
+2843.1: uses Blow
+2540.13: uses Block
+2843.1: uses Blow
+2540.13: uses Strike
+2540.13: uses Strike
+2843.1: uses Block
+2843.1: uses Blow
+2540.13: uses Block
+2843.1: uses Brace
+2540.13: uses Strike
+2843.1: uses Brace
+2540.13: uses Block
+2843.1: uses Blow
+2843.1: uses Brace
+2540.13: uses Brace
+2843.1: uses Block
+2540.13: uses Strike
+2843.1: uses Blow
+2540.13: uses Block
+2843.1: uses Brace
+2540.13: uses Strike
+2843.1: uses Brace
+2540.13: uses Strike
+2843.1: uses Block
+2540.13: uses Block
+2843.1: uses Block
+2843.1: uses Strike
+2540.13: uses Block

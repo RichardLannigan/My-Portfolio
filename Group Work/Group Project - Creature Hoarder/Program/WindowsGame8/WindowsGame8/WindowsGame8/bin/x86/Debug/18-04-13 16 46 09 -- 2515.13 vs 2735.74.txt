@@ -1,0 +1,252 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 16:46:09 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 8  Amphibious: 50  Aggressive: 54  atkPerf: 63  Bird: 27  BLO: 316  BST: 2515.13  Bulk: 12  CON: 201  
+Courage: 79  curStam: 3  Cuteness: 51  DEF: 196  defPerf: 80  Effort: 0  eggHappy: 25  Feet: 20  Fickle: 41  Happiness: 22.5  
+happyRate: 0.91  HP: 5476  Insect: 15  Intelligence: 0  Lifespan: 61  Limb: 54  Litter: 23  Mammal: 50  maxAge: 91  maxStam: 330  
+metabolism: 40  Obediance: 0  Reactions: 0  Reptile: 44  restRate: 0.9  SPD: 224  Spoilage: 22.5  spoilRate: 0.67  Stamina: 65  
+stamRate: 0.9  Stance: 16  STK: 231  STR: 252  Tallness: 16  Tech: 0  Thickness: 7  Vanity: 17  Wings: 22  
+
+BLO: 316   
+ HP: 5476    DEF: 196   CON: 201   SPD: 224   STR: 252   STK: 231
+
+~~ Right Creature ~~
+ Age: 47  Amphibious: 12  Aggressive: 48  atkPerf: 57  Bird: 31  BLO: 317  BST: 2735.74  Bulk: 58  CON: 202  
+Courage: 22  curStam: 134  Cuteness: 55  DEF: 217  defPerf: 51  Effort: 0  eggHappy: 26  Feet: 17  Fickle: 34  Happiness: 23  
+happyRate: 0.84  HP: 6813  Insect: 30  Intelligence: 0  Lifespan: 61  Limb: 60  Litter: 60  Mammal: 2  maxAge: 91  maxStam: 342  
+metabolism: 48  Obediance: 0  Reactions: 0  Reptile: 41  restRate: 0.98  SPD: 275  Spoilage: 23  spoilRate: 0.94  Stamina: 71  
+stamRate: 0.98  Stance: 24  STK: 242  STR: 120  Tallness: 24  Tech: 0  Thickness: 44  Vanity: 44  Wings: 55
+
+BLO: 317    HP: 6813    DEF: 217   CON: 202   SPD: 275   STR: 120   STK: 242
+
+
+2735.74: uses Brace
+2515.13: uses Blow
+2735.74: uses Blow
+2515.13: uses Block
+2735.74: uses Block
+2515.13: uses Block
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Strike
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Strike
+2515.13: uses Blow
+2735.74: uses Strike
+2735.74: uses Block
+2515.13: uses Blow
+2735.74: uses Brace
+2735.74: uses Block
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Brace
+2735.74: uses Brace
+2515.13: uses Brace
+2735.74: uses Brace
+2515.13: uses Blow
+2735.74: uses Brace
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Block
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Block
+2515.13: uses Blow
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Block
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Strike
+2515.13: uses Blow
+2735.74: uses Brace
+2735.74: uses Blow
+2515.13: uses Block
+2515.13: uses Blow
+2735.74: uses Block
+2735.74: uses Block
+2515.13: uses Block
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Brace
+2515.13: uses Blow
+2735.74: uses Block
+2735.74: uses Strike
+2515.13: uses Block
+2735.74: uses Block
+2515.13: uses Block
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Brace
+2735.74: uses Blow
+2515.13: uses Blow
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Blow
+1: Left Creature Wins (16:46:10.125)
+2515.13: uses Block
+2735.74: uses Blow
+2515.13: uses Blow
+2735.74: uses Brace
+2515.13: uses Brace
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Brace
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Block
+2515.13: uses Blow
+2735.74: uses Blow
+2515.13: uses Strike
+2735.74: uses Strike
+2735.74: uses Blow
+2515.13: uses Strike
+2515.13: uses Strike
+2735.74: uses Blow
+2515.13: uses Block
+2515.13: uses Block
+2735.74: uses Brace
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Block
+2515.13: uses Block
+2735.74: uses Brace
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Strike
+2515.13: uses Block
+2735.74: uses Strike
+2515.13: uses Block
+2735.74: uses Blow
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Strike
+2515.13: uses Blow
+2735.74: uses Brace
+2735.74: uses Blow
+2515.13: uses Brace
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Blow
+2: Right Creature Wins (16:46:10.876)
+2515.13: uses Strike
+2515.13: uses Strike
+2735.74: uses Blow
+2515.13: uses Block
+2735.74: uses Blow
+2515.13: uses Block
+2735.74: uses Strike
+2515.13: uses Strike
+2735.74: uses Brace
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Block
+2515.13: uses Block
+2735.74: uses Block
+2515.13: uses Blow
+2735.74: uses Block
+2735.74: uses Block
+2515.13: uses Block
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Block
+2515.13: uses Brace
+2735.74: uses Strike
+2735.74: uses Block
+2515.13: uses Blow
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Block
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Blow
+2515.13: uses Strike
+2515.13: uses Strike
+2735.74: uses Strike
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Brace
+2515.13: uses Blow
+2735.74: uses Brace
+2735.74: uses Brace
+2515.13: uses Blow
+2735.74: uses Brace
+2735.74: uses Block
+2735.74: uses Strike
+2515.13: uses Block
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Brace
+2735.74: uses Strike
+2515.13: uses Strike
+2735.74: uses Blow
+2515.13: uses Block
+2735.74: uses Blow
+2515.13: uses Block
+2735.74: uses Strike
+2515.13: uses Block
+2735.74: uses Blow
+2515.13: uses Blow
+3: Right Creature Wins (16:46:11.843)
+2735.74: uses Blow
+2515.13: uses Block
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Brace
+2515.13: uses Brace
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Brace
+2735.74: uses Brace
+2515.13: uses Blow
+2735.74: uses Block
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Block
+2515.13: uses Block
+2735.74: uses Brace
+2735.74: uses Strike
+2515.13: uses Strike
+2735.74: uses Brace
+2515.13: uses Block
+2735.74: uses Block
+2515.13: uses Block
+2735.74: uses Block
+2515.13: uses Strike
+2735.74: uses Strike
+2735.74: uses Brace
+2515.13: uses Blow
+2735.74: uses Blow
+2515.13: uses Strike
+2735.74: uses Brace
+2515.13: uses Brace
+2735.74: uses Block
+2735.74: uses Brace
+2515.13: uses Strike
+2735.74: uses Strike
+2515.13: uses Strike
+2735.74: uses Strike
+2515.13: uses Strike
+2735.74: uses Block

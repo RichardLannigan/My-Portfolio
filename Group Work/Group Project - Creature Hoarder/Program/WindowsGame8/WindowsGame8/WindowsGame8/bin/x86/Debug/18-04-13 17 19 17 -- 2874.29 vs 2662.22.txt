@@ -1,0 +1,140 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:19:17 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 22  Amphibious: 39  Aggressive: 26  atkPerf: 78  Bird: 16  BLO: 217  BST: 2874.29  Bulk: 37  CON: 255  
+Courage: 38  curStam: 376  Cuteness: 54  DEF: 272  defPerf: 8  Effort: 0  eggHappy: 45  Feet: 24  Fickle: 42  Happiness: 32.5  
+happyRate: 0.92  HP: 7670  Insect: 45  Intelligence: 0  Lifespan: 61  Limb: 25  Litter: 33  Mammal: 22  maxAge: 91  maxStam: 390  
+metabolism: 38  Obediance: 0  Reactions: 0  Reptile: 56  restRate: 0.88  SPD: 172  Spoilage: 32.5  spoilRate: 0.78  Stamina: 95  
+stamRate: 0.88  Stance: 30  STK: 187  STR: 237  Tallness: 30  Tech: 0  Thickness: 28  Vanity: 28  Wings: 9  
+
+BLO: 217   
+ HP: 7670    DEF: 272   CON: 255   SPD: 172   STR: 237   STK: 187
+
+~~ Right Creature ~~
+ Age: 27  Amphibious: 24  Aggressive: 22  atkPerf: 88  Bird: 19  BLO: 254  BST: 2662.22  Bulk: 58  CON: 168  
+Courage: 63  curStam: 189  Cuteness: 37  DEF: 222  defPerf: 30  Effort: 0  eggHappy: 1  Feet: 24  Fickle: 27  Happiness: 10.5  
+happyRate: 0.77  HP: 6258  Insect: 29  Intelligence: 0  Lifespan: 61  Limb: 9  Litter: 24  Mammal: 15  maxAge: 91  maxStam: 332  
+metabolism: 7  Obediance: 0  Reactions: 0  Reptile: 15  restRate: 0.57  SPD: 289  Spoilage: 10.5  spoilRate: 1.01  Stamina: 66  
+stamRate: 0.57  Stance: 1  STK: 210  STR: 267  Tallness: 1  Tech: 0  Thickness: 4  Vanity: 51  Wings: 30
+
+BLO: 254    HP: 6258    DEF: 222   CON: 168   SPD: 289   STR: 267   STK: 210
+
+
+2662.22: uses Strike
+2874.29: uses Strike
+2662.22: uses Blow
+2874.29: uses Strike
+2662.22: uses Strike
+2874.29: uses Brace
+2662.22: uses Block
+2874.29: uses Strike
+2662.22: uses Strike
+2662.22: uses Brace
+2874.29: uses Strike
+2662.22: uses Blow
+2874.29: uses Block
+2662.22: uses Strike
+2874.29: uses Strike
+2662.22: uses Strike
+2662.22: uses Brace
+2874.29: uses Strike
+2662.22: uses Strike
+2874.29: uses Brace
+2662.22: uses Blow
+2874.29: uses Strike
+2662.22: uses Strike
+2662.22: uses Strike
+2874.29: uses Strike
+2662.22: uses Block
+2874.29: uses Strike
+2662.22: uses Brace
+2662.22: uses Block
+2874.29: uses Brace
+2662.22: uses Brace
+2874.29: uses Strike
+2662.22: uses Brace
+2662.22: uses Block
+2874.29: uses Block
+2662.22: uses Block
+2874.29: uses Brace
+2662.22: uses Strike
+2662.22: uses Brace
+2874.29: uses Block
+2662.22: uses Brace
+2662.22: uses Brace
+2874.29: uses Brace
+2662.22: uses Block
+2874.29: uses Brace
+2662.22: uses Strike
+2662.22: uses Block
+2874.29: uses Brace
+2662.22: uses Brace
+2874.29: uses Blow
+2662.22: uses Strike
+2662.22: uses Block
+2662.22: uses Brace
+2874.29: uses Strike
+2662.22: uses Brace
+2662.22: uses Brace
+2874.29: uses Brace
+2662.22: uses Brace
+2874.29: uses Strike
+2662.22: uses Brace
+2662.22: uses Brace
+2874.29: uses Strike
+2662.22: uses Brace
+2662.22: uses Brace
+2874.29: uses Strike
+2662.22: uses Brace
+2874.29: uses Strike
+2662.22: uses Strike
+2662.22: uses Brace
+2874.29: uses Block
+2662.22: uses Brace
+2874.29: uses Brace
+2662.22: uses Block
+2662.22: uses Brace
+2874.29: uses Brace
+2662.22: uses Brace
+2662.22: uses Strike
+2874.29: uses Strike
+2662.22: uses Brace
+2874.29: uses Brace
+2662.22: uses Block
+2662.22: uses Brace
+2874.29: uses Brace
+2662.22: uses Brace
+2874.29: uses Brace
+2662.22: uses Brace
+2662.22: uses Brace
+2874.29: uses Brace
+2662.22: uses Block
+2874.29: uses Brace
+2662.22: uses Blow
+2874.29: uses Brace
+2662.22: uses Strike
+2874.29: uses Brace
+2662.22: uses Brace
+2662.22: uses Strike
+2874.29: uses Strike
+2662.22: uses Strike
+2662.22: uses Brace
+2874.29: uses Blow
+2662.22: uses Strike
+2662.22: uses Strike
+2662.22: uses Strike
+2874.29: uses Brace
+2662.22: uses Blow
+2874.29: uses Brace
+2662.22: uses Block
+2874.29: uses Brace
+2662.22: uses Brace
+2874.29: uses Brace
+2662.22: uses Block
+2662.22: uses Strike
+2874.29: uses Blow
+2662.22: uses Strike
+1: Left Creature Wins (17:19:35.343)

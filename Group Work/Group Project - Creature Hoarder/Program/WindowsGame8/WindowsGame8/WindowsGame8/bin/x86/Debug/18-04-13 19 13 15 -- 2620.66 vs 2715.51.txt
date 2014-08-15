@@ -1,0 +1,62 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:13:15 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 7  Amphibious: 94  Aggressive: 45  atkPerf: 15  Bird: 24  BLO: 280  BST: 2620.66  Bulk: 56  CON: 179  
+Courage: 48  curStam: 166  Cuteness: 50  DEF: 218  defPerf: 73  Effort: 0  eggHappy: 11  Feet: 52  Fickle: 18  Happiness: 15.5  
+happyRate: 0.68  HP: 6182  Insect: 36  Intelligence: 0  Lifespan: 18  Limb: 47  Litter: 43  Mammal: 22  maxAge: 48  maxStam: 214  
+metabolism: 23  Obediance: 0  Reactions: 0  Reptile: 21  restRate: 0.73  SPD: 301  Spoilage: 15.5  spoilRate: 1.02  Stamina: 7  
+stamRate: 0.73  Stance: 7  STK: 213  STR: 194  Tallness: 7  Tech: 0  Thickness: 18  Vanity: 52  Wings: 38  
+
+BLO: 280   
+ HP: 6182    DEF: 218   CON: 179   SPD: 301   STR: 194   STK: 213
+
+~~ Right Creature ~~
+ Age: 21  Amphibious: 29  Aggressive: 8  atkPerf: 24  Bird: 29  BLO: 234  BST: 2715.51  Bulk: 52  CON: 243  
+Courage: 99  curStam: 171  Cuteness: 16  DEF: 234  defPerf: 23  Effort: 0  eggHappy: 13  Feet: 55  Fickle: 36  Happiness: 16.5  
+happyRate: 0.86  HP: 6747  Insect: 33  Intelligence: 0  Lifespan: 21  Limb: 40  Litter: 41  Mammal: 7  maxAge: 51  maxStam: 292  
+metabolism: 48  Obediance: 0  Reactions: 0  Reptile: 11  restRate: 0.98  SPD: 208  Spoilage: 16.5  spoilRate: 0.82  Stamina: 46  
+stamRate: 0.98  Stance: 15  STK: 264  STR: 182  Tallness: 15  Tech: 0  Thickness: 56  Vanity: 32  Wings: 4
+
+BLO: 234    HP: 6747    DEF: 234   CON: 243   SPD: 208   STR: 182   STK: 264
+
+
+2620.66: uses Strike
+2715.51: uses Blow
+2620.66: uses Blow
+2715.51: uses Brace
+2620.66: uses Block
+2620.66: uses Strike
+2715.51: uses Blow
+2620.66: uses Blow
+2715.51: uses Strike
+2620.66: uses Strike
+2620.66: uses Blow
+2715.51: uses Blow
+2620.66: uses Blow
+2715.51: uses Strike
+2620.66: uses Blow
+2715.51: uses Blow
+2620.66: uses Blow
+2715.51: uses Brace
+2620.66: uses Strike
+2715.51: uses Brace
+2620.66: uses Blow
+2715.51: uses Brace
+2620.66: uses Blow
+2715.51: uses Brace
+2715.51: uses Blow
+2620.66: uses Blow
+2620.66: uses Block
+2715.51: uses Brace
+2620.66: uses Block
+2715.51: uses Brace
+2620.66: uses Blow
+2715.51: uses Block
+2620.66: uses Block
+2715.51: uses Brace
+2620.66: uses Brace
+2715.51: uses Brace
+2620.66: uses Blow

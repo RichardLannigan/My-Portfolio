@@ -1,0 +1,177 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 19/04/2013 14:51:14 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 28  Amphibious: 71  Aggressive: 20  atkPerf: 62  Bird: 26  BLO: 237  BST: 2553.03  Bulk: 3  CON: 247  
+Courage: 91  curStam: 330  Cuteness: 51  DEF: 284  defPerf: 90  Effort: 0  eggHappy: 36  Feet: 40  Fickle: 32  Happiness: 28  
+happyRate: 0.82  HP: 5798  Insect: 45  Intelligence: 0  Lifespan: 61  Limb: 55  Litter: 58  Mammal: 9  maxAge: 91  maxStam: 330  
+metabolism: 38  Obediance: 0  Reactions: 0  Reptile: 42  restRate: 0.88  SPD: 222  Spoilage: 28  spoilRate: 0.8  Stamina: 65  
+stamRate: 0.88  Stance: 19  STK: 242  STR: 161  Tallness: 19  Tech: 0  Thickness: 5  Vanity: 30  Wings: 4  
+
+BLO: 237   
+ HP: 5798    DEF: 284   CON: 247   SPD: 222   STR: 161   STK: 242
+
+~~ Right Creature ~~
+ Age: 15  Amphibious: 19  Aggressive: 33  atkPerf: 29  Bird: 9  BLO: 266  BST: 3082.89  Bulk: 48  CON: 191  
+Courage: 20  curStam: 191  Cuteness: 54  DEF: 301  defPerf: 48  Effort: 0  eggHappy: 53  Feet: 58  Fickle: 36  Happiness: 36.5  
+happyRate: 0.86  HP: 8910  Insect: 60  Intelligence: 0  Lifespan: 13  Limb: 60  Litter: 2  Mammal: 25  maxAge: 43  maxStam: 202  
+metabolism: 85  Obediance: 0  Reactions: 0  Reptile: 60  restRate: 1.35  SPD: 182  Spoilage: 36.5  spoilRate: 0.78  Stamina: 1  
+stamRate: 1.35  Stance: 2  STK: 176  STR: 185  Tallness: 2  Tech: 0  Thickness: 48  Vanity: 28  Wings: 6
+
+BLO: 266    HP: 8910    DEF: 301   CON: 191   SPD: 182   STR: 185   STK: 176
+
+
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Block
+3082.89: uses Brace
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Brace
+2553.03: uses Blow
+3082.89: uses Brace
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Blow
+3082.89: uses Block
+2553.03: uses Blow
+3082.89: uses Block
+3082.89: uses Brace
+2553.03: uses Strike
+3082.89: uses Strike
+2553.03: uses Strike
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Blow
+3082.89: uses Brace
+3082.89: uses Brace
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Block
+2553.03: uses Blow
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Brace
+2553.03: uses Brace
+3082.89: uses Blow
+2553.03: uses Block
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Blow
+2553.03: uses Block
+2553.03: uses Blow
+3082.89: uses Brace
+3082.89: uses Blow
+2553.03: uses Strike
+2553.03: uses Strike
+2553.03: uses Strike
+3082.89: uses Blow
+2553.03: uses Block
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Blow
+3082.89: uses Strike
+2553.03: uses Strike
+2553.03: uses Blow
+3082.89: uses Brace
+3082.89: uses Blow
+2553.03: uses Strike
+2553.03: uses Blow
+3082.89: uses Brace
+3082.89: uses Block
+2553.03: uses Block
+2553.03: uses Strike
+3082.89: uses Blow
+2553.03: uses Block
+2553.03: uses Block
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Blow
+2553.03: uses Block
+3082.89: uses Brace
+2553.03: uses Blow
+3082.89: uses Block
+2553.03: uses Block
+3082.89: uses Brace
+2553.03: uses Blow
+3082.89: uses Blow
+2553.03: uses Strike
+3082.89: uses Brace
+2553.03: uses Block
+2553.03: uses Block
+3082.89: uses Block
+2553.03: uses Brace
+3082.89: uses Blow
+2553.03: uses Strike
+2553.03: uses Strike
+3082.89: uses Strike
+2553.03: uses Strike
+3082.89: uses Blow
+2553.03: uses Blow
+2553.03: uses Block
+3082.89: uses Brace
+2553.03: uses Brace
+3082.89: uses Strike
+2553.03: uses Blow
+3082.89: uses Strike
+3082.89: uses Block
+2553.03: uses Block
+3082.89: uses Brace
+2553.03: uses Strike
+2553.03: uses Blow
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Brace
+2553.03: uses Block
+3082.89: uses Brace
+2553.03: uses Block
+3082.89: uses Brace
+2553.03: uses Block
+2553.03: uses Block
+3082.89: uses Block
+2553.03: uses Block
+3082.89: uses Blow
+2553.03: uses Strike
+3082.89: uses Brace
+2553.03: uses Block
+3082.89: uses Brace
+2553.03: uses Block
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Strike
+3082.89: uses Blow
+2553.03: uses Block
+2553.03: uses Brace
+3082.89: uses Strike
+2553.03: uses Brace
+3082.89: uses Blow
+2553.03: uses Block
+2553.03: uses Block
+3082.89: uses Blow
+2553.03: uses Strike
+3082.89: uses Block
+2553.03: uses Blow
+3082.89: uses Blow
+2553.03: uses Strike
+2553.03: uses Block
+2553.03: uses Strike
+3082.89: uses Brace
+2553.03: uses Strike
+3082.89: uses Blow
+1: Right Creature Wins (14:51:45.565)

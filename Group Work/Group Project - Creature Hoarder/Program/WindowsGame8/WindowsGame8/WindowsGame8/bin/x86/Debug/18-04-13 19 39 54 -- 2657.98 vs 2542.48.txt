@@ -1,0 +1,113 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:39:54 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 4  Amphibious: 33  Aggressive: 25  atkPerf: 7  Bird: 14  BLO: 238  BST: 2657.98  Bulk: 23  CON: 270  
+Courage: 47  curStam: 80  Cuteness: 55  DEF: 281  defPerf: 23  Effort: 0  eggHappy: 33  Feet: 20  Fickle: 40  Happiness: 26.5  
+happyRate: 0.9  HP: 6354  Insect: 37  Intelligence: 0  Lifespan: 4  Limb: 41  Litter: 14  Mammal: 31  maxAge: 34  maxStam: 322  
+metabolism: 96  Obediance: 0  Reactions: 0  Reptile: 32  restRate: 1.46  SPD: 160  Spoilage: 26.5  spoilRate: 0.59  Stamina: 61  
+stamRate: 1.46  Stance: 28  STK: 205  STR: 233  Tallness: 28  Tech: 0  Thickness: 44  Vanity: 9  Wings: 8  
+
+BLO: 238   
+ HP: 6354    DEF: 281   CON: 270   SPD: 160   STR: 233   STK: 205
+
+~~ Right Creature ~~
+ Age: 46  Amphibious: 80  Aggressive: 23  atkPerf: 100  Bird: 40  BLO: 212  BST: 2542.48  Bulk: 38  CON: 258  
+Courage: 53  curStam: 120  Cuteness: 18  DEF: 255  defPerf: 13  Effort: 0  eggHappy: 21  Feet: 20  Fickle: 31  Happiness: 20.5  
+happyRate: 0.81  HP: 5581  Insect: 36  Intelligence: 0  Lifespan: 37  Limb: 33  Litter: 20  Mammal: 5  maxAge: 67  maxStam: 224  
+metabolism: 68  Obediance: 0  Reactions: 0  Reptile: 22  restRate: 1.18  SPD: 261  Spoilage: 20.5  spoilRate: 1.1  Stamina: 12  
+stamRate: 1.18  Stance: 55  STK: 296  STR: 145  Tallness: 55  Tech: 0  Thickness: 30  Vanity: 60  Wings: 47
+
+BLO: 212    HP: 5581    DEF: 255   CON: 258   SPD: 261   STR: 145   STK: 296
+
+
+2542.48: uses Strike
+2657.98: uses Blow
+2542.48: uses Strike
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Brace
+2542.48: uses Strike
+2657.98: uses Brace
+2542.48: uses Brace
+2542.48: uses Brace
+2657.98: uses Brace
+2542.48: uses Brace
+2657.98: uses Blow
+2542.48: uses Brace
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Blow
+2542.48: uses Brace
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Brace
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Brace
+2542.48: uses Strike
+2657.98: uses Blow
+2542.48: uses Brace
+2542.48: uses Strike
+2542.48: uses Brace
+2657.98: uses Brace
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Blow
+2542.48: uses Strike
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Blow
+2542.48: uses Strike
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Block
+2542.48: uses Strike
+2657.98: uses Brace
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Blow
+2542.48: uses Strike
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Blow
+2542.48: uses Strike
+2542.48: uses Strike
+2542.48: uses Brace
+2657.98: uses Blow
+2542.48: uses Strike
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Block
+2542.48: uses Brace
+2657.98: uses Block
+2542.48: uses Brace
+2542.48: uses Brace
+2657.98: uses Blow
+2542.48: uses Strike
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Block
+2542.48: uses Strike
+2657.98: uses Brace
+2542.48: uses Brace
+2542.48: uses Strike
+2657.98: uses Brace
+2542.48: uses Strike
+2657.98: uses Blow
+2542.48: uses Strike
+2542.48: uses Strike
+2542.48: uses Block
+2657.98: uses Blow
+2542.48: uses Strike
+2542.48: uses Strike
+2542.48: uses Brace
+2657.98: uses Blow
+2542.48: uses Brace
+2542.48: uses Strike
+2542.48: uses Strike
+2657.98: uses Strike
+2542.48: uses Strike
+1: Right Creature Wins (19:40:9.749)

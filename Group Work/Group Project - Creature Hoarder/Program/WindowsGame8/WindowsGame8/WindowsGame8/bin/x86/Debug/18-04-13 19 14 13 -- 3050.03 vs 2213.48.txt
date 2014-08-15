@@ -1,0 +1,61 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:14:13 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 1  Amphibious: 18  Aggressive: 21  atkPerf: 11  Bird: 52  BLO: 244  BST: 3050.03  Bulk: 40  CON: 174  
+Courage: 86  curStam: 207  Cuteness: 1  DEF: 131  defPerf: 62  Effort: 0  eggHappy: 8  Feet: 1  Fickle: 41  Happiness: 14  
+happyRate: 0.91  HP: 8814  Insect: 1  Intelligence: 0  Lifespan: 23  Limb: 5  Litter: 26  Mammal: 6  maxAge: 53  maxStam: 348  
+metabolism: 61  Obediance: 0  Reactions: 0  Reptile: 54  restRate: 1.11  SPD: 242  Spoilage: 14  spoilRate: 0.84  Stamina: 74  
+stamRate: 1.11  Stance: 4  STK: 283  STR: 213  Tallness: 4  Tech: 0  Thickness: 26  Vanity: 34  Wings: 38  
+
+BLO: 244   
+ HP: 8814    DEF: 131   CON: 174   SPD: 242   STR: 213   STK: 283
+
+~~ Right Creature ~~
+ Age: 20  Amphibious: 4  Aggressive: 36  atkPerf: 74  Bird: 5  BLO: 256  BST: 2213.48  Bulk: 11  CON: 226  
+Courage: 25  curStam: 205  Cuteness: 26  DEF: 314  defPerf: 67  Effort: 0  eggHappy: 57  Feet: 28  Fickle: 47  Happiness: 38.5  
+happyRate: 0.97  HP: 3683  Insect: 56  Intelligence: 0  Lifespan: 26  Limb: 4  Litter: 12  Mammal: 51  maxAge: 56  maxStam: 272  
+metabolism: 34  Obediance: 0  Reactions: 0  Reptile: 1  restRate: 0.84  SPD: 216  Spoilage: 38.5  spoilRate: 0.52  Stamina: 36  
+stamRate: 0.84  Stance: 2  STK: 136  STR: 329  Tallness: 2  Tech: 0  Thickness: 59  Vanity: 2  Wings: 32
+
+BLO: 256    HP: 3683    DEF: 314   CON: 226   SPD: 216   STR: 329   STK: 136
+
+
+3050.03: uses Blow
+2213.48: uses Block
+3050.03: uses Blow
+2213.48: uses Block
+3050.03: uses Block
+2213.48: uses Block
+3050.03: uses Block
+2213.48: uses Block
+3050.03: uses Brace
+2213.48: uses Blow
+3050.03: uses Strike
+3050.03: uses Brace
+2213.48: uses Strike
+3050.03: uses Block
+2213.48: uses Brace
+3050.03: uses Brace
+2213.48: uses Strike
+3050.03: uses Blow
+2213.48: uses Brace
+3050.03: uses Block
+2213.48: uses Block
+3050.03: uses Block
+2213.48: uses Block
+3050.03: uses Blow
+2213.48: uses Block
+3050.03: uses Brace
+2213.48: uses Strike
+3050.03: uses Block
+2213.48: uses Block
+3050.03: uses Brace
+2213.48: uses Block
+3050.03: uses Blow
+2213.48: uses Block
+3050.03: uses Blow
+3050.03: uses Blow
+2213.48: uses Block

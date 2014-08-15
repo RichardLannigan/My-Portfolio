@@ -1,0 +1,51 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:04:44 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 24  Amphibious: 3  Aggressive: 30  atkPerf: 100  Bird: 12  BLO: 227  BST: 2425.54  Bulk: 3  CON: 266  
+Courage: 43  curStam: 78  Cuteness: 14  DEF: 170  defPerf: 17  Effort: 0  eggHappy: 1  Feet: 52  Fickle: 18  Happiness: 10.5  
+happyRate: 0.68  HP: 4829  Insect: 2  Intelligence: 0  Lifespan: 30  Limb: 33  Litter: 13  Mammal: 35  maxAge: 60  maxStam: 298  
+metabolism: 28  Obediance: 0  Reactions: 0  Reptile: 30  restRate: 0.78  SPD: 371  Spoilage: 10.5  spoilRate: 0.68  Stamina: 49  
+stamRate: 0.78  Stance: 46  STK: 192  STR: 234  Tallness: 46  Tech: 0  Thickness: 2  Vanity: 18  Wings: 60  
+
+BLO: 227   
+ HP: 4829    DEF: 170   CON: 266   SPD: 371   STR: 234   STK: 192
+
+~~ Right Creature ~~
+ Age: 22  Amphibious: 71  Aggressive: 20  atkPerf: 37  Bird: 41  BLO: 174  BST: 2375.58  Bulk: 38  CON: 227  
+Courage: 62  curStam: 306  Cuteness: 35  DEF: 200  defPerf: 24  Effort: 0  eggHappy: 59  Feet: 48  Fickle: 42  Happiness: 39.5  
+happyRate: 0.92  HP: 4581  Insect: 18  Intelligence: 0  Lifespan: 1  Limb: 2  Litter: 28  Mammal: 55  maxAge: 31  maxStam: 354  
+metabolism: 75  Obediance: 0  Reactions: 0  Reptile: 9  restRate: 1.25  SPD: 306  Spoilage: 39.5  spoilRate: 0.6  Stamina: 77  
+stamRate: 1.25  Stance: 29  STK: 217  STR: 336  Tallness: 29  Tech: 0  Thickness: 37  Vanity: 10  Wings: 47
+
+BLO: 174    HP: 4581    DEF: 200   CON: 227   SPD: 306   STR: 336   STK: 217
+
+
+2425.54: uses Brace
+2375.58: uses Block
+2425.54: uses Strike
+2375.58: uses Strike
+2425.54: uses Block
+2375.58: uses Blow
+2425.54: uses Brace
+2425.54: uses Strike
+2375.58: uses Block
+2425.54: uses Brace
+2425.54: uses Brace
+2375.58: uses Blow
+2425.54: uses Strike
+2425.54: uses Brace
+2375.58: uses Blow
+2425.54: uses Strike
+2425.54: uses Brace
+2375.58: uses Blow
+2425.54: uses Strike
+2425.54: uses Brace
+2425.54: uses Brace
+2375.58: uses Strike
+2425.54: uses Brace
+2375.58: uses Blow
+2425.54: uses Brace
+2425.54: uses Brace

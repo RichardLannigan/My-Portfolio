@@ -1,0 +1,64 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:32:22 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 1  Amphibious: 52  Aggressive: 55  atkPerf: 48  Bird: 4  BLO: 269  BST: 2688.26  Bulk: 47  CON: 253  
+Courage: 63  curStam: 350  Cuteness: 4  DEF: 293  defPerf: 72  Effort: 0  eggHappy: 42  Feet: 38  Fickle: 45  Happiness: 31  
+happyRate: 0.95  HP: 6698  Insect: 52  Intelligence: 0  Lifespan: 15  Limb: 12  Litter: 17  Mammal: 2  maxAge: 45  maxStam: 388  
+metabolism: 57  Obediance: 0  Reactions: 0  Reptile: 27  restRate: 1.07  SPD: 176  Spoilage: 31  spoilRate: 0.93  Stamina: 94  
+stamRate: 1.07  Stance: 41  STK: 184  STR: 174  Tallness: 41  Tech: 0  Thickness: 39  Vanity: 43  Wings: 6  
+
+BLO: 269   
+ HP: 6698    DEF: 293   CON: 253   SPD: 176   STR: 174   STK: 184
+
+~~ Right Creature ~~
+ Age: 8  Amphibious: 12  Aggressive: 29  atkPerf: 86  Bird: 44  BLO: 228  BST: 2971.4  Bulk: 57  CON: 171  
+Courage: 58  curStam: 253  Cuteness: 27  DEF: 129  defPerf: 66  Effort: 0  eggHappy: 23  Feet: 44  Fickle: 8  Happiness: 21.5  
+happyRate: 0.58  HP: 8438  Insect: 4  Intelligence: 0  Lifespan: 3  Limb: 35  Litter: 10  Mammal: 30  maxAge: 33  maxStam: 272  
+metabolism: 13  Obediance: 0  Reactions: 0  Reptile: 59  restRate: 0.63  SPD: 286  Spoilage: 21.5  spoilRate: 0.6  Stamina: 36  
+stamRate: 0.63  Stance: 16  STK: 251  STR: 219  Tallness: 16  Tech: 0  Thickness: 36  Vanity: 10  Wings: 48
+
+BLO: 228    HP: 8438    DEF: 129   CON: 171   SPD: 286   STR: 219   STK: 251
+
+
+2971.4: uses Brace
+2688.26: uses Blow
+2971.4: uses Strike
+2971.4: uses Strike
+2971.4: uses Strike
+2688.26: uses Block
+2971.4: uses Block
+2688.26: uses Brace
+2971.4: uses Block
+2971.4: uses Brace
+2688.26: uses Strike
+2971.4: uses Brace
+2688.26: uses Blow
+2971.4: uses Strike
+2971.4: uses Strike
+2971.4: uses Strike
+2688.26: uses Block
+2971.4: uses Block
+2971.4: uses Strike
+2688.26: uses Block
+2971.4: uses Brace
+2688.26: uses Blow
+2971.4: uses Block
+2971.4: uses Strike
+2688.26: uses Block
+2971.4: uses Block
+2971.4: uses Strike
+2688.26: uses Block
+2971.4: uses Block
+2688.26: uses Block
+2971.4: uses Blow
+2971.4: uses Block
+2688.26: uses Block
+2971.4: uses Block
+2971.4: uses Strike
+2688.26: uses Strike
+2971.4: uses Brace
+2688.26: uses Strike
+2971.4: uses Brace

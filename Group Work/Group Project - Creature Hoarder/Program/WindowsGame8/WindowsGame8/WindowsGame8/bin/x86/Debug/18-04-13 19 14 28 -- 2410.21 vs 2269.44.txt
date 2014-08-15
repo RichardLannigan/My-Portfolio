@@ -1,0 +1,67 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:14:28 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 17  Amphibious: 51  Aggressive: 24  atkPerf: 53  Bird: 19  BLO: 207  BST: 2410.21  Bulk: 19  CON: 284  
+Courage: 8  curStam: 8  Cuteness: 2  DEF: 211  defPerf: 22  Effort: 0  eggHappy: 41  Feet: 56  Fickle: 39  Happiness: 30.5  
+happyRate: 0.89  HP: 4847  Insect: 8  Intelligence: 0  Lifespan: 16  Limb: 17  Litter: 49  Mammal: 37  maxAge: 46  maxStam: 270  
+metabolism: 33  Obediance: 0  Reactions: 0  Reptile: 18  restRate: 0.83  SPD: 270  Spoilage: 30.5  spoilRate: 0.88  Stamina: 35  
+stamRate: 0.83  Stance: 52  STK: 204  STR: 265  Tallness: 52  Tech: 0  Thickness: 42  Vanity: 38  Wings: 40  
+
+BLO: 207   
+ HP: 4847    DEF: 211   CON: 284   SPD: 270   STR: 265   STK: 204
+
+~~ Right Creature ~~
+ Age: 9  Amphibious: 80  Aggressive: 25  atkPerf: 39  Bird: 31  BLO: 246  BST: 2269.44  Bulk: 19  CON: 257  
+Courage: 70  curStam: 67  Cuteness: 27  DEF: 305  defPerf: 34  Effort: 0  eggHappy: 14  Feet: 10  Fickle: 18  Happiness: 17  
+happyRate: 0.68  HP: 3940  Insect: 54  Intelligence: 0  Lifespan: 61  Limb: 57  Litter: 33  Mammal: 4  maxAge: 91  maxStam: 328  
+metabolism: 63  Obediance: 0  Reactions: 0  Reptile: 13  restRate: 1.13  SPD: 279  Spoilage: 17  spoilRate: 1.06  Stamina: 64  
+stamRate: 1.13  Stance: 39  STK: 271  STR: 124  Tallness: 39  Tech: 0  Thickness: 26  Vanity: 56  Wings: 54
+
+BLO: 246    HP: 3940    DEF: 305   CON: 257   SPD: 279   STR: 124   STK: 271
+
+
+2269.44: uses Strike
+2410.21: uses Blow
+2269.44: uses Strike
+2269.44: uses Blow
+2410.21: uses Strike
+2410.21: uses Brace
+2269.44: uses Block
+2410.21: uses Block
+2269.44: uses Brace
+2410.21: uses Brace
+2269.44: uses Strike
+2410.21: uses Brace
+2269.44: uses Strike
+2410.21: uses Blow
+2269.44: uses Blow
+2410.21: uses Brace
+2269.44: uses Strike
+2410.21: uses Strike
+2269.44: uses Block
+2410.21: uses Blow
+2269.44: uses Block
+2410.21: uses Brace
+2269.44: uses Strike
+2410.21: uses Block
+2269.44: uses Strike
+2410.21: uses Brace
+2269.44: uses Brace
+2410.21: uses Strike
+2269.44: uses Strike
+2410.21: uses Blow
+2269.44: uses Brace
+2269.44: uses Strike
+2269.44: uses Strike
+2410.21: uses Blow
+2269.44: uses Blow
+2410.21: uses Blow
+2269.44: uses Strike
+2269.44: uses Block
+2410.21: uses Blow
+2269.44: uses Blow
+2410.21: uses Strike
+2410.21: uses Brace

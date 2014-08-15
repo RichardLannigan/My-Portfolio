@@ -1,0 +1,93 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 16:55:53 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 11  Amphibious: 92  Aggressive: 8  atkPerf: 33  Bird: 55  BLO: 193  BST: 2326.7  Bulk: 18  CON: 200  
+Courage: 40  curStam: 99  Cuteness: 27  DEF: 285  defPerf: 59  Effort: 0  eggHappy: 45  Feet: 28  Fickle: 9  Happiness: 32.5  
+happyRate: 0.59  HP: 4160  Insect: 46  Intelligence: 0  Lifespan: 61  Limb: 27  Litter: 7  Mammal: 2  maxAge: 91  maxStam: 296  
+metabolism: 68  Obediance: 0  Reactions: 0  Reptile: 6  restRate: 1.18  SPD: 319  Spoilage: 32.5  spoilRate: 0.91  Stamina: 48  
+stamRate: 1.18  Stance: 2  STK: 315  STR: 183  Tallness: 2  Tech: 0  Thickness: 23  Vanity: 41  Wings: 48  
+
+BLO: 193   
+ HP: 4160    DEF: 285   CON: 200   SPD: 319   STR: 183   STK: 315
+
+~~ Right Creature ~~
+ Age: 42  Amphibious: 66  Aggressive: 23  atkPerf: 27  Bird: 19  BLO: 234  BST: 2844.9  Bulk: 36  CON: 192  
+Courage: 8  curStam: 118  Cuteness: 12  DEF: 186  defPerf: 57  Effort: 0  eggHappy: 54  Feet: 49  Fickle: 48  Happiness: 37  
+happyRate: 0.98  HP: 7371  Insect: 24  Intelligence: 0  Lifespan: 61  Limb: 18  Litter: 44  Mammal: 44  maxAge: 91  maxStam: 254  
+metabolism: 58  Obediance: 0  Reactions: 0  Reptile: 37  restRate: 1.08  SPD: 322  Spoilage: 37  spoilRate: 0.98  Stamina: 27  
+stamRate: 1.08  Stance: 13  STK: 175  STR: 262  Tallness: 13  Tech: 0  Thickness: 37  Vanity: 48  Wings: 57
+
+BLO: 234    HP: 7371    DEF: 186   CON: 192   SPD: 322   STR: 262   STK: 175
+
+
+2844.9: uses Brace
+2326.7: uses Brace
+2844.9: uses Block
+2326.7: uses Blow
+2844.9: uses Strike
+2326.7: uses Brace
+2844.9: uses Block
+2326.7: uses Blow
+2844.9: uses Strike
+2326.7: uses Block
+2844.9: uses Brace
+2326.7: uses Blow
+2844.9: uses Blow
+2326.7: uses Blow
+2844.9: uses Brace
+2844.9: uses Strike
+2326.7: uses Brace
+2326.7: uses Brace
+2844.9: uses Block
+2326.7: uses Blow
+2844.9: uses Blow
+2326.7: uses Blow
+2844.9: uses Block
+2844.9: uses Blow
+2326.7: uses Brace
+2326.7: uses Brace
+2844.9: uses Block
+2326.7: uses Blow
+2844.9: uses Blow
+2326.7: uses Blow
+2844.9: uses Block
+2326.7: uses Block
+2844.9: uses Brace
+2326.7: uses Brace
+2844.9: uses Strike
+2326.7: uses Block
+2844.9: uses Block
+2326.7: uses Strike
+2844.9: uses Brace
+2326.7: uses Blow
+2844.9: uses Blow
+2326.7: uses Blow
+2844.9: uses Block
+2844.9: uses Blow
+2326.7: uses Blow
+2844.9: uses Strike
+2326.7: uses Blow
+2844.9: uses Blow
+2326.7: uses Brace
+2844.9: uses Brace
+2326.7: uses Blow
+2844.9: uses Blow
+1: Right Creature Wins (16:56:1.567)
+2326.7: uses Blow
+2844.9: uses Strike
+2326.7: uses Strike
+2844.9: uses Blow
+2326.7: uses Blow
+2844.9: uses Blow
+2326.7: uses Blow
+2844.9: uses Blow
+2326.7: uses Strike
+2844.9: uses Blow
+2326.7: uses Blow
+2844.9: uses Blow
+2326.7: uses Block
+2844.9: uses Blow
+2326.7: uses Strike

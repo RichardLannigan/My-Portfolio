@@ -1,0 +1,60 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:27:33 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 17  Amphibious: 27  Aggressive: 29  atkPerf: 55  Bird: 33  BLO: 256  BST: 2759.16  Bulk: 31  CON: 204  
+Courage: 77  curStam: 65  Cuteness: 19  DEF: 288  defPerf: 16  Effort: 0  eggHappy: 44  Feet: 33  Fickle: 25  Happiness: 32  
+happyRate: 0.75  HP: 7006  Insect: 55  Intelligence: 0  Lifespan: 61  Limb: 30  Litter: 55  Mammal: 21  maxAge: 91  maxStam: 298  
+metabolism: 41  Obediance: 0  Reactions: 0  Reptile: 47  restRate: 0.91  SPD: 168  Spoilage: 32  spoilRate: 0.9  Stamina: 49  
+stamRate: 0.91  Stance: 8  STK: 235  STR: 207  Tallness: 8  Tech: 0  Thickness: 35  Vanity: 40  Wings: 2  
+
+BLO: 256   
+ HP: 7006    DEF: 288   CON: 204   SPD: 168   STR: 207   STK: 235
+
+~~ Right Creature ~~
+ Age: 53  Amphibious: 11  Aggressive: 9  atkPerf: 9  Bird: 18  BLO: 227  BST: 3122.53  Bulk: 51  CON: 192  
+Courage: 29  curStam: 341  Cuteness: 12  DEF: 162  defPerf: 6  Effort: 0  eggHappy: 50  Feet: 35  Fickle: 27  Happiness: 35  
+happyRate: 0.77  HP: 9168  Insect: 6  Intelligence: 0  Lifespan: 61  Limb: 34  Litter: 31  Mammal: 51  maxAge: 91  maxStam: 376  
+metabolism: 51  Obediance: 0  Reactions: 0  Reptile: 51  restRate: 1.01  SPD: 209  Spoilage: 35  spoilRate: 0.62  Stamina: 88  
+stamRate: 1.01  Stance: 7  STK: 206  STR: 293  Tallness: 7  Tech: 0  Thickness: 38  Vanity: 12  Wings: 12
+
+BLO: 227    HP: 9168    DEF: 162   CON: 192   SPD: 209   STR: 293   STK: 206
+
+
+3122.53: uses Brace
+2759.16: uses Brace
+3122.53: uses Brace
+2759.16: uses Brace
+3122.53: uses Brace
+2759.16: uses Strike
+3122.53: uses Brace
+2759.16: uses Strike
+3122.53: uses Brace
+2759.16: uses Brace
+3122.53: uses Brace
+3122.53: uses Brace
+2759.16: uses Brace
+3122.53: uses Brace
+2759.16: uses Block
+3122.53: uses Blow
+2759.16: uses Brace
+3122.53: uses Blow
+2759.16: uses Strike
+3122.53: uses Blow
+2759.16: uses Brace
+2759.16: uses Blow
+3122.53: uses Brace
+3122.53: uses Brace
+2759.16: uses Blow
+3122.53: uses Brace
+3122.53: uses Brace
+3122.53: uses Brace
+2759.16: uses Brace
+3122.53: uses Brace
+2759.16: uses Blow
+3122.53: uses Brace
+3122.53: uses Blow
+2759.16: uses Brace
+3122.53: uses Brace

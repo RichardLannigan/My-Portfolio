@@ -1,0 +1,99 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:03:59 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 19  Amphibious: 58  Aggressive: 5  atkPerf: 33  Bird: 31  BLO: 220  BST: 2814.74  Bulk: 36  CON: 215  
+Courage: 71  curStam: 129  Cuteness: 32  DEF: 177  defPerf: 10  Effort: 0  eggHappy: 39  Feet: 17  Fickle: 17  Happiness: 29.5  
+happyRate: 0.67  HP: 7272  Insect: 8  Intelligence: 0  Lifespan: 41  Limb: 36  Litter: 23  Mammal: 27  maxAge: 71  maxStam: 274  
+metabolism: 62  Obediance: 0  Reactions: 0  Reptile: 38  restRate: 1.12  SPD: 228  Spoilage: 29.5  spoilRate: 0.9  Stamina: 37  
+stamRate: 1.12  Stance: 8  STK: 263  STR: 257  Tallness: 8  Tech: 0  Thickness: 26  Vanity: 40  Wings: 18  
+
+BLO: 220   
+ HP: 7272    DEF: 177   CON: 215   SPD: 228   STR: 257   STK: 263
+
+~~ Right Creature ~~
+ Age: 20  Amphibious: 3  Aggressive: 8  atkPerf: 41  Bird: 7  BLO: 159  BST: 2381.63  Bulk: 11  CON: 289  
+Courage: 55  curStam: 90  Cuteness: 13  DEF: 284  defPerf: 17  Effort: 0  eggHappy: 49  Feet: 27  Fickle: 59  Happiness: 34.5  
+happyRate: 1.09  HP: 4623  Insect: 38  Intelligence: 0  Lifespan: 52  Limb: 24  Litter: 47  Mammal: 39  maxAge: 82  maxStam: 258  
+metabolism: 4  Obediance: 0  Reactions: 0  Reptile: 19  restRate: 0.54  SPD: 265  Spoilage: 34.5  spoilRate: 0.75  Stamina: 29  
+stamRate: 0.54  Stance: 58  STK: 207  STR: 252  Tallness: 58  Tech: 0  Thickness: 8  Vanity: 25  Wings: 32
+
+BLO: 159    HP: 4623    DEF: 284   CON: 289   SPD: 265   STR: 252   STK: 207
+
+
+2381.63: uses Blow
+2814.74: uses Strike
+2814.74: uses Brace
+2381.63: uses Brace
+2814.74: uses Brace
+2381.63: uses Brace
+2814.74: uses Blow
+2381.63: uses Brace
+2381.63: uses Strike
+2814.74: uses Blow
+2381.63: uses Brace
+2381.63: uses Brace
+2814.74: uses Blow
+2381.63: uses Brace
+2381.63: uses Brace
+2381.63: uses Brace
+2814.74: uses Brace
+2381.63: uses Brace
+2814.74: uses Brace
+2381.63: uses Blow
+2814.74: uses Brace
+2814.74: uses Brace
+2381.63: uses Brace
+2814.74: uses Blow
+2381.63: uses Brace
+2381.63: uses Brace
+2814.74: uses Blow
+2381.63: uses Strike
+2381.63: uses Brace
+2381.63: uses Brace
+2814.74: uses Strike
+2381.63: uses Brace
+2814.74: uses Strike
+2381.63: uses Brace
+2814.74: uses Blow
+2381.63: uses Brace
+2381.63: uses Blow
+2814.74: uses Brace
+2814.74: uses Blow
+2381.63: uses Brace
+2381.63: uses Strike
+2381.63: uses Strike
+2814.74: uses Blow
+2381.63: uses Strike
+2381.63: uses Strike
+2814.74: uses Blow
+2381.63: uses Blow
+2814.74: uses Blow
+2381.63: uses Strike
+2381.63: uses Strike
+2814.74: uses Brace
+2381.63: uses Brace
+2814.74: uses Brace
+2381.63: uses Blow
+2814.74: uses Brace
+2381.63: uses Brace
+2814.74: uses Brace
+2381.63: uses Blow
+2814.74: uses Brace
+2814.74: uses Strike
+2381.63: uses Blow
+2814.74: uses Strike
+2814.74: uses Blow
+2381.63: uses Block
+2814.74: uses Blow
+2381.63: uses Brace
+2381.63: uses Brace
+2381.63: uses Blow
+2814.74: uses Brace
+2814.74: uses Blow
+2381.63: uses Strike
+2381.63: uses Blow
+2814.74: uses Blow
+1: Left Creature Wins (19:04:11.970)

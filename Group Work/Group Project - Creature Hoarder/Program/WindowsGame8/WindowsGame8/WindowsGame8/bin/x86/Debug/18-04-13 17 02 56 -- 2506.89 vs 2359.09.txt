@@ -1,0 +1,272 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:02:56 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 46  Amphibious: 65  Aggressive: 26  atkPerf: 12  Bird: 16  BLO: 206  BST: 2506.89  Bulk: 20  CON: 275  
+Courage: 58  curStam: 286  Cuteness: 29  DEF: 307  defPerf: 96  Effort: 0  eggHappy: 60  Feet: 30  Fickle: 36  Happiness: 40  
+happyRate: 0.86  HP: 5439  Insect: 50  Intelligence: 0  Lifespan: 48  Limb: 60  Litter: 12  Mammal: 53  maxAge: 78  maxStam: 322  
+metabolism: 1  Obediance: 0  Reactions: 0  Reptile: 40  restRate: 0.51  SPD: 186  Spoilage: 40  spoilRate: 1.05  Stamina: 61  
+stamRate: 0.51  Stance: 59  STK: 216  STR: 229  Tallness: 59  Tech: 0  Thickness: 25  Vanity: 55  Wings: 22  
+
+BLO: 206   
+ HP: 5439    DEF: 307   CON: 275   SPD: 186   STR: 229   STK: 216
+
+~~ Right Creature ~~
+ Age: 41  Amphibious: 79  Aggressive: 49  atkPerf: 6  Bird: 27  BLO: 333  BST: 2359.09  Bulk: 34  CON: 212  
+Courage: 16  curStam: 134  Cuteness: 23  DEF: 178  defPerf: 20  Effort: 0  eggHappy: 34  Feet: 15  Fickle: 52  Happiness: 27  
+happyRate: 1.02  HP: 4500  Insect: 10  Intelligence: 0  Lifespan: 40  Limb: 33  Litter: 36  Mammal: 54  maxAge: 70  maxStam: 286  
+metabolism: 94  Obediance: 0  Reactions: 0  Reptile: 2  restRate: 1.44  SPD: 207  Spoilage: 27  spoilRate: 0.69  Stamina: 43  
+stamRate: 1.44  Stance: 16  STK: 232  STR: 298  Tallness: 16  Tech: 0  Thickness: 27  Vanity: 19  Wings: 26
+
+BLO: 333    HP: 4500    DEF: 178   CON: 212   SPD: 207   STR: 298   STK: 232
+
+
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Block
+2506.89: uses Blow
+2359.09: uses Strike
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Blow
+2506.89: uses Strike
+2506.89: uses Blow
+2359.09: uses Strike
+2359.09: uses Blow
+1: Right Creature Wins (17:03:3.890)
+2506.89: uses Blow
+2359.09: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Block
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Block
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Blow
+2506.89: uses Block
+2506.89: uses Strike
+2359.09: uses Brace
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2: Left Creature Wins (17:03:10.900)
+2359.09: uses Brace
+2359.09: uses Block
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Strike
+2359.09: uses Strike
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Blow
+2359.09: uses Brace
+2506.89: uses Blow
+3: Right Creature Wins (17:03:19.314)
+2359.09: uses Block
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+4: Right Creature Wins (17:03:26.931)
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Blow
+5: Right Creature Wins (17:03:35.833)
+2506.89: uses Block
+2506.89: uses Block
+2359.09: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+6: Right Creature Wins (17:03:42.924)
+2506.89: uses Block
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Block
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+7: Right Creature Wins (17:03:50.585)
+2359.09: uses Blow
+2506.89: uses Strike
+2506.89: uses Blow
+2359.09: uses Block
+2359.09: uses Brace
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Strike
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Brace
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Brace
+2506.89: uses Block
+2359.09: uses Blow
+2359.09: uses Blow
+2506.89: uses Blow
+8: Right Creature Wins (17:03:58.594)
+2359.09: uses Brace
+2506.89: uses Blow
+2359.09: uses Blow
+2506.89: uses Block
+2359.09: uses Block
+2506.89: uses Blow
+2359.09: uses Brace
+2359.09: uses Blow
+2506.89: uses Block
+2506.89: uses Blow
+2359.09: uses Block
+2359.09: uses Blow
+2506.89: uses Blow

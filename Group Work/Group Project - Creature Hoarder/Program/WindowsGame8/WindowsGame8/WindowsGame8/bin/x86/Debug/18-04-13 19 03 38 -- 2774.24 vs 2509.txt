@@ -1,0 +1,96 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:03:38 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 36  Amphibious: 96  Aggressive: 3  atkPerf: 69  Bird: 8  BLO: 161  BST: 2774.24  Bulk: 34  CON: 212  
+Courage: 6  curStam: 293  Cuteness: 56  DEF: 271  defPerf: 96  Effort: 0  eggHappy: 38  Feet: 22  Fickle: 48  Happiness: 29  
+happyRate: 0.98  HP: 7059  Insect: 47  Intelligence: 0  Lifespan: 18  Limb: 9  Litter: 47  Mammal: 28  maxAge: 48  maxStam: 314  
+metabolism: 57  Obediance: 0  Reactions: 0  Reptile: 34  restRate: 1.07  SPD: 274  Spoilage: 29  spoilRate: 0.95  Stamina: 57  
+stamRate: 1.07  Stance: 5  STK: 152  STR: 292  Tallness: 5  Tech: 0  Thickness: 34  Vanity: 45  Wings: 40  
+
+BLO: 161   
+ HP: 7059    DEF: 271   CON: 212   SPD: 274   STR: 292   STK: 152
+
+~~ Right Creature ~~
+ Age: 12  Amphibious: 73  Aggressive: 3  atkPerf: 93  Bird: 52  BLO: 152  BST: 2509  Bulk: 56  CON: 265  
+Courage: 80  curStam: 296  Cuteness: 53  DEF: 220  defPerf: 66  Effort: 0  eggHappy: 30  Feet: 27  Fickle: 9  Happiness: 25  
+happyRate: 0.59  HP: 5412  Insect: 12  Intelligence: 0  Lifespan: 61  Limb: 26  Litter: 56  Mammal: 34  maxAge: 91  maxStam: 342  
+metabolism: 38  Obediance: 0  Reactions: 0  Reptile: 6  restRate: 0.88  SPD: 187  Spoilage: 25  spoilRate: 0.8  Stamina: 71  
+stamRate: 0.88  Stance: 50  STK: 310  STR: 294  Tallness: 50  Tech: 0  Thickness: 19  Vanity: 30  Wings: 7
+
+BLO: 152    HP: 5412    DEF: 220   CON: 265   SPD: 187   STR: 294   STK: 310
+
+
+2774.24: uses Block
+2509: uses Strike
+2774.24: uses Block
+2509: uses Strike
+2774.24: uses Block
+2509: uses Block
+2774.24: uses Strike
+2774.24: uses Strike
+2509: uses Strike
+2774.24: uses Block
+2509: uses Strike
+2774.24: uses Blow
+2509: uses Strike
+2774.24: uses Block
+2509: uses Strike
+2774.24: uses Strike
+2509: uses Strike
+2774.24: uses Blow
+2509: uses Strike
+2774.24: uses Strike
+2509: uses Strike
+2774.24: uses Block
+2774.24: uses Strike
+2509: uses Strike
+2774.24: uses Strike
+2509: uses Brace
+2774.24: uses Block
+2509: uses Strike
+2774.24: uses Block
+2774.24: uses Block
+2509: uses Strike
+2774.24: uses Block
+2509: uses Block
+2774.24: uses Strike
+2774.24: uses Strike
+2509: uses Block
+2774.24: uses Strike
+2509: uses Strike
+2774.24: uses Strike
+2509: uses Strike
+2774.24: uses Strike
+2774.24: uses Block
+2509: uses Strike
+2774.24: uses Strike
+2509: uses Brace
+2774.24: uses Strike
+2509: uses Strike
+2774.24: uses Strike
+2774.24: uses Block
+2509: uses Strike
+2774.24: uses Strike
+2509: uses Strike
+2774.24: uses Blow
+2509: uses Strike
+2774.24: uses Blow
+2509: uses Strike
+2509: uses Block
+2774.24: uses Strike
+2774.24: uses Strike
+2509: uses Blow
+2774.24: uses Blow
+2509: uses Block
+2774.24: uses Blow
+2774.24: uses Strike
+2509: uses Strike
+2774.24: uses Strike
+2509: uses Brace
+2774.24: uses Strike
+2774.24: uses Blow
+2509: uses Strike
+1: Right Creature Wins (19:03:49.988)

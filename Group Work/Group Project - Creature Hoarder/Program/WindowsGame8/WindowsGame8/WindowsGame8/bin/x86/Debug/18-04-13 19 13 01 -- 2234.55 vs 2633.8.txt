@@ -1,0 +1,62 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:13:01 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 4  Amphibious: 65  Aggressive: 47  atkPerf: 78  Bird: 55  BLO: 278  BST: 2234.55  Bulk: 6  CON: 253  
+Courage: 61  curStam: 187  Cuteness: 37  DEF: 226  defPerf: 41  Effort: 0  eggHappy: 50  Feet: 10  Fickle: 50  Happiness: 35  
+happyRate: 1  HP: 3709  Insect: 19  Intelligence: 0  Lifespan: 17  Limb: 3  Litter: 40  Mammal: 1  maxAge: 47  maxStam: 222  
+metabolism: 93  Obediance: 0  Reactions: 0  Reptile: 11  restRate: 1.43  SPD: 247  Spoilage: 35  spoilRate: 0.9  Stamina: 11  
+stamRate: 1.43  Stance: 28  STK: 293  STR: 196  Tallness: 28  Tech: 0  Thickness: 54  Vanity: 40  Wings: 50  
+
+BLO: 278   
+ HP: 3709    DEF: 226   CON: 253   SPD: 247   STR: 196   STK: 293
+
+~~ Right Creature ~~
+ Age: 3  Amphibious: 43  Aggressive: 11  atkPerf: 97  Bird: 54  BLO: 135  BST: 2633.8  Bulk: 19  CON: 244  
+Courage: 18  curStam: 126  Cuteness: 11  DEF: 225  defPerf: 87  Effort: 0  eggHappy: 29  Feet: 51  Fickle: 47  Happiness: 24.5  
+happyRate: 0.97  HP: 5973  Insect: 33  Intelligence: 0  Lifespan: 60  Limb: 38  Litter: 35  Mammal: 59  maxAge: 90  maxStam: 302  
+metabolism: 84  Obediance: 0  Reactions: 0  Reptile: 43  restRate: 1.34  SPD: 258  Spoilage: 24.5  spoilRate: 0.6  Stamina: 51  
+stamRate: 1.34  Stance: 50  STK: 308  STR: 270  Tallness: 50  Tech: 0  Thickness: 20  Vanity: 10  Wings: 38
+
+BLO: 135    HP: 5973    DEF: 225   CON: 244   SPD: 258   STR: 270   STK: 308
+
+
+2633.8: uses Block
+2234.55: uses Blow
+2633.8: uses Block
+2234.55: uses Strike
+2633.8: uses Block
+2234.55: uses Strike
+2633.8: uses Block
+2234.55: uses Strike
+2633.8: uses Strike
+2234.55: uses Strike
+2633.8: uses Strike
+2234.55: uses Strike
+2633.8: uses Strike
+2234.55: uses Blow
+2633.8: uses Block
+2234.55: uses Strike
+2633.8: uses Block
+2234.55: uses Strike
+2633.8: uses Strike
+2234.55: uses Block
+2633.8: uses Block
+2234.55: uses Strike
+2633.8: uses Strike
+2633.8: uses Strike
+2234.55: uses Block
+2633.8: uses Strike
+2234.55: uses Strike
+2633.8: uses Block
+2234.55: uses Strike
+2633.8: uses Block
+2234.55: uses Strike
+2633.8: uses Brace
+2234.55: uses Blow
+2633.8: uses Block
+2633.8: uses Strike
+2234.55: uses Strike
+1: Right Creature Wins (19:13:6.799)

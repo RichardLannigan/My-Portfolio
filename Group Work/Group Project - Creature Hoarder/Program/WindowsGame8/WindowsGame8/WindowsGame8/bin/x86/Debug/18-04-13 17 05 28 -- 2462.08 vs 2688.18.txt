@@ -1,0 +1,231 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:05:28 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 27  Amphibious: 3  Aggressive: 47  atkPerf: 14  Bird: 57  BLO: 264  BST: 2462.08  Bulk: 39  CON: 171  
+Courage: 3  curStam: 235  Cuteness: 24  DEF: 291  defPerf: 90  Effort: 0  eggHappy: 58  Feet: 50  Fickle: 13  Happiness: 39  
+happyRate: 0.63  HP: 5165  Insect: 60  Intelligence: 0  Lifespan: 25  Limb: 33  Litter: 49  Mammal: 6  maxAge: 55  maxStam: 252  
+metabolism: 92  Obediance: 0  Reactions: 0  Reptile: 12  restRate: 1.42  SPD: 305  Spoilage: 39  spoilRate: 0.93  Stamina: 26  
+stamRate: 1.42  Stance: 2  STK: 253  STR: 145  Tallness: 2  Tech: 0  Thickness: 51  Vanity: 43  Wings: 55  
+
+BLO: 264   
+ HP: 5165    DEF: 291   CON: 171   SPD: 305   STR: 145   STK: 253
+
+~~ Right Creature ~~
+ Age: 2  Amphibious: 73  Aggressive: 45  atkPerf: 91  Bird: 33  BLO: 229  BST: 2688.18  Bulk: 17  CON: 262  
+Courage: 12  curStam: 153  Cuteness: 36  DEF: 220  defPerf: 68  Effort: 0  eggHappy: 41  Feet: 10  Fickle: 31  Happiness: 30.5  
+happyRate: 0.81  HP: 6526  Insect: 22  Intelligence: 0  Lifespan: 15  Limb: 10  Litter: 55  Mammal: 28  maxAge: 45  maxStam: 390  
+metabolism: 77  Obediance: 0  Reactions: 0  Reptile: 56  restRate: 1.27  SPD: 198  Spoilage: 30.5  spoilRate: 1.04  Stamina: 95  
+stamRate: 1.27  Stance: 46  STK: 234  STR: 240  Tallness: 46  Tech: 0  Thickness: 48  Vanity: 54  Wings: 41
+
+BLO: 229    HP: 6526    DEF: 220   CON: 262   SPD: 198   STR: 240   STK: 234
+
+
+2462.08: uses Block
+2688.18: uses Brace
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Brace
+2688.18: uses Block
+2462.08: uses Blow
+2688.18: uses Blow
+2462.08: uses Blow
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Brace
+2688.18: uses Strike
+2462.08: uses Blow
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Blow
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Strike
+2688.18: uses Strike
+2462.08: uses Blow
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Blow
+2462.08: uses Blow
+2688.18: uses Block
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Brace
+2462.08: uses Block
+2462.08: uses Brace
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Strike
+2688.18: uses Strike
+2462.08: uses Brace
+2688.18: uses Block
+2462.08: uses Block
+2462.08: uses Blow
+2688.18: uses Strike
+2688.18: uses Blow
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Blow
+2688.18: uses Brace
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Brace
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Blow
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Blow
+1: Left Creature Wins (17:05:42.400)
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Blow
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Blow
+2462.08: uses Block
+2688.18: uses Brace
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Brace
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Blow
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Blow
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Blow
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Brace
+2462.08: uses Blow
+2688.18: uses Strike
+2462.08: uses Brace
+2688.18: uses Strike
+2462.08: uses Brace
+2462.08: uses Blow
+2688.18: uses Strike
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Blow
+2688.18: uses Strike
+2688.18: uses Strike
+2462.08: uses Brace
+2462.08: uses Brace
+2688.18: uses Brace
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Blow
+2688.18: uses Strike
+2462.08: uses Blow
+2688.18: uses Block
+2462.08: uses Blow
+2688.18: uses Strike
+2462.08: uses Blow
+2688.18: uses Strike
+2688.18: uses Block
+2462.08: uses Blow
+2462.08: uses Brace
+2688.18: uses Block
+2462.08: uses Block
+2462.08: uses Blow
+2688.18: uses Strike
+2688.18: uses Strike
+2462.08: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Blow
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2: Left Creature Wins (17:05:59.106)
+2462.08: uses Brace
+2688.18: uses Brace
+2462.08: uses Block
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Strike
+2462.08: uses Block
+2688.18: uses Brace
+2462.08: uses Brace
+2462.08: uses Block
+2688.18: uses Block
+2462.08: uses Block

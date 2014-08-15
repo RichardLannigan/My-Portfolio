@@ -1,0 +1,79 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:00:46 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 9  Amphibious: 61  Aggressive: 45  atkPerf: 17  Bird: 56  BLO: 259  BST: 2658.67  Bulk: 32  CON: 199  
+Courage: 27  curStam: 29  Cuteness: 36  DEF: 273  defPerf: 11  Effort: 0  eggHappy: 36  Feet: 20  Fickle: 53  Happiness: 28  
+happyRate: 1.03  HP: 6304  Insect: 54  Intelligence: 0  Lifespan: 2  Limb: 55  Litter: 21  Mammal: 39  maxAge: 32  maxStam: 276  
+metabolism: 49  Obediance: 0  Reactions: 0  Reptile: 46  restRate: 0.99  SPD: 168  Spoilage: 28  spoilRate: 0.79  Stamina: 38  
+stamRate: 0.99  Stance: 29  STK: 310  STR: 190  Tallness: 29  Tech: 0  Thickness: 26  Vanity: 29  Wings: 18  
+
+BLO: 259   
+ HP: 6304    DEF: 273   CON: 199   SPD: 168   STR: 190   STK: 310
+
+~~ Right Creature ~~
+ Age: 11  Amphibious: 43  Aggressive: 7  atkPerf: 27  Bird: 13  BLO: 193  BST: 2506.91  Bulk: 3  CON: 224  
+Courage: 97  curStam: 211  Cuteness: 40  DEF: 316  defPerf: 14  Effort: 0  eggHappy: 14  Feet: 57  Fickle: 39  Happiness: 17  
+happyRate: 0.89  HP: 5517  Insect: 54  Intelligence: 0  Lifespan: 20  Limb: 34  Litter: 22  Mammal: 12  maxAge: 50  maxStam: 334  
+metabolism: 73  Obediance: 0  Reactions: 0  Reptile: 38  restRate: 1.23  SPD: 333  Spoilage: 17  spoilRate: 0.72  Stamina: 67  
+stamRate: 1.23  Stance: 6  STK: 174  STR: 165  Tallness: 6  Tech: 0  Thickness: 10  Vanity: 22  Wings: 44
+
+BLO: 193    HP: 5517    DEF: 316   CON: 224   SPD: 333   STR: 165   STK: 174
+
+
+2506.91: uses Brace
+2658.67: uses Brace
+2506.91: uses Brace
+2658.67: uses Blow
+2506.91: uses Strike
+2506.91: uses Blow
+2506.91: uses Blow
+2658.67: uses Blow
+2506.91: uses Blow
+2506.91: uses Brace
+2658.67: uses Brace
+2506.91: uses Blow
+2658.67: uses Blow
+2506.91: uses Blow
+2506.91: uses Blow
+2658.67: uses Brace
+2506.91: uses Blow
+2658.67: uses Brace
+2506.91: uses Brace
+2658.67: uses Brace
+2506.91: uses Blow
+2658.67: uses Blow
+2506.91: uses Blow
+2506.91: uses Brace
+2658.67: uses Blow
+2506.91: uses Strike
+2506.91: uses Strike
+2506.91: uses Strike
+2506.91: uses Block
+2658.67: uses Blow
+2506.91: uses Blow
+2506.91: uses Strike
+2658.67: uses Strike
+2506.91: uses Brace
+2506.91: uses Brace
+2658.67: uses Strike
+2506.91: uses Brace
+2506.91: uses Brace
+2658.67: uses Brace
+2506.91: uses Blow
+2658.67: uses Brace
+2506.91: uses Brace
+2506.91: uses Brace
+2658.67: uses Brace
+2506.91: uses Blow
+2658.67: uses Brace
+2506.91: uses Blow
+2658.67: uses Blow
+2506.91: uses Blow
+2506.91: uses Brace
+2658.67: uses Blow
+2506.91: uses Brace
+2506.91: uses Brace
+2506.91: uses Strike

@@ -1,0 +1,84 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:13:51 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 44  Amphibious: 80  Aggressive: 29  atkPerf: 99  Bird: 48  BLO: 284  BST: 2359.27  Bulk: 12  CON: 255  
+Courage: 33  curStam: 309  Cuteness: 16  DEF: 230  defPerf: 5  Effort: 0  eggHappy: 43  Feet: 9  Fickle: 49  Happiness: 31.5  
+happyRate: 0.99  HP: 4455  Insect: 23  Intelligence: 0  Lifespan: 61  Limb: 32  Litter: 49  Mammal: 10  maxAge: 91  maxStam: 392  
+metabolism: 52  Obediance: 0  Reactions: 0  Reptile: 15  restRate: 1.02  SPD: 187  Spoilage: 31.5  spoilRate: 1.04  Stamina: 96  
+stamRate: 1.02  Stance: 21  STK: 311  STR: 202  Tallness: 21  Tech: 0  Thickness: 21  Vanity: 54  Wings: 6  
+
+BLO: 284   
+ HP: 4455    DEF: 230   CON: 255   SPD: 187   STR: 202   STK: 311
+
+~~ Right Creature ~~
+ Age: 17  Amphibious: 84  Aggressive: 12  atkPerf: 7  Bird: 18  BLO: 223  BST: 2843.01  Bulk: 39  CON: 257  
+Courage: 18  curStam: 237  Cuteness: 33  DEF: 286  defPerf: 24  Effort: 0  eggHappy: 40  Feet: 8  Fickle: 3  Happiness: 30  
+happyRate: 0.53  HP: 7543  Insect: 47  Intelligence: 0  Lifespan: 40  Limb: 29  Litter: 40  Mammal: 5  maxAge: 70  maxStam: 272  
+metabolism: 16  Obediance: 0  Reactions: 0  Reptile: 42  restRate: 0.66  SPD: 149  Spoilage: 30  spoilRate: 0.89  Stamina: 36  
+stamRate: 0.66  Stance: 19  STK: 220  STR: 200  Tallness: 19  Tech: 0  Thickness: 56  Vanity: 39  Wings: 9
+
+BLO: 223    HP: 7543    DEF: 286   CON: 257   SPD: 149   STR: 200   STK: 220
+
+
+2359.27: uses Brace
+2843.01: uses Blow
+2359.27: uses Strike
+2359.27: uses Strike
+2843.01: uses Brace
+2359.27: uses Strike
+2843.01: uses Blow
+2359.27: uses Brace
+2359.27: uses Block
+2843.01: uses Strike
+2359.27: uses Strike
+2359.27: uses Brace
+2843.01: uses Blow
+2359.27: uses Strike
+2359.27: uses Brace
+2843.01: uses Blow
+2359.27: uses Strike
+2359.27: uses Brace
+2359.27: uses Brace
+2843.01: uses Blow
+2359.27: uses Strike
+2359.27: uses Blow
+2843.01: uses Blow
+2359.27: uses Strike
+2843.01: uses Blow
+2359.27: uses Strike
+2359.27: uses Strike
+2359.27: uses Strike
+2843.01: uses Blow
+2359.27: uses Strike
+2359.27: uses Strike
+2843.01: uses Blow
+2359.27: uses Brace
+2359.27: uses Strike
+2843.01: uses Blow
+2359.27: uses Brace
+2359.27: uses Brace
+2359.27: uses Brace
+2843.01: uses Blow
+2359.27: uses Strike
+2359.27: uses Strike
+2843.01: uses Blow
+2359.27: uses Brace
+2359.27: uses Strike
+2359.27: uses Brace
+2843.01: uses Brace
+2359.27: uses Strike
+2843.01: uses Blow
+2359.27: uses Strike
+2359.27: uses Strike
+1: Left Creature Wins (17:14:3.773)
+2843.01: uses Blow
+2359.27: uses Strike
+2359.27: uses Strike
+2359.27: uses Strike
+2843.01: uses Block
+2359.27: uses Strike
+2843.01: uses Brace
+2359.27: uses Strike

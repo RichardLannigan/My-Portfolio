@@ -1,0 +1,80 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:16:22 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 43  Amphibious: 49  Aggressive: 60  atkPerf: 7  Bird: 21  BLO: 326  BST: 2663.61  Bulk: 56  CON: 228  
+Courage: 84  curStam: 136  Cuteness: 22  DEF: 235  defPerf: 77  Effort: 0  eggHappy: 57  Feet: 16  Fickle: 39  Happiness: 38.5  
+happyRate: 0.89  HP: 6243  Insect: 46  Intelligence: 0  Lifespan: 38  Limb: 49  Litter: 28  Mammal: 22  maxAge: 68  maxStam: 368  
+metabolism: 66  Obediance: 0  Reactions: 0  Reptile: 32  restRate: 1.16  SPD: 258  Spoilage: 38.5  spoilRate: 0.71  Stamina: 84  
+stamRate: 1.16  Stance: 53  STK: 213  STR: 156  Tallness: 53  Tech: 0  Thickness: 50  Vanity: 21  Wings: 59  
+
+BLO: 326   
+ HP: 6243    DEF: 235   CON: 228   SPD: 258   STR: 156   STK: 213
+
+~~ Right Creature ~~
+ Age: 21  Amphibious: 55  Aggressive: 9  atkPerf: 58  Bird: 9  BLO: 138  BST: 2721.64  Bulk: 17  CON: 250  
+Courage: 37  curStam: 285  Cuteness: 40  DEF: 226  defPerf: 39  Effort: 0  eggHappy: 23  Feet: 43  Fickle: 33  Happiness: 21.5  
+happyRate: 0.83  HP: 6792  Insect: 25  Intelligence: 0  Lifespan: 53  Limb: 43  Litter: 34  Mammal: 60  maxAge: 83  maxStam: 352  
+metabolism: 69  Obediance: 0  Reactions: 0  Reptile: 60  restRate: 1.19  SPD: 299  Spoilage: 21.5  spoilRate: 0.82  Stamina: 76  
+stamRate: 1.19  Stance: 49  STK: 164  STR: 285  Tallness: 49  Tech: 0  Thickness: 21  Vanity: 32  Wings: 55
+
+BLO: 138    HP: 6792    DEF: 226   CON: 250   SPD: 299   STR: 285   STK: 164
+
+
+2721.64: uses Strike
+2663.61: uses Blow
+2721.64: uses Blow
+2663.61: uses Block
+2721.64: uses Brace
+2663.61: uses Block
+2721.64: uses Brace
+2663.61: uses Blow
+2721.64: uses Strike
+2721.64: uses Block
+2663.61: uses Blow
+2721.64: uses Block
+2721.64: uses Blow
+2663.61: uses Blow
+2721.64: uses Block
+2663.61: uses Block
+2721.64: uses Strike
+2663.61: uses Brace
+2721.64: uses Brace
+2663.61: uses Block
+2721.64: uses Brace
+2663.61: uses Blow
+2721.64: uses Brace
+2721.64: uses Blow
+2663.61: uses Blow
+2721.64: uses Strike
+2721.64: uses Blow
+2663.61: uses Blow
+2721.64: uses Blow
+2663.61: uses Blow
+2721.64: uses Blow
+2663.61: uses Blow
+2721.64: uses Strike
+2663.61: uses Block
+2721.64: uses Brace
+2721.64: uses Strike
+2663.61: uses Blow
+2721.64: uses Strike
+2721.64: uses Blow
+2663.61: uses Blow
+2721.64: uses Blow
+2663.61: uses Blow
+2721.64: uses Strike
+2663.61: uses Blow
+2721.64: uses Blow
+2663.61: uses Blow
+2721.64: uses Strike
+2721.64: uses Strike
+2721.64: uses Brace
+2663.61: uses Block
+2721.64: uses Blow
+2663.61: uses Block
+2721.64: uses Blow
+2663.61: uses Blow
+1: Left Creature Wins (18:16:32.620)

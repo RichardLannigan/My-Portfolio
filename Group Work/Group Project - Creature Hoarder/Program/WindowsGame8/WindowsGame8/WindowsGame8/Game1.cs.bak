@@ -1,0 +1,91 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.GamerServices;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
+
+namespace WindowsGame8
+{
+    public class Game1 : Microsoft.Xna.Framework.Game
+    {
+        GraphicsDeviceManager graphics;
+        SpriteBatch spriteBatch;
+
+        public static Random rand = new Random();
+        public static creature[] ranch = new creature[30];
+        public static creature[] clutch = new creature[12];
+        public static int targetCreature = 1;//what creature to show, -1 before using
+
+        
+        public Game1()
+        {
+            graphics = new GraphicsDeviceManager(this);
+            graphics.PreferredBackBufferWidth = 1280;
+            graphics.PreferredBackBufferHeight = 720;
+            Content.RootDirectory = "Content";
+            IsMouseVisible = true;
+
+            for (int count = 0; count < 30; count++)
+                ranch[count] = new creature();
+        }
+
+        
+        protected override void Initialize()
+        {
+            spriteBatch = new SpriteBatch(GraphicsDevice);            
+
+            Services.AddService(typeof(SpriteBatch), spriteBatch);
+            Services.AddService(typeof(InputManager), new InputManager(this));
+            
+            Components.Add(Services.GetService(typeof(InputManager)) as InputManager);
+            Components.Add(new SceneManager(this));
+
+            for (int count = 0; count < 30; count++)
+            {
+                Game1.ranch[count].generate(1400);
+                Game1.ranch[count].initilize();
+            }           
+            
+
+            base.Initialize();
+        }
+
+
+        protected override void LoadContent() { }
+        
+
+        protected override void UnloadContent()
+        {
+            // TODO: Unload any non ContentManager content here
+        }
+
+        
+        protected override void Update(GameTime gameTime)
+        {
+            // Allows the game to exit
+            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
+                this.Exit();
+
+            // TODO: Add your update logic here
+
+            base.Update(gameTime);
+        }
+
+        
+        protected override void Draw(GameTime gameTime)
+        {
+            GraphicsDevice.Clear(Color.CornflowerBlue);
+
+            //spriteBatch.Begin();
+
+            base.Draw(gameTime);
+
+            //spriteBatch.End();
+        }
+    }
+}

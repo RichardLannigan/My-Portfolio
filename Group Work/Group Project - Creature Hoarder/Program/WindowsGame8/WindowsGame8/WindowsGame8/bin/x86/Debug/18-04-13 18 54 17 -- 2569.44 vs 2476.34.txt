@@ -1,0 +1,83 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:54:17 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 41  Amphibious: 55  Aggressive: 47  atkPerf: 56  Bird: 34  BLO: 272  BST: 2569.44  Bulk: 15  CON: 206  
+Courage: 16  curStam: 109  Cuteness: 44  DEF: 160  defPerf: 96  Effort: 0  eggHappy: 37  Feet: 28  Fickle: 3  Happiness: 28.5  
+happyRate: 0.53  HP: 5848  Insect: 10  Intelligence: 0  Lifespan: 61  Limb: 35  Litter: 1  Mammal: 56  maxAge: 91  maxStam: 360  
+metabolism: 40  Obediance: 0  Reactions: 0  Reptile: 54  restRate: 0.9  SPD: 278  Spoilage: 28.5  spoilRate: 1.02  Stamina: 80  
+stamRate: 0.9  Stance: 26  STK: 220  STR: 264  Tallness: 26  Tech: 0  Thickness: 10  Vanity: 52  Wings: 52  
+
+BLO: 272   
+ HP: 5848    DEF: 160   CON: 206   SPD: 278   STR: 264   STK: 220
+
+~~ Right Creature ~~
+ Age: 10  Amphibious: 10  Aggressive: 27  atkPerf: 15  Bird: 12  BLO: 220  BST: 2476.34  Bulk: 13  CON: 282  
+Courage: 8  curStam: 30  Cuteness: 19  DEF: 241  defPerf: 21  Effort: 0  eggHappy: 3  Feet: 43  Fickle: 19  Happiness: 11.5  
+happyRate: 0.69  HP: 5101  Insect: 21  Intelligence: 0  Lifespan: 4  Limb: 32  Litter: 10  Mammal: 10  maxAge: 34  maxStam: 322  
+metabolism: 65  Obediance: 0  Reactions: 0  Reptile: 24  restRate: 1.15  SPD: 334  Spoilage: 11.5  spoilRate: 1.06  Stamina: 61  
+stamRate: 1.15  Stance: 51  STK: 207  STR: 172  Tallness: 51  Tech: 0  Thickness: 32  Vanity: 56  Wings: 60
+
+BLO: 220    HP: 5101    DEF: 241   CON: 282   SPD: 334   STR: 172   STK: 207
+
+
+2476.34: uses Brace
+2569.44: uses Block
+2476.34: uses Brace
+2569.44: uses Strike
+2476.34: uses Brace
+2569.44: uses Block
+2476.34: uses Brace
+2569.44: uses Blow
+2476.34: uses Brace
+2476.34: uses Block
+2569.44: uses Blow
+2476.34: uses Brace
+2476.34: uses Blow
+2569.44: uses Block
+2476.34: uses Brace
+2569.44: uses Strike
+2476.34: uses Brace
+2569.44: uses Block
+2476.34: uses Brace
+2569.44: uses Strike
+2476.34: uses Brace
+2569.44: uses Strike
+2476.34: uses Brace
+2476.34: uses Blow
+2569.44: uses Block
+2476.34: uses Brace
+2569.44: uses Block
+2476.34: uses Brace
+2569.44: uses Blow
+2476.34: uses Blow
+2569.44: uses Block
+2476.34: uses Brace
+2476.34: uses Brace
+2569.44: uses Blow
+2476.34: uses Blow
+2569.44: uses Blow
+2476.34: uses Blow
+2569.44: uses Strike
+2476.34: uses Brace
+2569.44: uses Strike
+2476.34: uses Blow
+2569.44: uses Strike
+2476.34: uses Brace
+2569.44: uses Block
+2476.34: uses Blow
+2569.44: uses Blow
+2476.34: uses Brace
+2569.44: uses Block
+2476.34: uses Brace
+2569.44: uses Strike
+2476.34: uses Brace
+2569.44: uses Block
+2476.34: uses Brace
+2476.34: uses Brace
+2569.44: uses Strike
+2476.34: uses Brace
+2569.44: uses Blow
+2476.34: uses Blow

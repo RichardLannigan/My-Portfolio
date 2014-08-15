@@ -1,0 +1,47 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:56:42 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 12  Amphibious: 80  Aggressive: 25  atkPerf: 53  Bird: 24  BLO: 206  BST: 2866.64  Bulk: 46  CON: 169  
+Courage: 37  curStam: 197  Cuteness: 8  DEF: 283  defPerf: 57  Effort: 0  eggHappy: 47  Feet: 36  Fickle: 42  Happiness: 33.5  
+happyRate: 0.92  HP: 7738  Insect: 59  Intelligence: 0  Lifespan: 23  Limb: 9  Litter: 2  Mammal: 25  maxAge: 53  maxStam: 270  
+metabolism: 82  Obediance: 0  Reactions: 0  Reptile: 47  restRate: 1.32  SPD: 247  Spoilage: 33.5  spoilRate: 0.81  Stamina: 35  
+stamRate: 1.32  Stance: 11  STK: 194  STR: 220  Tallness: 11  Tech: 0  Thickness: 10  Vanity: 31  Wings: 27  
+
+BLO: 206   
+ HP: 7738    DEF: 283   CON: 169   SPD: 247   STR: 220   STK: 194
+
+~~ Right Creature ~~
+ Age: 20  Amphibious: 88  Aggressive: 5  atkPerf: 99  Bird: 60  BLO: 157  BST: 3038.62  Bulk: 45  CON: 266  
+Courage: 60  curStam: 155  Cuteness: 45  DEF: 218  defPerf: 34  Effort: 0  eggHappy: 28  Feet: 29  Fickle: 60  Happiness: 24  
+happyRate: 1.1  HP: 8606  Insect: 15  Intelligence: 0  Lifespan: 13  Limb: 39  Litter: 57  Mammal: 6  maxAge: 43  maxStam: 236  
+metabolism: 50  Obediance: 0  Reactions: 0  Reptile: 56  restRate: 1  SPD: 173  Spoilage: 24  spoilRate: 0.68  Stamina: 18  
+stamRate: 1  Stance: 46  STK: 339  STR: 165  Tallness: 46  Tech: 0  Thickness: 45  Vanity: 18  Wings: 14
+
+BLO: 157    HP: 8606    DEF: 218   CON: 266   SPD: 173   STR: 165   STK: 339
+
+
+2866.64: uses Blow
+3038.62: uses Strike
+3038.62: uses Strike
+2866.64: uses Strike
+3038.62: uses Strike
+2866.64: uses Strike
+2866.64: uses Block
+3038.62: uses Strike
+2866.64: uses Strike
+3038.62: uses Strike
+2866.64: uses Brace
+3038.62: uses Strike
+2866.64: uses Strike
+2866.64: uses Blow
+3038.62: uses Strike
+3038.62: uses Block
+2866.64: uses Blow
+2866.64: uses Blow
+3038.62: uses Strike
+3038.62: uses Strike
+2866.64: uses Blow
+3038.62: uses Strike

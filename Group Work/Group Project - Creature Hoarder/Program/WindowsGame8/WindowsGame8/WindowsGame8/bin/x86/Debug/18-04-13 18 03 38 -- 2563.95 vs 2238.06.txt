@@ -1,0 +1,36 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:03:38 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 2  Amphibious: 12  Aggressive: 30  atkPerf: 62  Bird: 16  BLO: 255  BST: 2563.95  Bulk: 10  CON: 238  
+Courage: 37  curStam: 223  Cuteness: 4  DEF: 198  defPerf: 63  Effort: 0  eggHappy: 8  Feet: 57  Fickle: 58  Happiness: 14  
+happyRate: 1.08  HP: 5921  Insect: 18  Intelligence: 0  Lifespan: 15  Limb: 45  Litter: 37  Mammal: 33  maxAge: 45  maxStam: 368  
+metabolism: 63  Obediance: 0  Reactions: 0  Reptile: 38  restRate: 1.13  SPD: 265  Spoilage: 14  spoilRate: 0.52  Stamina: 84  
+stamRate: 1.13  Stance: 18  STK: 213  STR: 211  Tallness: 18  Tech: 0  Thickness: 28  Vanity: 2  Wings: 31  
+
+BLO: 255   
+ HP: 5921    DEF: 198   CON: 238   SPD: 265   STR: 211   STK: 213
+
+~~ Right Creature ~~
+ Age: 35  Amphibious: 37  Aggressive: 45  atkPerf: 79  Bird: 59  BLO: 228  BST: 2238.06  Bulk: 19  CON: 301  
+Courage: 66  curStam: 74  Cuteness: 38  DEF: 220  defPerf: 19  Effort: 0  eggHappy: 53  Feet: 36  Fickle: 1  Happiness: 36.5  
+happyRate: 0.51  HP: 3676  Insect: 14  Intelligence: 0  Lifespan: 61  Limb: 13  Litter: 8  Mammal: 44  maxAge: 91  maxStam: 204  
+metabolism: 90  Obediance: 0  Reactions: 0  Reptile: 7  restRate: 1.4  SPD: 153  Spoilage: 36.5  spoilRate: 0.63  Stamina: 2  
+stamRate: 1.4  Stance: 57  STK: 309  STR: 292  Tallness: 57  Tech: 0  Thickness: 54  Vanity: 13  Wings: 18
+
+BLO: 228    HP: 3676    DEF: 220   CON: 301   SPD: 153   STR: 292   STK: 309
+
+
+2563.95: uses Block
+2238.06: uses Strike
+2563.95: uses Strike
+2238.06: uses Brace
+2563.95: uses Strike
+2563.95: uses Block
+2238.06: uses Strike
+2563.95: uses Brace
+2238.06: uses Strike
+2563.95: uses Strike
+2563.95: uses Block

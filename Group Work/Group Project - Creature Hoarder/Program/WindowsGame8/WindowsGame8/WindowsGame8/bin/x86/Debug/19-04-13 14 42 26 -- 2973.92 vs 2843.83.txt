@@ -1,0 +1,76 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 19/04/2013 14:42:26 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 17  Amphibious: 25  Aggressive: 28  atkPerf: 88  Bird: 36  BLO: 236  BST: 2973.92  Bulk: 36  CON: 248  
+Courage: 11  curStam: 201  Cuteness: 9  DEF: 203  defPerf: 9  Effort: 0  eggHappy: 7  Feet: 25  Fickle: 33  Happiness: 13.5  
+happyRate: 0.83  HP: 8313  Insect: 12  Intelligence: 0  Lifespan: 45  Limb: 46  Litter: 40  Mammal: 31  maxAge: 75  maxStam: 368  
+metabolism: 99  Obediance: 0  Reactions: 0  Reptile: 53  restRate: 1.49  SPD: 146  Spoilage: 13.5  spoilRate: 1  Stamina: 84  
+stamRate: 1.49  Stance: 47  STK: 270  STR: 209  Tallness: 47  Tech: 0  Thickness: 57  Vanity: 50  Wings: 15  
+
+BLO: 236   
+ HP: 8313    DEF: 203   CON: 248   SPD: 146   STR: 209   STK: 270
+
+~~ Right Creature ~~
+ Age: 22  Amphibious: 56  Aggressive: 28  atkPerf: 91  Bird: 49  BLO: 198  BST: 2843.83  Bulk: 48  CON: 169  
+Courage: 100  curStam: 65  Cuteness: 15  DEF: 264  defPerf: 48  Effort: 0  eggHappy: 5  Feet: 20  Fickle: 59  Happiness: 12.5  
+happyRate: 1.09  HP: 7418  Insect: 58  Intelligence: 0  Lifespan: 61  Limb: 1  Litter: 11  Mammal: 28  maxAge: 91  maxStam: 378  
+metabolism: 64  Obediance: 0  Reactions: 0  Reptile: 45  restRate: 1.14  SPD: 240  Spoilage: 12.5  spoilRate: 0.95  Stamina: 89  
+stamRate: 1.14  Stance: 17  STK: 239  STR: 249  Tallness: 17  Tech: 0  Thickness: 59  Vanity: 45  Wings: 58
+
+BLO: 198    HP: 7418    DEF: 264   CON: 169   SPD: 240   STR: 249   STK: 239
+
+
+2843.83: uses Strike
+2973.92: uses Brace
+2843.83: uses Block
+2973.92: uses Strike
+2843.83: uses Strike
+2843.83: uses Strike
+2973.92: uses Strike
+2843.83: uses Strike
+2973.92: uses Brace
+2843.83: uses Strike
+2843.83: uses Strike
+2973.92: uses Strike
+2843.83: uses Blow
+2973.92: uses Brace
+2843.83: uses Strike
+2973.92: uses Brace
+2843.83: uses Brace
+2973.92: uses Brace
+2843.83: uses Strike
+2843.83: uses Block
+2973.92: uses Strike
+2843.83: uses Strike
+2973.92: uses Strike
+2843.83: uses Strike
+2843.83: uses Strike
+2973.92: uses Strike
+2843.83: uses Strike
+2973.92: uses Brace
+2843.83: uses Strike
+2843.83: uses Blow
+2973.92: uses Brace
+2973.92: uses Strike
+2843.83: uses Strike
+2843.83: uses Block
+2973.92: uses Strike
+2843.83: uses Strike
+2973.92: uses Strike
+2843.83: uses Brace
+2843.83: uses Brace
+2973.92: uses Brace
+2843.83: uses Strike
+2973.92: uses Strike
+2843.83: uses Brace
+2843.83: uses Block
+2973.92: uses Strike
+2843.83: uses Strike
+2973.92: uses Blow
+2843.83: uses Block
+2843.83: uses Strike
+2843.83: uses Strike
+2973.92: uses Brace

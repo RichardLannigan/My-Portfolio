@@ -1,0 +1,56 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:47:33 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 57  Amphibious: 80  Aggressive: 49  atkPerf: 68  Bird: 51  BLO: 264  BST: 2877.06  Bulk: 49  CON: 191  
+Courage: 51  curStam: 151  Cuteness: 30  DEF: 156  defPerf: 81  Effort: 0  eggHappy: 13  Feet: 33  Fickle: 27  Happiness: 16.5  
+happyRate: 0.77  HP: 7798  Insect: 14  Intelligence: 0  Lifespan: 61  Limb: 10  Litter: 55  Mammal: 30  maxAge: 91  maxStam: 348  
+metabolism: 26  Obediance: 0  Reactions: 0  Reptile: 56  restRate: 0.76  SPD: 203  Spoilage: 16.5  spoilRate: 0.88  Stamina: 74  
+stamRate: 0.76  Stance: 13  STK: 243  STR: 261  Tallness: 13  Tech: 0  Thickness: 46  Vanity: 38  Wings: 28  
+
+BLO: 264   
+ HP: 7798    DEF: 156   CON: 191   SPD: 203   STR: 261   STK: 243
+
+~~ Right Creature ~~
+ Age: 22  Amphibious: 1  Aggressive: 28  atkPerf: 81  Bird: 18  BLO: 247  BST: 2614.88  Bulk: 50  CON: 202  
+Courage: 73  curStam: 48  Cuteness: 5  DEF: 265  defPerf: 100  Effort: 0  eggHappy: 35  Feet: 50  Fickle: 60  Happiness: 27.5  
+happyRate: 1.1  HP: 6190  Insect: 44  Intelligence: 0  Lifespan: 61  Limb: 9  Litter: 60  Mammal: 28  maxAge: 91  maxStam: 276  
+metabolism: 78  Obediance: 0  Reactions: 0  Reptile: 16  restRate: 1.28  SPD: 182  Spoilage: 27.5  spoilRate: 0.85  Stamina: 38  
+stamRate: 1.28  Stance: 10  STK: 196  STR: 285  Tallness: 10  Tech: 0  Thickness: 55  Vanity: 35  Wings: 7
+
+BLO: 247    HP: 6190    DEF: 265   CON: 202   SPD: 182   STR: 285   STK: 196
+
+
+2877.06: uses Strike
+2614.88: uses Strike
+2877.06: uses Blow
+2614.88: uses Strike
+2614.88: uses Strike
+2877.06: uses Block
+2614.88: uses Block
+2877.06: uses Block
+2614.88: uses Block
+2877.06: uses Block
+2614.88: uses Strike
+2877.06: uses Block
+2614.88: uses Block
+2877.06: uses Strike
+2614.88: uses Strike
+2877.06: uses Strike
+2614.88: uses Block
+2877.06: uses Strike
+2614.88: uses Block
+2877.06: uses Block
+2614.88: uses Strike
+2877.06: uses Block
+2877.06: uses Blow
+2614.88: uses Block
+2877.06: uses Strike
+2614.88: uses Block
+2877.06: uses Strike
+2614.88: uses Block
+2877.06: uses Strike
+2614.88: uses Block
+2877.06: uses Blow

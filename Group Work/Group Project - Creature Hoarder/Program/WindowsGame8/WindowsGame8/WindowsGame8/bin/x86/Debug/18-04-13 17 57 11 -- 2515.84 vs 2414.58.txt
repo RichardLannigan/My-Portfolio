@@ -1,0 +1,71 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:57:11 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 12  Amphibious: 15  Aggressive: 43  atkPerf: 31  Bird: 3  BLO: 339  BST: 2515.84  Bulk: 8  CON: 238  
+Courage: 2  curStam: 103  Cuteness: 56  DEF: 219  defPerf: 82  Effort: 0  eggHappy: 58  Feet: 12  Fickle: 38  Happiness: 39  
+happyRate: 0.88  HP: 5391  Insect: 7  Intelligence: 0  Lifespan: 2  Limb: 48  Litter: 28  Mammal: 14  maxAge: 32  maxStam: 260  
+metabolism: 42  Obediance: 0  Reactions: 0  Reptile: 27  restRate: 0.92  SPD: 265  Spoilage: 39  spoilRate: 0.52  Stamina: 30  
+stamRate: 0.92  Stance: 1  STK: 173  STR: 204  Tallness: 1  Tech: 0  Thickness: 57  Vanity: 2  Wings: 42  
+
+BLO: 339   
+ HP: 5391    DEF: 219   CON: 238   SPD: 265   STR: 204   STK: 173
+
+~~ Right Creature ~~
+ Age: 14  Amphibious: 63  Aggressive: 27  atkPerf: 81  Bird: 17  BLO: 216  BST: 2414.58  Bulk: 24  CON: 246  
+Courage: 82  curStam: 82  Cuteness: 21  DEF: 217  defPerf: 56  Effort: 0  eggHappy: 60  Feet: 55  Fickle: 49  Happiness: 40  
+happyRate: 0.99  HP: 4785  Insect: 20  Intelligence: 0  Lifespan: 61  Limb: 29  Litter: 38  Mammal: 57  maxAge: 91  maxStam: 364  
+metabolism: 90  Obediance: 0  Reactions: 0  Reptile: 20  restRate: 1.4  SPD: 289  Spoilage: 40  spoilRate: 1.1  Stamina: 82  
+stamRate: 1.4  Stance: 43  STK: 199  STR: 290  Tallness: 43  Tech: 0  Thickness: 12  Vanity: 60  Wings: 28
+
+BLO: 216    HP: 4785    DEF: 217   CON: 246   SPD: 289   STR: 290   STK: 199
+
+
+2414.58: uses Strike
+2515.84: uses Block
+2414.58: uses Brace
+2515.84: uses Block
+2414.58: uses Strike
+2515.84: uses Block
+2414.58: uses Brace
+2515.84: uses Block
+2414.58: uses Strike
+2515.84: uses Block
+2414.58: uses Brace
+2515.84: uses Block
+2414.58: uses Strike
+2515.84: uses Block
+2414.58: uses Blow
+2515.84: uses Block
+2414.58: uses Blow
+2515.84: uses Brace
+2515.84: uses Block
+2414.58: uses Block
+2515.84: uses Block
+2414.58: uses Strike
+2515.84: uses Block
+2414.58: uses Strike
+2515.84: uses Strike
+2414.58: uses Strike
+2515.84: uses Block
+2414.58: uses Block
+2515.84: uses Block
+2414.58: uses Strike
+2515.84: uses Block
+2414.58: uses Brace
+2414.58: uses Strike
+2515.84: uses Block
+2414.58: uses Block
+2515.84: uses Block
+2414.58: uses Brace
+2515.84: uses Blow
+2414.58: uses Block
+2414.58: uses Blow
+2515.84: uses Strike
+2515.84: uses Blow
+2414.58: uses Blow
+2515.84: uses Blow
+2414.58: uses Strike
+2414.58: uses Brace

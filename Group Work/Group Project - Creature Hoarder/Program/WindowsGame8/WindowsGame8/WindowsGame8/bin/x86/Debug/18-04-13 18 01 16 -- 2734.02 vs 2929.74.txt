@@ -1,0 +1,65 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:01:16 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 44  Amphibious: 57  Aggressive: 48  atkPerf: 25  Bird: 32  BLO: 267  BST: 2734.02  Bulk: 22  CON: 204  
+Courage: 41  curStam: 177  Cuteness: 18  DEF: 314  defPerf: 79  Effort: 0  eggHappy: 38  Feet: 48  Fickle: 18  Happiness: 29  
+happyRate: 0.68  HP: 6806  Insect: 58  Intelligence: 0  Lifespan: 38  Limb: 3  Litter: 60  Mammal: 7  maxAge: 68  maxStam: 236  
+metabolism: 85  Obediance: 0  Reactions: 0  Reptile: 49  restRate: 1.35  SPD: 217  Spoilage: 29  spoilRate: 0.85  Stamina: 18  
+stamRate: 1.35  Stance: 17  STK: 201  STR: 170  Tallness: 17  Tech: 0  Thickness: 43  Vanity: 35  Wings: 27  
+
+BLO: 267   
+ HP: 6806    DEF: 314   CON: 204   SPD: 217   STR: 170   STK: 201
+
+~~ Right Creature ~~
+ Age: 36  Amphibious: 69  Aggressive: 31  atkPerf: 7  Bird: 24  BLO: 208  BST: 2929.74  Bulk: 55  CON: 270  
+Courage: 31  curStam: 213  Cuteness: 44  DEF: 254  defPerf: 64  Effort: 0  eggHappy: 22  Feet: 56  Fickle: 47  Happiness: 21  
+happyRate: 0.97  HP: 8084  Insect: 31  Intelligence: 0  Lifespan: 60  Limb: 48  Litter: 12  Mammal: 1  maxAge: 90  maxStam: 318  
+metabolism: 45  Obediance: 0  Reactions: 0  Reptile: 52  restRate: 0.95  SPD: 187  Spoilage: 21  spoilRate: 0.74  Stamina: 59  
+stamRate: 0.95  Stance: 54  STK: 258  STR: 135  Tallness: 54  Tech: 0  Thickness: 48  Vanity: 24  Wings: 5
+
+BLO: 208    HP: 8084    DEF: 254   CON: 270   SPD: 187   STR: 135   STK: 258
+
+
+2734.02: uses Block
+2929.74: uses Block
+2734.02: uses Strike
+2929.74: uses Blow
+2734.02: uses Block
+2734.02: uses Block
+2929.74: uses Strike
+2734.02: uses Blow
+2929.74: uses Block
+2929.74: uses Blow
+2734.02: uses Blow
+2734.02: uses Blow
+2929.74: uses Block
+2734.02: uses Blow
+2929.74: uses Blow
+2734.02: uses Block
+2929.74: uses Blow
+2734.02: uses Strike
+2734.02: uses Blow
+2929.74: uses Block
+2929.74: uses Blow
+2734.02: uses Block
+2734.02: uses Blow
+2929.74: uses Blow
+2734.02: uses Block
+2929.74: uses Blow
+2734.02: uses Block
+2929.74: uses Blow
+2734.02: uses Block
+2734.02: uses Strike
+2929.74: uses Block
+2734.02: uses Blow
+2929.74: uses Blow
+2734.02: uses Block
+2929.74: uses Blow
+2734.02: uses Blow
+2929.74: uses Blow
+2734.02: uses Block
+2734.02: uses Block
+2929.74: uses Blow

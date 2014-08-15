@@ -1,0 +1,67 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 20/04/2013 21:45:14 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 32  Amphibious: 76  Aggressive: 46  atkPerf: 21  Bird: 13  BLO: 306  BST: 2728.87  Bulk: 33  CON: 280  
+Courage: 30  curStam: 187  Cuteness: 25  DEF: 233  defPerf: 85  Effort: 0  eggHappy: 1  Feet: 21  Fickle: 24  Happiness: 10.5  
+happyRate: 0.74  HP: 6774  Insect: 21  Intelligence: 0  Lifespan: 9  Limb: 59  Litter: 5  Mammal: 7  maxAge: 39  maxStam: 316  
+metabolism: 74  Obediance: 0  Reactions: 0  Reptile: 40  restRate: 1.24  SPD: 161  Spoilage: 10.5  spoilRate: 0.76  Stamina: 58  
+stamRate: 1.24  Stance: 59  STK: 258  STR: 137  Tallness: 59  Tech: 0  Thickness: 48  Vanity: 26  Wings: 16  
+
+BLO: 306   
+ HP: 6774    DEF: 233   CON: 280   SPD: 161   STR: 137   STK: 258
+
+~~ Right Creature ~~
+ Age: 37  Amphibious: 9  Aggressive: 28  atkPerf: 95  Bird: 21  BLO: 217  BST: 2740.47  Bulk: 28  CON: 215  
+Courage: 99  curStam: 74  Cuteness: 41  DEF: 188  defPerf: 60  Effort: 0  eggHappy: 30  Feet: 38  Fickle: 33  Happiness: 25  
+happyRate: 0.83  HP: 6893  Insect: 20  Intelligence: 0  Lifespan: 61  Limb: 16  Litter: 35  Mammal: 43  maxAge: 91  maxStam: 342  
+metabolism: 55  Obediance: 0  Reactions: 0  Reptile: 54  restRate: 1.05  SPD: 263  Spoilage: 25  spoilRate: 0.74  Stamina: 71  
+stamRate: 1.05  Stance: 26  STK: 197  STR: 282  Tallness: 26  Tech: 0  Thickness: 9  Vanity: 24  Wings: 42
+
+BLO: 217    HP: 6893    DEF: 188   CON: 215   SPD: 263   STR: 282   STK: 197
+
+
+2740.47: uses Block
+2728.87: uses Blow
+2740.47: uses Strike
+2740.47: uses Brace
+2728.87: uses Block
+2740.47: uses Strike
+2728.87: uses Strike
+2740.47: uses Strike
+2740.47: uses Strike
+2728.87: uses Block
+2740.47: uses Brace
+2728.87: uses Blow
+2740.47: uses Block
+2740.47: uses Brace
+2728.87: uses Brace
+2740.47: uses Strike
+2740.47: uses Strike
+2728.87: uses Block
+2740.47: uses Block
+2728.87: uses Blow
+2740.47: uses Strike
+2740.47: uses Strike
+2740.47: uses Strike
+2728.87: uses Blow
+2740.47: uses Brace
+2740.47: uses Block
+2740.47: uses Strike
+2740.47: uses Strike
+2728.87: uses Block
+2740.47: uses Brace
+2728.87: uses Blow
+2740.47: uses Brace
+2740.47: uses Block
+2740.47: uses Block
+2728.87: uses Blow
+2740.47: uses Block
+2740.47: uses Strike
+2728.87: uses Blow
+2740.47: uses Block
+2740.47: uses Brace
+2728.87: uses Block
+2740.47: uses Strike

@@ -1,0 +1,178 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 13:26:59 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 46  Amphibious: 56  Aggressive: 45  atkPerf: 15  Bird: 52  BLO: 240  BST: 2396.67  Bulk: 38  CON: 233  
+Courage: 14  curStam: 274  Cuteness: 5  DEF: 260  defPerf: 28  Effort: 0  eggHappy: 51  Feet: 17  Fickle: 40  Happiness: 35.5  
+happyRate: 0.9  HP: 4747  Insect: 45  Intelligence: 0  Lifespan: 61  Limb: 22  Litter: 42  Mammal: 11  maxAge: 91  maxStam: 274  
+metabolism: 13  Obediance: 0  Reactions: 0  Reptile: 14  restRate: 0.63  SPD: 254  Spoilage: 35.5  spoilRate: 0.64  Stamina: 37  
+stamRate: 0.63  Stance: 59  STK: 283  STR: 177  Tallness: 59  Tech: 0  Thickness: 4  Vanity: 14  Wings: 38  
+
+BLO: 240   
+ HP: 4747    DEF: 260   CON: 233   SPD: 254   STR: 177   STK: 283
+
+~~ Right Creature ~~
+ Age: 31  Amphibious: 75  Aggressive: 28  atkPerf: 12  Bird: 43  BLO: 188  BST: 2908.43  Bulk: 57  CON: 224  
+Courage: 2  curStam: 208  Cuteness: 34  DEF: 195  defPerf: 65  Effort: 0  eggHappy: 31  Feet: 18  Fickle: 28  Happiness: 25.5  
+happyRate: 0.78  HP: 7887  Insect: 29  Intelligence: 0  Lifespan: 16  Limb: 57  Litter: 58  Mammal: 42  maxAge: 46  maxStam: 208  
+metabolism: 31  Obediance: 0  Reactions: 0  Reptile: 56  restRate: 0.81  SPD: 229  Spoilage: 25.5  spoilRate: 0.92  Stamina: 4  
+stamRate: 0.81  Stance: 51  STK: 289  STR: 206  Tallness: 51  Tech: 0  Thickness: 12  Vanity: 42  Wings: 37
+
+BLO: 188    HP: 7887    DEF: 195   CON: 224   SPD: 229   STR: 206   STK: 289
+
+
+2396.67: uses Blow
+2908.43: uses Block
+2396.67: uses Brace
+2908.43: uses Block
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Brace
+2908.43: uses Blow
+2396.67: uses Brace
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Brace
+2396.67: uses Brace
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Brace
+2396.67: uses Blow
+2908.43: uses Block
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2396.67: uses Blow
+2908.43: uses Block
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Block
+2908.43: uses Strike
+2396.67: uses Blow
+2908.43: uses Blow
+1: Right Creature Wins (13:27:0.006)
+2396.67: uses Strike
+2396.67: uses Strike
+2908.43: uses Block
+2396.67: uses Block
+2908.43: uses Block
+2396.67: uses Brace
+2908.43: uses Blow
+2396.67: uses Brace
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Block
+2908.43: uses Blow
+2396.67: uses Block
+2908.43: uses Block
+2396.67: uses Blow
+2396.67: uses Blow
+2908.43: uses Brace
+2908.43: uses Blow
+2396.67: uses Strike
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Block
+2908.43: uses Blow
+2396.67: uses Block
+2908.43: uses Blow
+2396.67: uses Brace
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Block
+2396.67: uses Brace
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Block
+2396.67: uses Brace
+2908.43: uses Brace
+2396.67: uses Block
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Strike
+2: Right Creature Wins (13:27:0.706)
+2908.43: uses Block
+2396.67: uses Brace
+2908.43: uses Block
+2396.67: uses Blow
+2908.43: uses Block
+2396.67: uses Brace
+2908.43: uses Brace
+2396.67: uses Brace
+2908.43: uses Brace
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Block
+2396.67: uses Brace
+2908.43: uses Brace
+2396.67: uses Blow
+2908.43: uses Block
+2396.67: uses Blow
+2908.43: uses Block
+2908.43: uses Block
+2396.67: uses Block
+2908.43: uses Blow
+2396.67: uses Block
+2908.43: uses Blow
+2396.67: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Brace
+2908.43: uses Block
+2396.67: uses Blow
+2908.43: uses Block
+2396.67: uses Brace
+2908.43: uses Blow
+2396.67: uses Block
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Brace
+2908.43: uses Blow
+2396.67: uses Strike
+2396.67: uses Strike
+2908.43: uses Brace
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Blow
+2908.43: uses Blow
+3: Right Creature Wins (13:27:1.505)
+2396.67: uses Strike
+2396.67: uses Block
+2908.43: uses Brace
+2396.67: uses Brace
+2908.43: uses Strike
+2396.67: uses Blow
+2908.43: uses Blow
+2396.67: uses Brace

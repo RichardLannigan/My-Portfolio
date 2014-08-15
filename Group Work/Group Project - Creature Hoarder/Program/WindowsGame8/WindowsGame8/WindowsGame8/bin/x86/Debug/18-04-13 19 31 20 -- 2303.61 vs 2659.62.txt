@@ -1,0 +1,50 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:31:20 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 8  Amphibious: 8  Aggressive: 29  atkPerf: 72  Bird: 45  BLO: 262  BST: 2303.61  Bulk: 13  CON: 254  
+Courage: 34  curStam: 330  Cuteness: 23  DEF: 196  defPerf: 91  Effort: 0  eggHappy: 48  Feet: 30  Fickle: 11  Happiness: 34  
+happyRate: 0.61  HP: 4068  Insect: 3  Intelligence: 0  Lifespan: 61  Limb: 24  Litter: 32  Mammal: 39  maxAge: 91  maxStam: 334  
+metabolism: 27  Obediance: 0  Reactions: 0  Reptile: 2  restRate: 0.77  SPD: 187  Spoilage: 34  spoilRate: 0.78  Stamina: 67  
+stamRate: 0.77  Stance: 22  STK: 308  STR: 283  Tallness: 22  Tech: 0  Thickness: 34  Vanity: 28  Wings: 5  
+
+BLO: 262   
+ HP: 4068    DEF: 196   CON: 254   SPD: 187   STR: 283   STK: 308
+
+~~ Right Creature ~~
+ Age: 25  Amphibious: 10  Aggressive: 13  atkPerf: 17  Bird: 41  BLO: 160  BST: 2659.62  Bulk: 13  CON: 260  
+Courage: 82  curStam: 263  Cuteness: 16  DEF: 213  defPerf: 18  Effort: 0  eggHappy: 55  Feet: 19  Fickle: 47  Happiness: 37.5  
+happyRate: 0.97  HP: 6247  Insect: 23  Intelligence: 0  Lifespan: 34  Limb: 25  Litter: 16  Mammal: 36  maxAge: 64  maxStam: 342  
+metabolism: 36  Obediance: 0  Reactions: 0  Reptile: 46  restRate: 0.86  SPD: 247  Spoilage: 37.5  spoilRate: 0.57  Stamina: 71  
+stamRate: 0.86  Stance: 52  STK: 288  STR: 242  Tallness: 52  Tech: 0  Thickness: 18  Vanity: 7  Wings: 38
+
+BLO: 160    HP: 6247    DEF: 213   CON: 260   SPD: 247   STR: 242   STK: 288
+
+
+2659.62: uses Brace
+2303.61: uses Brace
+2659.62: uses Brace
+2303.61: uses Block
+2659.62: uses Block
+2303.61: uses Block
+2659.62: uses Blow
+2659.62: uses Brace
+2303.61: uses Strike
+2659.62: uses Brace
+2303.61: uses Strike
+2659.62: uses Brace
+2303.61: uses Block
+2659.62: uses Strike
+2303.61: uses Block
+2659.62: uses Blow
+2659.62: uses Brace
+2303.61: uses Block
+2659.62: uses Strike
+2303.61: uses Strike
+2659.62: uses Brace
+2303.61: uses Brace
+2659.62: uses Brace
+2659.62: uses Blow
+2303.61: uses Block

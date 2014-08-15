@@ -1,0 +1,51 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:56:33 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 23  Amphibious: 33  Aggressive: 17  atkPerf: 98  Bird: 26  BLO: 238  BST: 2829.18  Bulk: 42  CON: 193  
+Courage: 8  curStam: 53  Cuteness: 9  DEF: 159  defPerf: 36  Effort: 0  eggHappy: 54  Feet: 21  Fickle: 21  Happiness: 37  
+happyRate: 0.71  HP: 7391  Insect: 8  Intelligence: 0  Lifespan: 22  Limb: 31  Litter: 56  Mammal: 45  maxAge: 52  maxStam: 356  
+metabolism: 54  Obediance: 0  Reactions: 0  Reptile: 35  restRate: 1.04  SPD: 245  Spoilage: 37  spoilRate: 0.93  Stamina: 78  
+stamRate: 1.04  Stance: 12  STK: 231  STR: 284  Tallness: 12  Tech: 0  Thickness: 28  Vanity: 43  Wings: 33  
+
+BLO: 238   
+ HP: 7391    DEF: 159   CON: 193   SPD: 245   STR: 284   STK: 231
+
+~~ Right Creature ~~
+ Age: 34  Amphibious: 37  Aggressive: 21  atkPerf: 34  Bird: 12  BLO: 177  BST: 2667.97  Bulk: 52  CON: 252  
+Courage: 75  curStam: 44  Cuteness: 24  DEF: 291  defPerf: 19  Effort: 0  eggHappy: 2  Feet: 41  Fickle: 28  Happiness: 11  
+happyRate: 0.78  HP: 6394  Insect: 42  Intelligence: 0  Lifespan: 17  Limb: 11  Litter: 4  Mammal: 41  maxAge: 47  maxStam: 310  
+metabolism: 63  Obediance: 0  Reactions: 0  Reptile: 24  restRate: 1.13  SPD: 197  Spoilage: 11  spoilRate: 0.54  Stamina: 55  
+stamRate: 1.13  Stance: 49  STK: 188  STR: 285  Tallness: 49  Tech: 0  Thickness: 50  Vanity: 4  Wings: 20
+
+BLO: 177    HP: 6394    DEF: 291   CON: 252   SPD: 197   STR: 285   STK: 188
+
+
+2829.18: uses Block
+2667.97: uses Strike
+2829.18: uses Strike
+2667.97: uses Blow
+2829.18: uses Block
+2829.18: uses Brace
+2667.97: uses Blow
+2829.18: uses Strike
+2829.18: uses Block
+2667.97: uses Blow
+2829.18: uses Brace
+2829.18: uses Block
+2829.18: uses Brace
+2667.97: uses Blow
+2829.18: uses Strike
+2829.18: uses Brace
+2667.97: uses Strike
+2829.18: uses Strike
+2667.97: uses Strike
+2829.18: uses Strike
+2829.18: uses Block
+2667.97: uses Blow
+2829.18: uses Strike
+2667.97: uses Blow
+2829.18: uses Brace
+2829.18: uses Strike

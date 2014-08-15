@@ -1,0 +1,69 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:29:48 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 39  Amphibious: 40  Aggressive: 13  atkPerf: 47  Bird: 32  BLO: 161  BST: 2164.95  Bulk: 10  CON: 324  
+Courage: 62  curStam: 165  Cuteness: 57  DEF: 325  defPerf: 94  Effort: 0  eggHappy: 2  Feet: 41  Fickle: 51  Happiness: 11  
+happyRate: 1.01  HP: 3281  Insect: 41  Intelligence: 0  Lifespan: 61  Limb: 29  Litter: 33  Mammal: 31  maxAge: 91  maxStam: 230  
+metabolism: 72  Obediance: 0  Reactions: 0  Reptile: 7  restRate: 1.22  SPD: 192  Spoilage: 11  spoilRate: 1.03  Stamina: 15  
+stamRate: 1.22  Stance: 53  STK: 247  STR: 260  Tallness: 53  Tech: 0  Thickness: 44  Vanity: 53  Wings: 11  
+
+BLO: 161   
+ HP: 3281    DEF: 325   CON: 324   SPD: 192   STR: 260   STK: 247
+
+~~ Right Creature ~~
+ Age: 9  Amphibious: 16  Aggressive: 39  atkPerf: 54  Bird: 20  BLO: 253  BST: 2399.52  Bulk: 46  CON: 184  
+Courage: 96  curStam: 16  Cuteness: 54  DEF: 279  defPerf: 47  Effort: 0  eggHappy: 33  Feet: 9  Fickle: 40  Happiness: 26.5  
+happyRate: 0.9  HP: 4658  Insect: 47  Intelligence: 0  Lifespan: 3  Limb: 3  Litter: 48  Mammal: 41  maxAge: 33  maxStam: 240  
+metabolism: 8  Obediance: 0  Reactions: 0  Reptile: 3  restRate: 0.58  SPD: 230  Spoilage: 26.5  spoilRate: 0.52  Stamina: 20  
+stamRate: 0.58  Stance: 5  STK: 178  STR: 344  Tallness: 5  Tech: 0  Thickness: 1  Vanity: 2  Wings: 15
+
+BLO: 253    HP: 4658    DEF: 279   CON: 184   SPD: 230   STR: 344   STK: 178
+
+
+2399.52: uses Brace
+2164.95: uses Strike
+2399.52: uses Blow
+2164.95: uses Block
+2399.52: uses Strike
+2164.95: uses Blow
+2399.52: uses Brace
+2399.52: uses Block
+2164.95: uses Block
+2399.52: uses Strike
+2399.52: uses Blow
+2164.95: uses Strike
+2164.95: uses Blow
+2399.52: uses Strike
+2399.52: uses Strike
+2164.95: uses Blow
+2399.52: uses Block
+2164.95: uses Block
+2399.52: uses Block
+2399.52: uses Strike
+2164.95: uses Block
+2399.52: uses Brace
+2164.95: uses Strike
+2399.52: uses Strike
+2164.95: uses Blow
+2399.52: uses Strike
+2399.52: uses Blow
+2164.95: uses Blow
+2399.52: uses Brace
+2399.52: uses Block
+2164.95: uses Blow
+2399.52: uses Block
+2164.95: uses Blow
+2399.52: uses Brace
+2164.95: uses Block
+2399.52: uses Block
+2164.95: uses Strike
+2399.52: uses Strike
+2399.52: uses Strike
+2164.95: uses Strike
+2399.52: uses Block
+2164.95: uses Blow
+2399.52: uses Strike
+2164.95: uses Block

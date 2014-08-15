@@ -1,0 +1,153 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:39:17 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 53  Amphibious: 19  Aggressive: 10  atkPerf: 56  Bird: 50  BLO: 105  BST: 2907.01  Bulk: 38  CON: 281  
+Courage: 90  curStam: 23  Cuteness: 37  DEF: 213  defPerf: 22  Effort: 0  eggHappy: 24  Feet: 21  Fickle: 19  Happiness: 22  
+happyRate: 0.69  HP: 7857  Insect: 25  Intelligence: 0  Lifespan: 52  Limb: 5  Litter: 59  Mammal: 44  maxAge: 82  maxStam: 256  
+metabolism: 95  Obediance: 0  Reactions: 0  Reptile: 59  restRate: 1.45  SPD: 202  Spoilage: 22  spoilRate: 0.57  Stamina: 28  
+stamRate: 1.45  Stance: 58  STK: 249  STR: 287  Tallness: 58  Tech: 0  Thickness: 57  Vanity: 7  Wings: 43  
+
+BLO: 105   
+ HP: 7857    DEF: 213   CON: 281   SPD: 202   STR: 287   STK: 249
+
+~~ Right Creature ~~
+ Age: 47  Amphibious: 27  Aggressive: 53  atkPerf: 96  Bird: 30  BLO: 239  BST: 2807.38  Bulk: 57  CON: 211  
+Courage: 9  curStam: 61  Cuteness: 11  DEF: 246  defPerf: 77  Effort: 0  eggHappy: 55  Feet: 58  Fickle: 28  Happiness: 37.5  
+happyRate: 0.78  HP: 7309  Insect: 46  Intelligence: 0  Lifespan: 46  Limb: 14  Litter: 54  Mammal: 25  maxAge: 76  maxStam: 348  
+metabolism: 81  Obediance: 0  Reactions: 0  Reptile: 47  restRate: 1.31  SPD: 235  Spoilage: 37.5  spoilRate: 0.81  Stamina: 74  
+stamRate: 1.31  Stance: 50  STK: 213  STR: 203  Tallness: 50  Tech: 0  Thickness: 6  Vanity: 31  Wings: 15
+
+BLO: 239    HP: 7309    DEF: 246   CON: 211   SPD: 235   STR: 203   STK: 213
+
+
+2807.38: uses Block
+2907.01: uses Brace
+2807.38: uses Brace
+2907.01: uses Blow
+2807.38: uses Strike
+2807.38: uses Brace
+2907.01: uses Blow
+2807.38: uses Block
+2907.01: uses Brace
+2807.38: uses Block
+2907.01: uses Block
+2807.38: uses Strike
+2907.01: uses Strike
+2807.38: uses Block
+2807.38: uses Block
+2907.01: uses Strike
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Block
+2907.01: uses Strike
+2807.38: uses Strike
+2907.01: uses Block
+2807.38: uses Block
+2907.01: uses Block
+2807.38: uses Block
+2907.01: uses Brace
+2807.38: uses Block
+2907.01: uses Blow
+2807.38: uses Block
+2807.38: uses Block
+2907.01: uses Strike
+2807.38: uses Block
+2907.01: uses Brace
+2807.38: uses Brace
+2907.01: uses Blow
+2807.38: uses Block
+2907.01: uses Strike
+2807.38: uses Brace
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Blow
+2807.38: uses Block
+2807.38: uses Strike
+2907.01: uses Blow
+2807.38: uses Brace
+2807.38: uses Block
+2907.01: uses Strike
+2807.38: uses Brace
+2907.01: uses Strike
+2807.38: uses Block
+2807.38: uses Block
+2907.01: uses Strike
+2807.38: uses Block
+2907.01: uses Blow
+2807.38: uses Block
+2907.01: uses Strike
+2807.38: uses Strike
+2907.01: uses Strike
+2807.38: uses Brace
+2907.01: uses Brace
+2807.38: uses Strike
+2807.38: uses Strike
+2907.01: uses Strike
+2807.38: uses Block
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Blow
+2807.38: uses Strike
+2807.38: uses Block
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Brace
+2907.01: uses Blow
+2807.38: uses Brace
+2807.38: uses Strike
+2807.38: uses Block
+2907.01: uses Strike
+2807.38: uses Strike
+2907.01: uses Strike
+2807.38: uses Strike
+2907.01: uses Strike
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Strike
+2807.38: uses Strike
+2907.01: uses Block
+2807.38: uses Block
+2907.01: uses Strike
+2807.38: uses Strike
+2807.38: uses Block
+2907.01: uses Blow
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Strike
+2807.38: uses Block
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Block
+2907.01: uses Block
+2807.38: uses Strike
+2807.38: uses Brace
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Strike
+2807.38: uses Block
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Strike
+2907.01: uses Block
+2807.38: uses Block
+2907.01: uses Brace
+2807.38: uses Block
+2807.38: uses Strike
+2907.01: uses Brace
+2807.38: uses Brace
+2907.01: uses Blow
+2807.38: uses Block
+2807.38: uses Block

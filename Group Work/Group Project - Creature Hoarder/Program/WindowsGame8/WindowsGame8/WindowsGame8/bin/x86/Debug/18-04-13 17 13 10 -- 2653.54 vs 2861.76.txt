@@ -1,0 +1,155 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:13:10 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 24  Amphibious: 8  Aggressive: 21  atkPerf: 72  Bird: 32  BLO: 222  BST: 2653.54  Bulk: 3  CON: 212  
+Courage: 33  curStam: 80  Cuteness: 32  DEF: 285  defPerf: 94  Effort: 0  eggHappy: 18  Feet: 41  Fickle: 54  Happiness: 19  
+happyRate: 1.04  HP: 6316  Insect: 46  Intelligence: 0  Lifespan: 16  Limb: 48  Litter: 45  Mammal: 8  maxAge: 46  maxStam: 378  
+metabolism: 25  Obediance: 0  Reactions: 0  Reptile: 56  restRate: 0.75  SPD: 306  Spoilage: 19  spoilRate: 0.88  Stamina: 89  
+stamRate: 0.75  Stance: 13  STK: 232  STR: 133  Tallness: 13  Tech: 0  Thickness: 23  Vanity: 38  Wings: 54  
+
+BLO: 222   
+ HP: 6316    DEF: 285   CON: 212   SPD: 306   STR: 133   STK: 232
+
+~~ Right Creature ~~
+ Age: 40  Amphibious: 69  Aggressive: 24  atkPerf: 79  Bird: 49  BLO: 249  BST: 2861.76  Bulk: 54  CON: 161  
+Courage: 91  curStam: 151  Cuteness: 43  DEF: 168  defPerf: 24  Effort: 0  eggHappy: 25  Feet: 3  Fickle: 7  Happiness: 22.5  
+happyRate: 0.57  HP: 7686  Insect: 25  Intelligence: 0  Lifespan: 37  Limb: 43  Litter: 15  Mammal: 39  maxAge: 67  maxStam: 280  
+metabolism: 81  Obediance: 0  Reactions: 0  Reptile: 50  restRate: 1.31  SPD: 219  Spoilage: 22.5  spoilRate: 0.7  Stamina: 40  
+stamRate: 1.31  Stance: 2  STK: 278  STR: 249  Tallness: 2  Tech: 0  Thickness: 22  Vanity: 20  Wings: 34
+
+BLO: 249    HP: 7686    DEF: 168   CON: 161   SPD: 219   STR: 249   STK: 278
+
+
+2653.54: uses Strike
+2861.76: uses Blow
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Block
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Block
+2653.54: uses Blow
+2861.76: uses Strike
+2861.76: uses Blow
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Strike
+2653.54: uses Strike
+2861.76: uses Strike
+2653.54: uses Strike
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Strike
+2861.76: uses Brace
+2653.54: uses Blow
+2861.76: uses Block
+2653.54: uses Strike
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2653.54: uses Blow
+2861.76: uses Brace
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Strike
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2653.54: uses Brace
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Strike
+2653.54: uses Brace
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Brace
+2861.76: uses Strike
+2653.54: uses Blow
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Blow
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Strike
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Strike
+1: Left Creature Wins (17:13:23.408)
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Blow
+2861.76: uses Blow
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Blow
+2653.54: uses Blow
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Blow
+2861.76: uses Blow
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Strike
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Block
+2653.54: uses Block
+2653.54: uses Block
+2861.76: uses Brace
+2653.54: uses Block
+2861.76: uses Strike
+2653.54: uses Block

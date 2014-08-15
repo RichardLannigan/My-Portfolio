@@ -1,0 +1,66 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:56:41 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 3  Amphibious: 100  Aggressive: 27  atkPerf: 8  Bird: 12  BLO: 190  BST: 2557.68  Bulk: 28  CON: 251  
+Courage: 13  curStam: 38  Cuteness: 47  DEF: 315  defPerf: 24  Effort: 0  eggHappy: 60  Feet: 36  Fickle: 15  Happiness: 40  
+happyRate: 0.65  HP: 5757  Insect: 57  Intelligence: 0  Lifespan: 61  Limb: 2  Litter: 3  Mammal: 6  maxAge: 91  maxStam: 258  
+metabolism: 59  Obediance: 0  Reactions: 0  Reptile: 33  restRate: 1.09  SPD: 285  Spoilage: 40  spoilRate: 0.79  Stamina: 29  
+stamRate: 1.09  Stance: 32  STK: 148  STR: 218  Tallness: 32  Tech: 0  Thickness: 44  Vanity: 29  Wings: 60  
+
+BLO: 190   
+ HP: 5757    DEF: 315   CON: 251   SPD: 285   STR: 218   STK: 148
+
+~~ Right Creature ~~
+ Age: 12  Amphibious: 9  Aggressive: 36  atkPerf: 57  Bird: 34  BLO: 254  BST: 2477  Bulk: 31  CON: 216  
+Courage: 4  curStam: 135  Cuteness: 30  DEF: 232  defPerf: 55  Effort: 0  eggHappy: 33  Feet: 13  Fickle: 53  Happiness: 26.5  
+happyRate: 1.03  HP: 5185  Insect: 26  Intelligence: 0  Lifespan: 61  Limb: 12  Litter: 15  Mammal: 37  maxAge: 91  maxStam: 226  
+metabolism: 89  Obediance: 0  Reactions: 0  Reptile: 16  restRate: 1.39  SPD: 205  Spoilage: 26.5  spoilRate: 0.88  Stamina: 13  
+stamRate: 1.39  Stance: 3  STK: 230  STR: 303  Tallness: 3  Tech: 0  Thickness: 53  Vanity: 38  Wings: 29
+
+BLO: 254    HP: 5185    DEF: 232   CON: 216   SPD: 205   STR: 303   STK: 230
+
+
+2557.68: uses Blow
+2477: uses Block
+2557.68: uses Brace
+2477: uses Block
+2557.68: uses Brace
+2557.68: uses Block
+2477: uses Block
+2557.68: uses Blow
+2477: uses Block
+2557.68: uses Brace
+2557.68: uses Blow
+2477: uses Block
+2557.68: uses Brace
+2477: uses Strike
+2557.68: uses Block
+2557.68: uses Blow
+2477: uses Brace
+2477: uses Block
+2557.68: uses Blow
+2557.68: uses Blow
+2477: uses Block
+2557.68: uses Blow
+2477: uses Block
+2557.68: uses Brace
+2477: uses Block
+2557.68: uses Brace
+2477: uses Brace
+2557.68: uses Blow
+2477: uses Block
+2557.68: uses Strike
+2477: uses Brace
+2557.68: uses Blow
+2477: uses Block
+2557.68: uses Brace
+2557.68: uses Blow
+2477: uses Blow
+2557.68: uses Brace
+2477: uses Block
+2557.68: uses Blow
+2557.68: uses Blow
+2477: uses Brace

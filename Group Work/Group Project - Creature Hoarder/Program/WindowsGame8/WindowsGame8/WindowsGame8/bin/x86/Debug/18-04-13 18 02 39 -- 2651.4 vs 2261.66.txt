@@ -1,0 +1,48 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:02:39 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 7  Amphibious: 90  Aggressive: 34  atkPerf: 87  Bird: 44  BLO: 197  BST: 2651.4  Bulk: 19  CON: 216  
+Courage: 24  curStam: 200  Cuteness: 40  DEF: 306  defPerf: 49  Effort: 0  eggHappy: 36  Feet: 55  Fickle: 24  Happiness: 28  
+happyRate: 0.74  HP: 6218  Insect: 57  Intelligence: 0  Lifespan: 61  Limb: 10  Litter: 58  Mammal: 17  maxAge: 91  maxStam: 242  
+metabolism: 46  Obediance: 0  Reactions: 0  Reptile: 52  restRate: 0.96  SPD: 268  Spoilage: 28  spoilRate: 0.87  Stamina: 21  
+stamRate: 0.96  Stance: 24  STK: 219  STR: 202  Tallness: 24  Tech: 0  Thickness: 39  Vanity: 37  Wings: 45  
+
+BLO: 197   
+ HP: 6218    DEF: 306   CON: 216   SPD: 268   STR: 202   STK: 219
+
+~~ Right Creature ~~
+ Age: 33  Amphibious: 53  Aggressive: 49  atkPerf: 62  Bird: 3  BLO: 292  BST: 2261.66  Bulk: 24  CON: 230  
+Courage: 42  curStam: 190  Cuteness: 52  DEF: 189  defPerf: 36  Effort: 0  eggHappy: 5  Feet: 31  Fickle: 15  Happiness: 12.5  
+happyRate: 0.65  HP: 4093  Insect: 6  Intelligence: 0  Lifespan: 61  Limb: 30  Litter: 15  Mammal: 60  maxAge: 91  maxStam: 386  
+metabolism: 95  Obediance: 0  Reactions: 0  Reptile: 3  restRate: 1.45  SPD: 275  Spoilage: 12.5  spoilRate: 0.69  Stamina: 93  
+stamRate: 1.45  Stance: 8  STK: 149  STR: 308  Tallness: 8  Tech: 0  Thickness: 55  Vanity: 19  Wings: 53
+
+BLO: 292    HP: 4093    DEF: 189   CON: 230   SPD: 275   STR: 308   STK: 149
+
+
+2261.66: uses Strike
+2651.4: uses Block
+2651.4: uses Strike
+2261.66: uses Strike
+2651.4: uses Strike
+2261.66: uses Brace
+2261.66: uses Brace
+2651.4: uses Brace
+2261.66: uses Block
+2651.4: uses Brace
+2261.66: uses Block
+2651.4: uses Block
+2261.66: uses Block
+2651.4: uses Blow
+2261.66: uses Brace
+2651.4: uses Blow
+2261.66: uses Strike
+2261.66: uses Strike
+2651.4: uses Block
+2651.4: uses Brace
+2261.66: uses Block
+2651.4: uses Strike
+2261.66: uses Strike

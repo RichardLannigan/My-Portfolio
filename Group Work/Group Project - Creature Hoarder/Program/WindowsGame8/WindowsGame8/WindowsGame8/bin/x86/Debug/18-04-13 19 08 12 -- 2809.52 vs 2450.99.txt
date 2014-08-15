@@ -1,0 +1,80 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:08:12 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 1  Amphibious: 67  Aggressive: 53  atkPerf: 44  Bird: 23  BLO: 247  BST: 2809.52  Bulk: 28  CON: 243  
+Courage: 79  curStam: 216  Cuteness: 29  DEF: 221  defPerf: 73  Effort: 0  eggHappy: 38  Feet: 55  Fickle: 18  Happiness: 29  
+happyRate: 0.68  HP: 7340  Insect: 30  Intelligence: 0  Lifespan: 16  Limb: 56  Litter: 44  Mammal: 13  maxAge: 46  maxStam: 398  
+metabolism: 37  Obediance: 0  Reactions: 0  Reptile: 56  restRate: 0.87  SPD: 295  Spoilage: 29  spoilRate: 0.52  Stamina: 99  
+stamRate: 0.87  Stance: 42  STK: 222  STR: 114  Tallness: 42  Tech: 0  Thickness: 55  Vanity: 2  Wings: 59  
+
+BLO: 247   
+ HP: 7340    DEF: 221   CON: 243   SPD: 295   STR: 114   STK: 222
+
+~~ Right Creature ~~
+ Age: 19  Amphibious: 63  Aggressive: 33  atkPerf: 51  Bird: 7  BLO: 242  BST: 2450.99  Bulk: 43  CON: 188  
+Courage: 57  curStam: 181  Cuteness: 18  DEF: 206  defPerf: 77  Effort: 0  eggHappy: 34  Feet: 6  Fickle: 23  Happiness: 27  
+happyRate: 0.73  HP: 5129  Insect: 29  Intelligence: 0  Lifespan: 15  Limb: 3  Litter: 39  Mammal: 39  maxAge: 45  maxStam: 332  
+metabolism: 62  Obediance: 0  Reactions: 0  Reptile: 13  restRate: 1.12  SPD: 284  Spoilage: 27  spoilRate: 1.07  Stamina: 66  
+stamRate: 1.12  Stance: 13  STK: 183  STR: 322  Tallness: 13  Tech: 0  Thickness: 1  Vanity: 57  Wings: 40
+
+BLO: 242    HP: 5129    DEF: 206   CON: 188   SPD: 284   STR: 322   STK: 183
+
+
+2809.52: uses Blow
+2450.99: uses Block
+2809.52: uses Blow
+2450.99: uses Blow
+2809.52: uses Blow
+2450.99: uses Block
+2809.52: uses Blow
+2450.99: uses Block
+2809.52: uses Block
+2450.99: uses Block
+2809.52: uses Blow
+2450.99: uses Blow
+2809.52: uses Blow
+2450.99: uses Strike
+2450.99: uses Brace
+2809.52: uses Block
+2450.99: uses Brace
+2809.52: uses Blow
+2450.99: uses Blow
+2809.52: uses Blow
+2450.99: uses Block
+2809.52: uses Blow
+2450.99: uses Blow
+2809.52: uses Blow
+2450.99: uses Block
+2809.52: uses Block
+2450.99: uses Strike
+2809.52: uses Strike
+2450.99: uses Blow
+2809.52: uses Strike
+2809.52: uses Block
+2450.99: uses Block
+2809.52: uses Block
+2450.99: uses Block
+2809.52: uses Strike
+2450.99: uses Strike
+2809.52: uses Strike
+2450.99: uses Strike
+2809.52: uses Strike
+2450.99: uses Block
+2809.52: uses Strike
+2450.99: uses Blow
+2809.52: uses Blow
+2450.99: uses Strike
+2809.52: uses Block
+2450.99: uses Strike
+2809.52: uses Block
+2450.99: uses Block
+2809.52: uses Blow
+2450.99: uses Block
+2809.52: uses Block
+2450.99: uses Block
+2809.52: uses Blow
+2450.99: uses Block
+2809.52: uses Strike

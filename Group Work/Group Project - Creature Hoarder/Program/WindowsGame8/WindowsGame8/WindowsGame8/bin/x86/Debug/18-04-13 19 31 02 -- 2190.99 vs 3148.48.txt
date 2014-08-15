@@ -1,0 +1,75 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:31:02 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 26  Amphibious: 53  Aggressive: 16  atkPerf: 75  Bird: 45  BLO: 165  BST: 2190.99  Bulk: 4  CON: 241  
+Courage: 95  curStam: 21  Cuteness: 43  DEF: 238  defPerf: 36  Effort: 0  eggHappy: 16  Feet: 42  Fickle: 42  Happiness: 18  
+happyRate: 0.92  HP: 3626  Insect: 29  Intelligence: 0  Lifespan: 37  Limb: 9  Litter: 45  Mammal: 31  maxAge: 67  maxStam: 326  
+metabolism: 97  Obediance: 0  Reactions: 0  Reptile: 11  restRate: 1.47  SPD: 315  Spoilage: 18  spoilRate: 0.65  Stamina: 63  
+stamRate: 1.47  Stance: 24  STK: 253  STR: 254  Tallness: 24  Tech: 0  Thickness: 15  Vanity: 15  Wings: 45  
+
+BLO: 165   
+ HP: 3626    DEF: 238   CON: 241   SPD: 315   STR: 254   STK: 253
+
+~~ Right Creature ~~
+ Age: 22  Amphibious: 68  Aggressive: 19  atkPerf: 17  Bird: 22  BLO: 211  BST: 3148.48  Bulk: 58  CON: 177  
+Courage: 9  curStam: 145  Cuteness: 42  DEF: 226  defPerf: 47  Effort: 0  eggHappy: 32  Feet: 22  Fickle: 21  Happiness: 26  
+happyRate: 0.71  HP: 9419  Insect: 33  Intelligence: 0  Lifespan: 46  Limb: 4  Litter: 47  Mammal: 12  maxAge: 76  maxStam: 258  
+metabolism: 81  Obediance: 0  Reactions: 0  Reptile: 58  restRate: 1.31  SPD: 213  Spoilage: 26  spoilRate: 0.64  Stamina: 29  
+stamRate: 1.31  Stance: 1  STK: 188  STR: 249  Tallness: 1  Tech: 0  Thickness: 16  Vanity: 14  Wings: 9
+
+BLO: 211    HP: 9419    DEF: 226   CON: 177   SPD: 213   STR: 249   STK: 188
+
+
+2190.99: uses Strike
+3148.48: uses Blow
+2190.99: uses Strike
+2190.99: uses Block
+3148.48: uses Brace
+2190.99: uses Blow
+3148.48: uses Block
+2190.99: uses Strike
+3148.48: uses Block
+2190.99: uses Brace
+2190.99: uses Strike
+3148.48: uses Brace
+2190.99: uses Blow
+3148.48: uses Block
+2190.99: uses Block
+3148.48: uses Blow
+2190.99: uses Strike
+3148.48: uses Blow
+2190.99: uses Block
+2190.99: uses Blow
+3148.48: uses Brace
+2190.99: uses Block
+3148.48: uses Brace
+2190.99: uses Brace
+3148.48: uses Blow
+2190.99: uses Strike
+2190.99: uses Brace
+2190.99: uses Strike
+3148.48: uses Brace
+2190.99: uses Strike
+3148.48: uses Brace
+2190.99: uses Strike
+2190.99: uses Blow
+3148.48: uses Brace
+3148.48: uses Brace
+2190.99: uses Strike
+2190.99: uses Brace
+3148.48: uses Blow
+2190.99: uses Brace
+2190.99: uses Brace
+2190.99: uses Strike
+3148.48: uses Brace
+2190.99: uses Blow
+3148.48: uses Brace
+3148.48: uses Brace
+2190.99: uses Strike
+2190.99: uses Brace
+3148.48: uses Blow
+2190.99: uses Strike
+2190.99: uses Block

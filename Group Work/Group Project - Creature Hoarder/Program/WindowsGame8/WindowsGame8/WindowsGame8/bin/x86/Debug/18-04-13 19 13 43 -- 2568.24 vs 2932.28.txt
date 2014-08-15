@@ -1,0 +1,120 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:13:43 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 28  Amphibious: 12  Aggressive: 45  atkPerf: 78  Bird: 10  BLO: 301  BST: 2568.24  Bulk: 25  CON: 248  
+Courage: 18  curStam: 46  Cuteness: 49  DEF: 248  defPerf: 46  Effort: 0  eggHappy: 36  Feet: 36  Fickle: 33  Happiness: 28  
+happyRate: 0.83  HP: 5804  Insect: 24  Intelligence: 0  Lifespan: 61  Limb: 46  Litter: 41  Mammal: 9  maxAge: 91  maxStam: 338  
+metabolism: 14  Obediance: 0  Reactions: 0  Reptile: 32  restRate: 0.64  SPD: 252  Spoilage: 28  spoilRate: 1.1  Stamina: 69  
+stamRate: 0.64  Stance: 31  STK: 194  STR: 165  Tallness: 31  Tech: 0  Thickness: 38  Vanity: 60  Wings: 39  
+
+BLO: 301   
+ HP: 5804    DEF: 248   CON: 248   SPD: 252   STR: 165   STK: 194
+
+~~ Right Creature ~~
+ Age: 13  Amphibious: 90  Aggressive: 5  atkPerf: 93  Bird: 6  BLO: 154  BST: 2932.28  Bulk: 42  CON: 267  
+Courage: 77  curStam: 202  Cuteness: 47  DEF: 282  defPerf: 52  Effort: 0  eggHappy: 5  Feet: 38  Fickle: 27  Happiness: 12.5  
+happyRate: 0.77  HP: 8122  Insect: 46  Intelligence: 0  Lifespan: 61  Limb: 58  Litter: 22  Mammal: 45  maxAge: 91  maxStam: 274  
+metabolism: 12  Obediance: 0  Reactions: 0  Reptile: 60  restRate: 0.62  SPD: 211  Spoilage: 12.5  spoilRate: 0.88  Stamina: 37  
+stamRate: 0.62  Stance: 46  STK: 187  STR: 206  Tallness: 46  Tech: 0  Thickness: 60  Vanity: 38  Wings: 40
+
+BLO: 154    HP: 8122    DEF: 282   CON: 267   SPD: 211   STR: 206   STK: 187
+
+
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Block
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Block
+2932.28: uses Strike
+2568.24: uses Block
+2932.28: uses Strike
+2568.24: uses Brace
+2568.24: uses Block
+2932.28: uses Blow
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Brace
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Blow
+2932.28: uses Strike
+2932.28: uses Strike
+2568.24: uses Block
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Strike
+2932.28: uses Strike
+2568.24: uses Block
+2568.24: uses Block
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Block
+2932.28: uses Strike
+2568.24: uses Strike
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Block
+2568.24: uses Block
+2932.28: uses Block
+2568.24: uses Brace
+2932.28: uses Brace
+2568.24: uses Strike
+2932.28: uses Block
+2568.24: uses Strike
+2932.28: uses Strike
+2568.24: uses Strike
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Brace
+2568.24: uses Brace
+2932.28: uses Block
+2568.24: uses Block
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Strike
+2932.28: uses Strike
+2568.24: uses Strike
+2932.28: uses Strike
+2568.24: uses Block
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Block
+2932.28: uses Strike
+2568.24: uses Strike
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Strike
+2568.24: uses Strike
+2932.28: uses Strike
+2568.24: uses Strike
+2932.28: uses Strike
+2568.24: uses Block
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Brace
+2932.28: uses Strike
+2568.24: uses Block
+2568.24: uses Strike
+2932.28: uses Block

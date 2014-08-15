@@ -1,0 +1,60 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:57:03 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 0  Amphibious: 97  Aggressive: 26  atkPerf: 59  Bird: 49  BLO: 249  BST: 2693.23  Bulk: 57  CON: 144  
+Courage: 76  curStam: 14  Cuteness: 1  DEF: 217  defPerf: 45  Effort: 0  eggHappy: 18  Feet: 29  Fickle: 33  Happiness: 19  
+happyRate: 0.83  HP: 6552  Insect: 48  Intelligence: 0  Lifespan: 58  Limb: 32  Litter: 11  Mammal: 54  maxAge: 88  maxStam: 386  
+metabolism: 28  Obediance: 0  Reactions: 0  Reptile: 25  restRate: 0.78  SPD: 214  Spoilage: 19  spoilRate: 0.84  Stamina: 93  
+stamRate: 0.78  Stance: 3  STK: 266  STR: 294  Tallness: 3  Tech: 0  Thickness: 20  Vanity: 34  Wings: 25  
+
+BLO: 249   
+ HP: 6552    DEF: 217   CON: 144   SPD: 214   STR: 294   STK: 266
+
+~~ Right Creature ~~
+ Age: 14  Amphibious: 32  Aggressive: 38  atkPerf: 90  Bird: 20  BLO: 205  BST: 2646.25  Bulk: 38  CON: 246  
+Courage: 60  curStam: 63  Cuteness: 32  DEF: 194  defPerf: 82  Effort: 0  eggHappy: 12  Feet: 9  Fickle: 39  Happiness: 16  
+happyRate: 0.89  HP: 6274  Insect: 23  Intelligence: 0  Lifespan: 38  Limb: 22  Litter: 52  Mammal: 49  maxAge: 68  maxStam: 206  
+metabolism: 61  Obediance: 0  Reactions: 0  Reptile: 41  restRate: 1.11  SPD: 236  Spoilage: 16  spoilRate: 0.62  Stamina: 3  
+stamRate: 1.11  Stance: 53  STK: 211  STR: 299  Tallness: 53  Tech: 0  Thickness: 2  Vanity: 12  Wings: 35
+
+BLO: 205    HP: 6274    DEF: 194   CON: 246   SPD: 236   STR: 299   STK: 211
+
+
+2646.25: uses Block
+2693.23: uses Blow
+2646.25: uses Block
+2693.23: uses Blow
+2646.25: uses Block
+2693.23: uses Strike
+2646.25: uses Block
+2693.23: uses Blow
+2646.25: uses Block
+2693.23: uses Blow
+2646.25: uses Strike
+2646.25: uses Strike
+2693.23: uses Strike
+2646.25: uses Strike
+2693.23: uses Strike
+2646.25: uses Strike
+2693.23: uses Blow
+2646.25: uses Block
+2646.25: uses Strike
+2693.23: uses Strike
+2646.25: uses Block
+2693.23: uses Brace
+2646.25: uses Brace
+2693.23: uses Strike
+2646.25: uses Block
+2693.23: uses Brace
+2646.25: uses Block
+2693.23: uses Brace
+2646.25: uses Strike
+2693.23: uses Blow
+2646.25: uses Strike
+2646.25: uses Block
+2693.23: uses Blow
+2646.25: uses Strike
+2646.25: uses Block

@@ -1,0 +1,50 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 16:58:16 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 31  Amphibious: 60  Aggressive: 51  atkPerf: 72  Bird: 56  BLO: 238  BST: 2696.49  Bulk: 51  CON: 205  
+Courage: 87  curStam: 123  Cuteness: 21  DEF: 192  defPerf: 73  Effort: 0  eggHappy: 4  Feet: 38  Fickle: 39  Happiness: 12  
+happyRate: 0.89  HP: 6564  Insect: 35  Intelligence: 0  Lifespan: 22  Limb: 47  Litter: 40  Mammal: 37  maxAge: 52  maxStam: 320  
+metabolism: 18  Obediance: 0  Reactions: 0  Reptile: 49  restRate: 0.68  SPD: 301  Spoilage: 12  spoilRate: 0.87  Stamina: 60  
+stamRate: 0.68  Stance: 49  STK: 277  STR: 172  Tallness: 49  Tech: 0  Thickness: 3  Vanity: 37  Wings: 53  
+
+BLO: 238   
+ HP: 6564    DEF: 192   CON: 205   SPD: 301   STR: 172   STK: 277
+
+~~ Right Creature ~~
+ Age: 14  Amphibious: 38  Aggressive: 42  atkPerf: 38  Bird: 17  BLO: 221  BST: 2294.26  Bulk: 26  CON: 250  
+Courage: 49  curStam: 179  Cuteness: 13  DEF: 299  defPerf: 98  Effort: 0  eggHappy: 14  Feet: 50  Fickle: 59  Happiness: 17  
+happyRate: 1.09  HP: 3990  Insect: 57  Intelligence: 0  Lifespan: 31  Limb: 25  Litter: 40  Mammal: 53  maxAge: 61  maxStam: 296  
+metabolism: 95  Obediance: 0  Reactions: 0  Reptile: 11  restRate: 1.45  SPD: 261  Spoilage: 17  spoilRate: 0.83  Stamina: 48  
+stamRate: 1.45  Stance: 58  STK: 194  STR: 272  Tallness: 58  Tech: 0  Thickness: 25  Vanity: 33  Wings: 31
+
+BLO: 221    HP: 3990    DEF: 299   CON: 250   SPD: 261   STR: 272   STK: 194
+
+
+2696.49: uses Blow
+2294.26: uses Blow
+2696.49: uses Strike
+2294.26: uses Strike
+2696.49: uses Strike
+2294.26: uses Block
+2294.26: uses Block
+2294.26: uses Blow
+2696.49: uses Block
+2696.49: uses Blow
+2696.49: uses Strike
+2294.26: uses Blow
+2696.49: uses Strike
+2696.49: uses Blow
+2294.26: uses Block
+2294.26: uses Strike
+2294.26: uses Blow
+2696.49: uses Block
+2696.49: uses Strike
+2696.49: uses Blow
+2294.26: uses Block
+2294.26: uses Strike
+2696.49: uses Block
+2696.49: uses Blow
+2294.26: uses Blow

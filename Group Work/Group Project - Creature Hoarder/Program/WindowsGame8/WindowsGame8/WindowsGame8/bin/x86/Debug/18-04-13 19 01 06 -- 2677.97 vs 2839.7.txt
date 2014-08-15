@@ -1,0 +1,86 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 19:01:06 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 26  Amphibious: 43  Aggressive: 33  atkPerf: 85  Bird: 25  BLO: 256  BST: 2677.97  Bulk: 32  CON: 236  
+Courage: 77  curStam: 135  Cuteness: 46  DEF: 217  defPerf: 5  Effort: 0  eggHappy: 49  Feet: 57  Fickle: 27  Happiness: 34.5  
+happyRate: 0.77  HP: 6541  Insect: 20  Intelligence: 0  Lifespan: 61  Limb: 21  Litter: 49  Mammal: 8  maxAge: 91  maxStam: 230  
+metabolism: 32  Obediance: 0  Reactions: 0  Reptile: 40  restRate: 0.82  SPD: 256  Spoilage: 34.5  spoilRate: 0.65  Stamina: 15  
+stamRate: 0.82  Stance: 18  STK: 197  STR: 208  Tallness: 18  Tech: 0  Thickness: 21  Vanity: 15  Wings: 15  
+
+BLO: 256   
+ HP: 6541    DEF: 217   CON: 236   SPD: 256   STR: 208   STK: 197
+
+~~ Right Creature ~~
+ Age: 25  Amphibious: 17  Aggressive: 24  atkPerf: 43  Bird: 48  BLO: 185  BST: 2839.7  Bulk: 33  CON: 232  
+Courage: 67  curStam: 151  Cuteness: 19  DEF: 274  defPerf: 1  Effort: 0  eggHappy: 3  Feet: 6  Fickle: 49  Happiness: 11.5  
+happyRate: 0.99  HP: 7476  Insect: 54  Intelligence: 0  Lifespan: 11  Limb: 3  Litter: 47  Mammal: 17  maxAge: 41  maxStam: 314  
+metabolism: 51  Obediance: 0  Reactions: 0  Reptile: 48  restRate: 1.01  SPD: 153  Spoilage: 11.5  spoilRate: 0.78  Stamina: 57  
+stamRate: 1.01  Stance: 41  STK: 265  STR: 235  Tallness: 41  Tech: 0  Thickness: 39  Vanity: 28  Wings: 24
+
+BLO: 185    HP: 7476    DEF: 274   CON: 232   SPD: 153   STR: 235   STK: 265
+
+
+2677.97: uses Brace
+2839.7: uses Brace
+2677.97: uses Brace
+2839.7: uses Blow
+2677.97: uses Strike
+2677.97: uses Brace
+2677.97: uses Brace
+2839.7: uses Brace
+2677.97: uses Blow
+2839.7: uses Strike
+2677.97: uses Strike
+2839.7: uses Strike
+2677.97: uses Brace
+2677.97: uses Brace
+2839.7: uses Strike
+2677.97: uses Brace
+2839.7: uses Brace
+2677.97: uses Brace
+2677.97: uses Brace
+2839.7: uses Strike
+2677.97: uses Brace
+2839.7: uses Strike
+2677.97: uses Brace
+2677.97: uses Strike
+2839.7: uses Blow
+2677.97: uses Strike
+2677.97: uses Strike
+2677.97: uses Brace
+2839.7: uses Blow
+2677.97: uses Strike
+2677.97: uses Strike
+2677.97: uses Strike
+2839.7: uses Brace
+2677.97: uses Brace
+2677.97: uses Strike
+2839.7: uses Brace
+2677.97: uses Brace
+2839.7: uses Brace
+2677.97: uses Strike
+2677.97: uses Strike
+2839.7: uses Brace
+2677.97: uses Strike
+2839.7: uses Blow
+2677.97: uses Strike
+2677.97: uses Brace
+2677.97: uses Strike
+2839.7: uses Brace
+2677.97: uses Brace
+2677.97: uses Brace
+2839.7: uses Brace
+2677.97: uses Strike
+2677.97: uses Brace
+2839.7: uses Blow
+2677.97: uses Strike
+2677.97: uses Strike
+2677.97: uses Brace
+2839.7: uses Blow
+2677.97: uses Strike
+2677.97: uses Brace
+2677.97: uses Brace
+2839.7: uses Strike

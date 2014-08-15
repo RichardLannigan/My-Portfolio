@@ -1,0 +1,115 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:15:48 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 58  Amphibious: 10  Aggressive: 2  atkPerf: 67  Bird: 17  BLO: 212  BST: 2441.09  Bulk: 4  CON: 243  
+Courage: 98  curStam: 111  Cuteness: 4  DEF: 237  defPerf: 13  Effort: 0  eggHappy: 27  Feet: 50  Fickle: 8  Happiness: 23.5  
+happyRate: 0.58  HP: 4937  Insect: 16  Intelligence: 0  Lifespan: 59  Limb: 10  Litter: 55  Mammal: 35  maxAge: 89  maxStam: 330  
+metabolism: 99  Obediance: 0  Reactions: 0  Reptile: 3  restRate: 1.49  SPD: 227  Spoilage: 23.5  spoilRate: 0.88  Stamina: 65  
+stamRate: 1.49  Stance: 2  STK: 220  STR: 314  Tallness: 2  Tech: 0  Thickness: 48  Vanity: 38  Wings: 12  
+
+BLO: 212   
+ HP: 4937    DEF: 237   CON: 243   SPD: 227   STR: 314   STK: 220
+
+~~ Right Creature ~~
+ Age: 23  Amphibious: 74  Aggressive: 8  atkPerf: 70  Bird: 6  BLO: 242  BST: 2888.17  Bulk: 34  CON: 205  
+Courage: 13  curStam: 112  Cuteness: 13  DEF: 175  defPerf: 39  Effort: 0  eggHappy: 55  Feet: 21  Fickle: 39  Happiness: 37.5  
+happyRate: 0.89  HP: 7830  Insect: 12  Intelligence: 0  Lifespan: 33  Limb: 48  Litter: 46  Mammal: 37  maxAge: 63  maxStam: 358  
+metabolism: 35  Obediance: 0  Reactions: 0  Reptile: 43  restRate: 0.85  SPD: 238  Spoilage: 37.5  spoilRate: 0.57  Stamina: 79  
+stamRate: 0.85  Stance: 2  STK: 203  STR: 259  Tallness: 2  Tech: 0  Thickness: 4  Vanity: 7  Wings: 17
+
+BLO: 242    HP: 7830    DEF: 175   CON: 205   SPD: 238   STR: 259   STK: 203
+
+
+2888.17: uses Strike
+2441.09: uses Strike
+2888.17: uses Strike
+2441.09: uses Brace
+2888.17: uses Strike
+2441.09: uses Strike
+2888.17: uses Strike
+2441.09: uses Strike
+2888.17: uses Block
+2441.09: uses Blow
+2888.17: uses Strike
+2441.09: uses Blow
+2888.17: uses Strike
+2888.17: uses Brace
+2441.09: uses Blow
+2888.17: uses Block
+2888.17: uses Brace
+2441.09: uses Blow
+2888.17: uses Strike
+2888.17: uses Block
+2441.09: uses Brace
+2888.17: uses Blow
+2441.09: uses Brace
+2441.09: uses Brace
+2888.17: uses Strike
+2441.09: uses Block
+2888.17: uses Blow
+2441.09: uses Brace
+2441.09: uses Strike
+2888.17: uses Strike
+2441.09: uses Brace
+2888.17: uses Strike
+2441.09: uses Block
+2888.17: uses Strike
+2441.09: uses Strike
+2888.17: uses Blow
+2441.09: uses Brace
+2441.09: uses Strike
+2888.17: uses Brace
+2441.09: uses Blow
+2888.17: uses Strike
+2888.17: uses Strike
+2441.09: uses Brace
+2888.17: uses Strike
+2441.09: uses Brace
+2888.17: uses Strike
+2441.09: uses Brace
+2888.17: uses Blow
+2441.09: uses Brace
+2441.09: uses Brace
+2888.17: uses Blow
+2441.09: uses Brace
+2441.09: uses Brace
+2888.17: uses Blow
+2441.09: uses Brace
+2441.09: uses Brace
+2888.17: uses Strike
+2441.09: uses Brace
+2888.17: uses Strike
+1: Right Creature Wins (17:15:58.786)
+2441.09: uses Strike
+2888.17: uses Block
+2441.09: uses Brace
+2888.17: uses Block
+2441.09: uses Brace
+2888.17: uses Block
+2441.09: uses Brace
+2888.17: uses Block
+2441.09: uses Strike
+2888.17: uses Blow
+2441.09: uses Blow
+2888.17: uses Block
+2441.09: uses Strike
+2888.17: uses Blow
+2441.09: uses Brace
+2441.09: uses Strike
+2888.17: uses Strike
+2441.09: uses Strike
+2888.17: uses Block
+2441.09: uses Strike
+2888.17: uses Strike
+2441.09: uses Blow
+2888.17: uses Strike
+2888.17: uses Brace
+2441.09: uses Strike
+2888.17: uses Brace
+2441.09: uses Blow
+2888.17: uses Strike
+2888.17: uses Blow
+2441.09: uses Brace

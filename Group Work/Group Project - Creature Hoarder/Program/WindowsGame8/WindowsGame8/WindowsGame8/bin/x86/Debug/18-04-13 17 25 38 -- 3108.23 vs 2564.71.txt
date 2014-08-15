@@ -1,0 +1,170 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 17:25:38 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 27  Amphibious: 59  Aggressive: 9  atkPerf: 72  Bird: 8  BLO: 167  BST: 3108.23  Bulk: 58  CON: 273  
+Courage: 94  curStam: 23  Cuteness: 32  DEF: 183  defPerf: 51  Effort: 0  eggHappy: 44  Feet: 55  Fickle: 22  Happiness: 32  
+happyRate: 0.72  HP: 9138  Insect: 4  Intelligence: 0  Lifespan: 26  Limb: 49  Litter: 14  Mammal: 14  maxAge: 56  maxStam: 206  
+metabolism: 39  Obediance: 0  Reactions: 0  Reptile: 52  restRate: 0.89  SPD: 266  Spoilage: 32  spoilRate: 0.66  Stamina: 3  
+stamRate: 0.89  Stance: 58  STK: 215  STR: 175  Tallness: 58  Tech: 0  Thickness: 30  Vanity: 16  Wings: 19  
+
+BLO: 167   
+ HP: 9138    DEF: 183   CON: 273   SPD: 266   STR: 175   STK: 215
+
+~~ Right Creature ~~
+ Age: 7  Amphibious: 41  Aggressive: 29  atkPerf: 63  Bird: 27  BLO: 197  BST: 2564.71  Bulk: 21  CON: 186  
+Courage: 7  curStam: 10  Cuteness: 31  DEF: 294  defPerf: 85  Effort: 0  eggHappy: 28  Feet: 41  Fickle: 38  Happiness: 24  
+happyRate: 0.88  HP: 5845  Insect: 57  Intelligence: 0  Lifespan: 61  Limb: 17  Litter: 23  Mammal: 43  maxAge: 91  maxStam: 382  
+metabolism: 70  Obediance: 0  Reactions: 0  Reptile: 35  restRate: 1.2  SPD: 276  Spoilage: 24  spoilRate: 0.7  Stamina: 91  
+stamRate: 1.2  Stance: 17  STK: 175  STR: 267  Tallness: 17  Tech: 0  Thickness: 31  Vanity: 20  Wings: 53
+
+BLO: 197    HP: 5845    DEF: 294   CON: 186   SPD: 276   STR: 267   STK: 175
+
+
+2564.71: uses Strike
+3108.23: uses Block
+2564.71: uses Blow
+3108.23: uses Strike
+3108.23: uses Blow
+2564.71: uses Strike
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Strike
+2564.71: uses Block
+3108.23: uses Blow
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Strike
+2564.71: uses Block
+3108.23: uses Blow
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Strike
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Blow
+3108.23: uses Blow
+2564.71: uses Blow
+3108.23: uses Block
+2564.71: uses Blow
+3108.23: uses Brace
+3108.23: uses Blow
+2564.71: uses Strike
+2564.71: uses Block
+3108.23: uses Blow
+2564.71: uses Block
+3108.23: uses Block
+2564.71: uses Brace
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Block
+2564.71: uses Block
+3108.23: uses Blow
+2564.71: uses Strike
+2564.71: uses Blow
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Blow
+2564.71: uses Block
+2564.71: uses Block
+3108.23: uses Brace
+2564.71: uses Blow
+3108.23: uses Block
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Brace
+2564.71: uses Strike
+3108.23: uses Block
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Blow
+3108.23: uses Block
+3108.23: uses Strike
+2564.71: uses Block
+2564.71: uses Block
+3108.23: uses Blow
+2564.71: uses Blow
+3108.23: uses Strike
+3108.23: uses Strike
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Strike
+2564.71: uses Block
+3108.23: uses Blow
+2564.71: uses Strike
+2564.71: uses Strike
+3108.23: uses Brace
+2564.71: uses Blow
+3108.23: uses Brace
+3108.23: uses Block
+2564.71: uses Brace
+3108.23: uses Block
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Block
+2564.71: uses Block
+3108.23: uses Block
+2564.71: uses Block
+3108.23: uses Brace
+2564.71: uses Brace
+3108.23: uses Block
+2564.71: uses Block
+3108.23: uses Brace
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Block
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Brace
+3108.23: uses Blow
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Blow
+2564.71: uses Block
+3108.23: uses Strike
+2564.71: uses Brace
+2564.71: uses Blow
+3108.23: uses Strike
+3108.23: uses Blow
+2564.71: uses Blow
+3108.23: uses Block
+2564.71: uses Strike
+3108.23: uses Strike
+2564.71: uses Strike
+3108.23: uses Strike
+2564.71: uses Brace
+3108.23: uses Brace
+2564.71: uses Strike
+3108.23: uses Strike
+2564.71: uses Block
+3108.23: uses Block
+2564.71: uses Strike
+3108.23: uses Brace
+2564.71: uses Block
+3108.23: uses Brace
+2564.71: uses Strike
+3108.23: uses Block
+2564.71: uses Blow
+3108.23: uses Strike
+2564.71: uses Strike
+2564.71: uses Strike
+3108.23: uses Blow
+2564.71: uses Block
+2564.71: uses Block
+3108.23: uses Block
+2564.71: uses Brace
+3108.23: uses Strike
+2564.71: uses Blow
+3108.23: uses Brace
+1: Right Creature Wins (17:26:0.144)

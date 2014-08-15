@@ -1,0 +1,50 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:45:17 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 30  Amphibious: 22  Aggressive: 56  atkPerf: 51  Bird: 20  BLO: 230  BST: 2531.95  Bulk: 36  CON: 222  
+Courage: 20  curStam: 0  Cuteness: 31  DEF: 205  defPerf: 22  Effort: 0  eggHappy: 11  Feet: 48  Fickle: 54  Happiness: 15.5  
+happyRate: 1.04  HP: 5597  Insect: 35  Intelligence: 0  Lifespan: 61  Limb: 1  Litter: 3  Mammal: 58  maxAge: 91  maxStam: 260  
+metabolism: 90  Obediance: 0  Reactions: 0  Reptile: 34  restRate: 1.4  SPD: 281  Spoilage: 15.5  spoilRate: 0.72  Stamina: 30  
+stamRate: 1.4  Stance: 30  STK: 142  STR: 333  Tallness: 30  Tech: 0  Thickness: 36  Vanity: 22  Wings: 50  
+
+BLO: 230   
+ HP: 5597    DEF: 205   CON: 222   SPD: 281   STR: 333   STK: 142
+
+~~ Right Creature ~~
+ Age: 26  Amphibious: 94  Aggressive: 2  atkPerf: 11  Bird: 5  BLO: 200  BST: 2816.17  Bulk: 46  CON: 245  
+Courage: 80  curStam: 345  Cuteness: 11  DEF: 218  defPerf: 43  Effort: 0  eggHappy: 13  Feet: 49  Fickle: 25  Happiness: 16.5  
+happyRate: 0.75  HP: 7264  Insect: 21  Intelligence: 0  Lifespan: 49  Limb: 55  Litter: 53  Mammal: 13  maxAge: 79  maxStam: 364  
+metabolism: 82  Obediance: 0  Reactions: 0  Reptile: 21  restRate: 1.32  SPD: 296  Spoilage: 16.5  spoilRate: 0.54  Stamina: 82  
+stamRate: 1.32  Stance: 39  STK: 223  STR: 181  Tallness: 39  Tech: 0  Thickness: 2  Vanity: 4  Wings: 20
+
+BLO: 200    HP: 7264    DEF: 218   CON: 245   SPD: 296   STR: 181   STK: 223
+
+
+2816.17: uses Blow
+2531.95: uses Brace
+2531.95: uses Block
+2816.17: uses Blow
+2531.95: uses Brace
+2531.95: uses Block
+2816.17: uses Blow
+2531.95: uses Block
+2816.17: uses Blow
+2531.95: uses Blow
+2816.17: uses Blow
+2531.95: uses Brace
+2531.95: uses Strike
+2816.17: uses Block
+2531.95: uses Brace
+2816.17: uses Blow
+2531.95: uses Block
+2816.17: uses Blow
+2531.95: uses Strike
+2531.95: uses Block
+2816.17: uses Blow
+2531.95: uses Strike
+2531.95: uses Strike
+2816.17: uses Blow
+2531.95: uses Brace

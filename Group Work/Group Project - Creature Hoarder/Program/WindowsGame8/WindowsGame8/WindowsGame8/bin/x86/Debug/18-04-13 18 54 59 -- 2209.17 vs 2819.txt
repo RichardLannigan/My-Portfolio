@@ -1,0 +1,53 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ 18/04/2013 18:54:59 Creature Fight ~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~ Left Creature ~~
+ Age: 22  Amphibious: 87  Aggressive: 17  atkPerf: 28  Bird: 35  BLO: 178  BST: 2209.17  Bulk: 16  CON: 275  
+Courage: 7  curStam: 104  Cuteness: 35  DEF: 291  defPerf: 5  Effort: 0  eggHappy: 22  Feet: 28  Fickle: 18  Happiness: 21  
+happyRate: 0.68  HP: 3650  Insect: 40  Intelligence: 0  Lifespan: 35  Limb: 24  Litter: 58  Mammal: 34  maxAge: 65  maxStam: 230  
+metabolism: 53  Obediance: 0  Reactions: 0  Reptile: 6  restRate: 1.03  SPD: 232  Spoilage: 21  spoilRate: 0.66  Stamina: 15  
+stamRate: 1.03  Stance: 58  STK: 262  STR: 241  Tallness: 58  Tech: 0  Thickness: 34  Vanity: 16  Wings: 30  
+
+BLO: 178   
+ HP: 3650    DEF: 291   CON: 275   SPD: 232   STR: 241   STK: 262
+
+~~ Right Creature ~~
+ Age: 21  Amphibious: 59  Aggressive: 37  atkPerf: 26  Bird: 6  BLO: 259  BST: 2819  Bulk: 31  CON: 205  
+Courage: 34  curStam: 185  Cuteness: 1  DEF: 285  defPerf: 96  Effort: 0  eggHappy: 6  Feet: 14  Fickle: 40  Happiness: 13  
+happyRate: 0.9  HP: 7331  Insect: 57  Intelligence: 0  Lifespan: 48  Limb: 18  Litter: 13  Mammal: 12  maxAge: 78  maxStam: 316  
+metabolism: 25  Obediance: 0  Reactions: 0  Reptile: 48  restRate: 0.75  SPD: 234  Spoilage: 13  spoilRate: 1.07  Stamina: 58  
+stamRate: 0.75  Stance: 34  STK: 172  STR: 197  Tallness: 34  Tech: 0  Thickness: 15  Vanity: 57  Wings: 33
+
+BLO: 259    HP: 7331    DEF: 285   CON: 205   SPD: 234   STR: 197   STK: 172
+
+
+2819: uses Blow
+2209.17: uses Brace
+2209.17: uses Blow
+2819: uses Blow
+2209.17: uses Blow
+2819: uses Block
+2819: uses Block
+2209.17: uses Blow
+2819: uses Blow
+2209.17: uses Brace
+2209.17: uses Brace
+2819: uses Strike
+2209.17: uses Blow
+2819: uses Block
+2819: uses Block
+2209.17: uses Blow
+2819: uses Blow
+2209.17: uses Blow
+2819: uses Blow
+2209.17: uses Brace
+2209.17: uses Blow
+2819: uses Strike
+2819: uses Block
+2209.17: uses Brace
+2819: uses Block
+2209.17: uses Blow
+2819: uses Block
+2209.17: uses Blow
