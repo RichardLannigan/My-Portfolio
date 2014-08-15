@@ -1,0 +1,17 @@
+Counter_Top = first menu player sees when entering shop, training, arena, dock.
+
+Buttons:
+   Buy
+   Sell
+   Leave
+
+Counter_Buy-Sell
+
+Buttons:
+   Food
+   Weapons
+   Armour
+   Potions
+   Leave
+   
+

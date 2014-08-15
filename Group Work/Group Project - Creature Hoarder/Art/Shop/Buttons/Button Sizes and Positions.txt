@@ -1,0 +1,16 @@
+Button SIzes
+Individual : 87*120
+Complete Set: 87*360
+
+Button Positions
+Armour: 874*559
+Weapons: 968*559
+Potions: 1062*559
+Food: 1157*559
+
+old Button Positions
+Armour: 674*559
+Weapons: 768*559
+Potions: 862*559
+Food: 957*559
+

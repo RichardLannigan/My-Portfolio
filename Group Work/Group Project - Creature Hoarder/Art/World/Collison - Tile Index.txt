@@ -1,0 +1,8 @@
+0 = Can't walk.
+1 = Can walk.
+2 = Ranch.
+3 = Shop.
+4 = Arena.
+5 = Training.
+6 = Fast Travel.
+7 = Dock.
